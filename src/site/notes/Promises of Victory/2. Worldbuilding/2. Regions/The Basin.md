@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Promises of Victory/2. Worldbuilding/2. Regions/The Basin/","title":"The Basin","noteIcon":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/2-worldbuilding/2-regions/the-basin/","title":"The Basin","noteIcon":"Region"}
 ---
 
 
