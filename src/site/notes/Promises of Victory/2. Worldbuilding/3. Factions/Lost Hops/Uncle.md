@@ -1,18 +1,7 @@
 ---
-Type: NPC
-alias: Karl
-dg-publish: true
-sum:
-- Uncle is a Goblin Artificer known for selling magical items and counterfeits
-- "He is an illusionist and has a shop called \u201CCarl\u2019s Curious Curiosities\u201D"
-- Uncle has a good personality, is kind and gentle but can be fierce when necessary
-- He has an ideal of finding the best deals, wants to retire in luxury, and is a bit
-  of a hoarder
-- Appearance: old goblin man in his 70s with short white hair, green eyes, wrinkled
-    skin, small build wearing a brown robe.
-title: Uncle
-
+{"dg-publish":true,"permalink":"/promises-of-victory/2-worldbuilding/3-factions/lost-hops/uncle/","title":"Uncle"}
 ---
+
 
 
 
