@@ -1,27 +1,6 @@
 ---
-dg-publish: true
-sum:
-- Kix is a Changeling Bard, born and raised in Neverwinter.
-- He used a half-elf persona to hide from the Eyes of the Dragon after bailing on
-  a morally questionable job.
-- "His ideal is \u201CI want to belong and be accepted by others, no matter who I\
-  \ have to pretend to be.\u201D"
-- "His flaw is \u201CI have trouble trusting others and struggle to open up about\
-  \ my true self.\u201D"
-- He has a habit of humming made-up songs and speaks with a quiet, measured tone,
-  choosing words carefully.
-- Kix grew up as a human child of a single mother with no recollection of his father
-  or his identity as a changeling.
-- At 16 he left home with his human persona Veron and started working for the Eyes
-  of the Dragon, doing small missions for them.
-title: Kix
-type: Character
-
+{"dg-publish":true,"permalink":"/stormwreck-isle/kix/","title":"Kix","noteIcon":"Character","created":"","updated":""}
 ---
-
-
-
-
 
 
  Kix is a [[Stormwreck Isle/Changeling\|Changeling]] Bard, born and raised in Neverwinter. He used a half-elf persona to hide from the [[Stormwreck Isle/Eyes of the Dragon\|Eyes of the Dragon]] after bailing on a morally questionable job. He grew up as a human child of a single mother with no recollection of his father or his identity as a [[Stormwreck Isle/Changeling\|Changeling]]. At 16 he left home with his human persona Veron and started working for the [[Stormwreck Isle/Eyes of the Dragon\|Eyes of the Dragon]], doing small missions for them. In order to gain information and protect himself he adopted the persona of Althelos, an inquisitive half-elf who loves exploring things. Kix is constantly trying to find ways to fit in with others, even if it means pretending to be someone else. Despite this, he has developed an aversion towards the [[Stormwreck Isle/Eyes of the Dragon\|Eyes of the Dragon]] after learning of their ruthlessness during his Heist on Castle Never. He believes that true belonging can only come from acceptance through honesty and integrity
