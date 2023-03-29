@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-title: Gantt
-type: Meta
-
+{"dg-publish":true,"permalink":"/gantt/","title":"Gantt"}
 ---
+
 
 
 
