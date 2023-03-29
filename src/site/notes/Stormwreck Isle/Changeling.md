@@ -1,22 +1,6 @@
 ---
-alias: Changling
-dg-publish: true
-sum:
-- Changelings are mysterious shape-shifters with a natural affinity for magic and
-  the ability to change their appearance and mimic the form of other races.
-- They have no bones, but instead their skeletons are made of cartilage and they have
-  red blood.
-- Changeling culture values freedom and self-expression, they are natural travelers
-  seeking knowledge and adventure and do not follow the law or organized religion.
-- They have a deep connection to nature, often taking on animalistic features, and
-  respect the arcane arts.
-title: Changeling
-type: Creature
-
+{"dg-publish":true,"permalink":"/stormwreck-isle/changeling/","title":"Changeling","noteIcon":"Creature","created":"","updated":""}
 ---
-
-
-
 
 
 Changelings are mysterious creatures with the ability to change their appearance, mimicking the form of other races. They are thought to be descended from a great and powerful race of shape-shifters, and thus have an affinity for magic. Changelings travel far and wide, never staying in one place for long, but always seeking knowledge to gain an edge over their enemies. They are often viewed with suspicion by other races, as they can blend in anywhere without detection. Despite this, Changelings remain a proud and noble people who strive to protect the innocent from harm.
