@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/1-general/primer/","title":"Primer"}
+{"dg-publish":true,"permalink":"/Promises of Victory/1. General/Primer/","title":"Primer","noteIcon":""}
 ---
 
 
