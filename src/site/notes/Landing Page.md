@@ -3,7 +3,7 @@
 ---
 
 
-# Hi
+# Hi🌱
 This is my Digital Garden. I publish all my notes so that you can roam them.
 
 # Projects
