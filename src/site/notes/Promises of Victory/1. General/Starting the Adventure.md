@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Promises of Victory/1. General/Starting the Adventure/","title":"Starting the Adventure","noteIcon":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/1-general/starting-the-adventure/","title":"Starting the Adventure","noteIcon":"Meta"}
 ---
 
 
