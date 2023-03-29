@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/4-bestiary/subclasses/shadow-hunter/","title":"Shadow Hunter"}
+{"dg-publish":true,"permalink":"/Promises of Victory/4. Bestiary/Subclasses/Shadow Hunter/","title":"Shadow Hunter","noteIcon":""}
 ---
 
 
