@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/3-adventuring/structure-of-the-campain/","title":"Structure of the Campain"}
+{"dg-publish":true,"permalink":"/Promises of Victory/3. Adventuring/Structure of the Campain/","title":"Structure of the Campain","noteIcon":""}
 ---
-
-
-
-
-
-
 
 Promises of Victory is a Campain set in [[Promises of Victory/2. Worldbuilding/2. Regions/The Basin\|The Basin]], a Region currently in war, lead by the **[[Promises of Victory/2. Worldbuilding/3. Factions/League of Arathor/League of Arathor\|League of Arathor]]** and the **[[Promises of Victory/2. Worldbuilding/3. Factions/Defilers/Defilers\|Defilers]]**.
 
