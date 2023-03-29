@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Promises of Victory/Note Overview/","title":"Note Overview","noteIcon":""}
+{"dg-publish":true,"permalink":"/Promises of Victory/Note Overview/","title":"Note Overview","hideInGraph":true,"noteIcon":""}
 ---
 
 
@@ -243,6 +243,7 @@ This Vault is divided into sections:
 | File                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------- |
 | [[Landing Page\|Landing Page]]                                                                           |
+| [[Promises of Victory/Untitled\|Untitled]]                                                               |
 | [[Promises of Victory/3. Adventuring/Untitled\|Untitled]]                                                |
 | [[Promises of Victory/3. Adventuring/Tasks\|Tasks]]                                                      |
 | [[Promises of Victory/3. Adventuring/Player Characters/Semloh Kolrehs\|Semloh Kolrehs]]                  |
