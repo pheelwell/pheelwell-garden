@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"","updated":""}
 ---
 
-
+![ransden.jpg](/img/user/ransden.jpg)
 ## Ransden Arcfall
 
 Ransden was once a priest with a wife and two children in the service of the god of light from the small town [[Promises of Victory/Worldbuilding/Regions/Todo/🏰Prosnen/Prosnen\|Prosnen]]. During an attack on [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]], where Ransden served as a Priest he died. This wouldn't be the end though. Ransden was in the first wave of the cases of the Plage. He got his soul reaffixed to his body. As he had been a priest in life he was given the role of a simple soldier in undeath. He fought for the necromancer for many years, but as he had been dead for a long time, his memories of his previous life slowly came back to him. This went on for many years, until the necromancer's power began to wane. Ransden saw his opportunity and seized it. He rebelled against the necromancer and shook free of his will. He procceded to visit his wife, but found out she was killed by the same attack, but wasn't ressurected. He fled to undercity, where he proceded to research and became a librarian. He had a strong desire to become human again, but he never found a way. He is currently on a quest to find a way to become human again. 
