@@ -1,22 +1,6 @@
 ---
-dg-publish: true
-sum:
-- The Eyes of the Dragon is a spy guild located in the Sword Coast region of the Forgotten
-  Realms setting.
-- They are known for their effectiveness, but also for their unethical methods.
-- They employ a range of tactics to gather information, including disguise, subterfuge,
-  and blackmail.
-- They have a subgroup of mercenaries called the Toothless which consists of 5 people.
-- The Eyes of the Dragon can be used as a source of information, employer or antagonist
-  in Dungeons & Dragons games.
-title: Eyes of the Dragon
-type: Faction
-
+{"dg-publish":true,"permalink":"/stormwreck-isle/eyes-of-the-dragon/","title":"Eyes of the Dragon","noteIcon":"Faction","created":"","updated":""}
 ---
-
-
-
-
 
 
 The Eyes of the Dragon is a spy guild in the Forgotten Realms.
