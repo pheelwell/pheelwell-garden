@@ -16,7 +16,7 @@ This is my Digital Garden. I publish all my notes so that you can roam them.
 
 Things you could start with:
 [[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
-[[Promises of Victory/Note Overview\|Note Overview]] 
+[[Promises of Victory/General/Note Overview\|Note Overview]] 
 [[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
 
 ## Stormwreck Isle
