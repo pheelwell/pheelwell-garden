@@ -1,0 +1,129 @@
+---
+dg-publish: true
+sum:
+- Set in the Basin, a region at war between the League of Arathor and the Defilers
+- The Shaddowhammer clan is preparing a ritual to revive the old god Naruun, who is
+  imprisoned underground
+- The ritual requires three artifacts: Heart of the Forest (Artifact of Life), Tear
+    of the Archdevil (Artifact of Chaos), and Sundawn (Artifact of Light)
+- Artifacts need to be brought to three Titan Forges and powered by souls gathered
+  from battlefields in the Basin
+- Party starts by searching for artifacts, thinking it will harm Shaddowhammer but
+  later learns it's part of Naruun's plan
+- Adventure divided into multiple plot threads that can be solved parallelly, including
+  retrieving each artifact and stopping the gathering of souls
+- Final Sacrifice involves breaking seals on forges, starting Turnback ritual which
+  would release Naruun
+- Party must prevent Naruun's escape and find a way to destroy or contain him for
+  good while navigating deception and manipulation.
+title: Structure of the Campain
+type: Meta
+
+---
+
+
+
+
+
+
+Promises of Victory is a Campain set in [[2. Worldbuilding/2. Regions/The Basin\|The Basin]], a Region currently in war, lead by the **[[2. Worldbuilding/3. Factions/League of Arathor/League of Arathor\|League of Arathor]]** and the **[[2. Worldbuilding/3. Factions/Defilers/Defilers\|Defilers]]**.
+
+In the Background [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] clan is preparing a ritual that will return the old God [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]], who is sealed deep underground in the middle of [[2. Worldbuilding/2. Regions/The Basin\|The Basin]]. The Cult sees the old God as the true god of death and the ritual will revive every lost soul in [[2. Worldbuilding/2. Regions/The Basin\|the Basin]].
+
+To do that, [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] are in the process of collecting 3 Artifacts that were used to seal the old god.
+
+- The **Heart of the forrest**, the [[1. General/Storys/Artifact of Life\|Artifact of Life]] which they try to get by Invading city of [[2. Worldbuilding/2. Regions/Todo/Sturmklau\|Sturmklau]] 
+- The **Tear of the Archdevil**, the [[1. General/Storys/Artifact of Chaos\|Artifact of Chaos]] which the players are bringing into [[2. Worldbuilding/2. Regions/The Basin\|the basin]] to be delivered to [[Dr Phalando\|Dr Phalando]] 
+- **Sundawn**, the [[1. General/Storys/Artifact of Light\|Artifact of Light]] which they already have since their Leader [[2. Worldbuilding/3. Factions/Shaddowhammer/Volar\|Volar]] is a Fallen Paladin of [[2. Worldbuilding/2. Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] 
+
+They need to bring the Artifacts to 3 different ancient arcane machineries called [[1. General/Storys/Titan Forges\|Titan Forges]] and fuel the Jail with a vast amount of soul energy.
+
+To activate the Ritual the call the [[2. Worldbuilding/3. Factions/Shaddowhammer/Turnback\|Turnback]] they need a gigantic amount of  [[1. General/Storys/Souls of the Dead\|Souls of the Dead]] that they have been gathering on the Battlefields and funneling into the Central City of [[2. Worldbuilding/2. Regions/🏰Edschmied/Edschmied\|Edschmied]] 
+
+The party has to find the artifacts to maybe alter the ritual and kill [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] for good, while not also falling to the false promisses of the old god. This is a Major Plot twist. The Party starts by searching for the Artifacts and thinks bringing them to the Forges harms the [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]].
+
+
+# Major Plot Threads
+Those are the Threads the Player need to solve:
+
+### [[1. General/Storys/Artifact of Life\|Artifact of Life]]
+The City of [[2. Worldbuilding/2. Regions/Todo/Sturmklau\|Sturmklau]] is attacked and [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] tries to steal the Heart of the Forrest.
+When the player gather the [[1. General/Storys/Artifact of Life\|Artifact of Life]] [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] will try to trick them into bringing it into the [[1. General/Forge of Life\|Forge of Life]], which is Located beneath the hideout of the [[4. Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]] next to [[2. Worldbuilding/2. Regions/Todo/Maerhof\|Maerhof]].
+
+
+### [[1. General/Storys/Artifact of Light\|Artifact of Light]]
+The [[1. General/Storys/Artifact of Light\|Artifact of Light]] is already in posession of [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]], which is unknown to the Players. 
+[[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] does not know the Location of the [[Forge of Light\|Forge of Light]] which is located in the Mines of Torar. A Recent excavation Site in the Mines uncovered this Secret, but the Information is kept shut by the Academy of  [[2. Worldbuilding/3. Factions/The Triad/The Triad\|The Triad]].
+In thinking they need to gather the Artifacts the party can plan a Heist on the Cathedral of [[2. Worldbuilding/2. Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] 
+
+### [[1. General/Storys/Artifact of Chaos\|Artifact of Chaos]]
+Coming into Contact with followers of the [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] the party gets Hunted for the Artifact.
+[[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] will try to trick the Players into bringing the Artifact into the [[Forge of Chaos\|Forge of Chaos]]. 
+
+### [[1. General/Storys/Souls of the Dead\|Souls of the Dead]] 
+For the last 20 Years [[2. Worldbuilding/3. Factions/Cult of the Gifted/The Cult of the Gifted\|the Cult of the Gifted]] are building an Arcane Machine out of [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] that they think will lead to the Resurrection of all fallen People in [[2. Worldbuilding/2. Regions/The Basin\|the Basin]]. The [[2. Worldbuilding/3. Factions/The Triad/The Triad\|The Triad]] has been hiding the many shipments of [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] towards the Ritual Site. The [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] hast been gathering Energy from the Fallen Soldiers in [[2. Worldbuilding/2. Regions/The Basin\|the Basin]] to fuel the Ritual.  
+
+### The [[1. General/Storys/Final Sacrifice\|Final Sacrifice]]
+When all Artifacts are brought to their respective Forges and the Seals are broken.  The [[2. Worldbuilding/3. Factions/Shaddowhammer/Turnback\|Turnback]] ritual will begin, leading to the release of [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]], the old god of false promises. [[2. Worldbuilding/3. Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] Ones, believing they will revive every lost soul in [[2. Worldbuilding/2. Regions/The Basin\|the Basin]], will unknowingly bring about [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]]'s return and potential domination over the world.
+As the ritual commences, a colossal [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|stoalium]] contraption built by the Cult beneath the city of [[2. Worldbuilding/2. Regions/🏰Edschmied/Edschmied\|Edschmied]] will start to channel the gathered soul' energy into each of the three forges. 
+It takes one week for the Prison of [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] to break.   
+The party must race against time to not only prevent [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]]'s escape but also find a way to destroy or contain him for good.
+
+# Optional Threads
+Those are the Plot Threads the Players can optionally solve: 
+
+## Origin of [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]]
+
+The party can learn about the and Origin of [[2. Worldbuilding/3. Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] and [[2. Worldbuilding/3. Factions/Shaddowhammer/Volar\|Volar]], their founder.
+
+[[2. Worldbuilding/3. Factions/Shaddowhammer/Volar\|Volar]] was once a Paladin in the ranks of the [[2. Worldbuilding/3. Factions/League of Arathor/League of Arathor\|League of Arathor]].
+The [[2. Worldbuilding/3. Factions/LPF/League of Paranormal Researchers\|League of Paranormal Researchers]] secretly killed his daughter to find out more about the [[2. Worldbuilding/3. Factions/Nosem/Nosem\|Nosem]].
+This led to him being seduced by the Fulfiller, a hag that wants to revive [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]].
+
+She promises him [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] will be able to revive his daughter, but in reality he only leads to the freeing of the old God.
+[[2. Worldbuilding/3. Factions/Shaddowhammer/Volar\|Volar]] starts with joining [[2. Worldbuilding/3. Factions/Cult of the Gifted/Iraia\|Iraia]] and [[2. Worldbuilding/3. Factions/Cult of the Gifted/Edard Combell\|Edard Combell]] to found the [[4. Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]] 
+
+The Party can learn, that [[2. Worldbuilding/3. Factions/Shaddowhammer/Volar\|Volar]] is actualy blinded by his grief and maybe can stop him by confronting him with the truth.
+
+If the party manages to save [[2. Worldbuilding/3. Factions/Shaddowhammer/Volar\|Volar]] from the hag that seduced him, he will join the party and show them how to kill [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] for good.
+With the [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] metal and the power of a Titanforge they can sund the energy of a soulstone into [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] and bind him to the world.
+
+
+## Origin of the [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]]
+
+All over the lands of [[2. Worldbuilding/2. Regions/The Basin\|The Basin]] you can find round tubical Caves that go deeper and deeper into the earth. In those Caves you can find a metal called [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] that sits bare in the center of the cave and is anchored through little tendrils to the wall of the cave.
+
+In short, who controls the [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] supplies, has the upper hand in the Battle for [[2. Worldbuilding/2. Regions/The Basin\|The Basin]]. Because of that, for both sides, Controlling the [[2. Worldbuilding/2. Regions/Todo/Mines of Torrar\|Mines of Torrar]], [[2. Worldbuilding/2. Regions/🏰Herbstbog/Herbstbog\|Herbstbog]] and [[2. Worldbuilding/2. Regions/🏰Edschmied/Edschmied\|Edschmied]] is the Key to Wining the war.
+
+In reality [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] is the remans of the nerves of [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] and the power bolstering properties wear off at the most Ciritcal Moment.
+This leads to the endless war going back and fourth. With one party pusshing right to the enemys gate, but then loosing by a sudden turn of events.
+
+The party can learn, that the [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]] is the reason for this unending loop, that they can use to end the conflict once and for all.
+
+## Naruuns Real Identity
+[[2. Worldbuilding/3. Factions/Fulfiller/The Fulfiller\|The Fulfiller]] is the key of resolving the secret of Naruuns real identify, by investigating the Hag and the  [[2. Worldbuilding/3. Factions/Fulfiller/Fulfiller's Market\|Fulfiller's Market]] the players can uncover the true nature of [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] as the old god of false promises. By learning his true identity, they can devise a plan to expose him and his manipulations to the people of [[2. Worldbuilding/2. Regions/The Basin\|The Basin]], weakening his power and influence over them.
+
+Through their investigation, the party can discover that [[2. Worldbuilding/3. Factions/Naruun/Naruun\|Naruun]] has been feeding on the despair and unfulfilled desires of the people in [[2. Worldbuilding/2. Regions/The Basin\|The Basin]], using their suffering to increase his power. The continuous war, fueled by the properties of [[2. Worldbuilding/3. Factions/Naruun/Stoalium\|Stoalium]], has provided Naruun with an endless supply of misery.
+
+Armed with this knowledge, the party can seek allies among both the [[2. Worldbuilding/3. Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[2. Worldbuilding/3. Factions/Defilers/Defilers\|Defilers]], uniting them against a common enemy. By exposing Naruun's deception and manipulation, they can rally their forces against him and work together to find a way to destroy or contain him for good.
+
+As they work together, new alliances will form between former enemies, leading to a more peaceful and united future for [[2. Worldbuilding/2. Regions/The Basin\|The Basin]]. However, they must remain vigilant against any remaining followers of Naruun who continue to spread his false promises.
+
+# Flowchart
+Detailing the Link between the Major Plot Points and how the Optional Plots influence them  
+```mermaid
+graph TD
+
+A[Artifact of Life] --> B[Forge of Life]
+A --> C[Artifact of Light]
+B --> D[Turnback Ritual]
+C --> E[Artifact of Chaos]
+D --> F[Naruun's Escape]
+E --> G[Forge of Chaos]
+F --> H[Naruun's Defeat/Containment]
+G --> D
+H1{Optional: Origin of the Shaddowhammer} -.-> F
+H2{Optional: Origin of the Stoalium} -.-> D
+H3{Optional: Naruun's Real Identity} -.-> H
+
+```
