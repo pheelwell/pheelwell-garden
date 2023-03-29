@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/2-worldbuilding/2-regions/todo/sturmklau/","title":"Sturmklau"}
+{"dg-publish":true,"permalink":"/Promises of Victory/2. Worldbuilding/2. Regions/Todo/Sturmklau/","title":"Sturmklau","noteIcon":""}
 ---
 
 
