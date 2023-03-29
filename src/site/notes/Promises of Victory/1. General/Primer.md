@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/1-general/primer/","title":"Primer","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/promises-of-victory/1-general/primer/","title":"Primer"}
 ---
 
 
