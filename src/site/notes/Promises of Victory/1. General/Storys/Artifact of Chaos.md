@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/1-general/storys/artifact-of-chaos/","title":"Artifact of Chaos"}
+{"dg-publish":true,"permalink":"/Promises of Victory/1. General/Storys/Artifact of Chaos/","title":"Artifact of Chaos","noteIcon":""}
 ---
 
 
