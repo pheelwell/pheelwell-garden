@@ -1,25 +1,7 @@
 ---
-dg-publish: true
-sum:
-- Set in the Basin, a region at war between the League of Arathor and the Defilers
-- The Shaddowhammer clan is preparing a ritual to revive the old god Naruun, who is
-  imprisoned underground
-- The ritual requires three artifacts: Heart of the Forest (Artifact of Life), Tear
-    of the Archdevil (Artifact of Chaos), and Sundawn (Artifact of Light)
-- Artifacts need to be brought to three Titan Forges and powered by souls gathered
-  from battlefields in the Basin
-- Party starts by searching for artifacts, thinking it will harm Shaddowhammer but
-  later learns it's part of Naruun's plan
-- Adventure divided into multiple plot threads that can be solved parallelly, including
-  retrieving each artifact and stopping the gathering of souls
-- Final Sacrifice involves breaking seals on forges, starting Turnback ritual which
-  would release Naruun
-- Party must prevent Naruun's escape and find a way to destroy or contain him for
-  good while navigating deception and manipulation.
-title: Structure of the Campain
-type: Meta
-
+{"dg-publish":true,"permalink":"/promises-of-victory/3-adventuring/structure-of-the-campain/","title":"Structure of the Campain"}
 ---
+
 
 
 
