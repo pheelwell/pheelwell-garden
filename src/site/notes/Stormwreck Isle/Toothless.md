@@ -1,22 +1,6 @@
 ---
-dg-publish: true
-sum:
-- The Toothless is a Mercenary subgroup consisting of 5 members.
-- Their leader is Garox, a Half Orc who is a master of blades and loyal to the Eyes
-  of the Dragon.
-- Second in Command is Malka, a Human opportunistic thief and smuggler.
-- Niran, a Halfling scout, is tasked with scouting out new locations or gathering
-  intel on potential targets.
-- Dagur, a Dwarf brawler, relies on his strength and determination in battle.
-- Kix, a Changeling is the Aprentice that the group uses to infiltrate places.
-title: Toothless
-type: Faction
-
+{"dg-publish":true,"permalink":"/stormwreck-isle/toothless/","title":"Toothless","noteIcon":"Faction","created":"","updated":""}
 ---
-
-
-
-
 
 
 The Toothless are a subgroup of Mercenary's working for the [[Stormwreck Isle/Eyes of the Dragon\|Eyes of the Dragon]]. They consist of a 5 person crew.
