@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"Player","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"","updated":""}
 ---
-
-
-
-
 
 
 ## Ransden Arcfall
