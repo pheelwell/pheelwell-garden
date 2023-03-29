@@ -24,7 +24,7 @@ In spite of all this darkness, one beacon still shines in Hort’s murky night: 
 - The party is hired by a local merchant to escort a caravan to Hort. However, the caravan is attacked by bandits and the party is the only ones left alive. They must find their way to Hort and warn the villagers of the impending danger.
 - The party is hired by a local noble to investigate why the village of Hort is so poor. They find out that the village is being taxed heavily by the local lord, and they must find a way to help the villagers.
 
-## notable NPCs
+## Notable NPCs
 
 **Farmer Gregor**
 
