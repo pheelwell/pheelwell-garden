@@ -37,7 +37,7 @@ type: Character
 # Personality
 
 ## Kix:
-![Pasted image 20230213000715.png](/img/user/Pictures/Pasted%20image%2020230213000715.png)
+![Pasted image 20230213000715.png](/img/user/resources/Pictures/Pasted%20image%2020230213000715.png)
 Ideal:  "I want to belong and be accepted by others, no matter who I have to pretend to be."
 Flaw: "I have trouble trusting others and struggle to open up about my true self."
 Quirk : "I have a habit of humming made-up songs to myself."
@@ -53,7 +53,7 @@ Quirk : "I have a habit of humming made-up songs to myself."
 
 
 ## Althelos:
-![Pasted image 20230212235150.png](/img/user/Pictures/Pasted%20image%2020230212235150.png)
+![Pasted image 20230212235150.png](/img/user/resources/Pictures/Pasted%20image%2020230212235150.png)
 Ideal : "I am fascinated by the mysteries of the world and will go to great lengths to uncover them."
 Flaw: "I have a tendency to become easily distracted by the wonders of the world around me. My constant fascination often leads me to become sidetracked, making it difficult for me to stay focused on the task at hand. As a result, I frequently forget important details, much to the frustration of those around me."
 
