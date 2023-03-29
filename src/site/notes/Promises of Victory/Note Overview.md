@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Promises of Victory/Note Overview/","title":"Note Overview","hideInGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/note-overview/","title":"Note Overview","hideInGraph":true,"noteIcon":"Meta"}
 ---
 
 
