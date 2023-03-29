@@ -5,6 +5,7 @@
 
 Changelings are mysterious creatures with the ability to change their appearance, mimicking the form of other races. They are thought to be descended from a great and powerful race of shape-shifters, and thus have an affinity for magic. Changelings travel far and wide, never staying in one place for long, but always seeking knowledge to gain an edge over their enemies. They are often viewed with suspicion by other races, as they can blend in anywhere without detection. Despite this, Changelings remain a proud and noble people who strive to protect the innocent from harm.
 
+
 ## Biology
 [[Stormwreck Isle/Changeling\|Changeling]] have red blood like a majority of the other races. Bleeding around others may alert many that the Changeling is not of the same race (should the blood color vary). For this reason, a Changeling will usually choose to take the form of a race with red blood. A close observer may notice that a Changeling's blood tends to run a bit thinner than most other races. Oddly enough, changelings have no bones. Instead, their skeletons are made entirely of cartilage (the same as some fish). Though not as tough as bone, it is a more flexible material. Some speculate that it is this limited flexibility that allows the bones of a changeling to change their size and shape.
 
