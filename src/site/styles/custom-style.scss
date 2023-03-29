@@ -9,28 +9,125 @@ body {
     //  h1 {
     //   color: black;
     //  }
-
-    //custom types are: Region, Settlement, Locality, NPC, SideNPC, Faction, History, Arc,Plot, Scene,Thing
-    --note-icon-Meta: url(/img/gear_flat.svg);
-    --note-icon-Region: url(/img/compass_flat.svg);
-    --note-icon-Settlement: url(/img/castle_flat.svg);
-    --note-icon-Locality: url(/img/house_flat.svg);
-    --note-icon-NPC: url(/img/person_elf_flat_default.svg);
-    --note-icon-SideNPC: url(/img/person_elf_flat_default.svg);
-    --note-icon-Faction: url(/img/shield_flat.svg);
-    --note-icon-History: url(/img/calendar_flat.svg);
-    --note-icon-Arc: url(/img/open_book_flat.svg);
-    --note-icon-Plot: url(/img/scroll_flat.svg);
-    --note-icon-Scene: url(/img/clapper_board_flat.svg);
-    --note-icon-Thing: url(/img/crystal_ball_flat.svg);
-    --note-icon-fallback: url(/img/spiral_notepad_flat.svg);
+   ***/
 }
 
-// this is the code for the icons in the note list
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
+body.filetree-note-icon .filename[data-note-icon]::before,
+body.links-note-icon .internal-link[data-note-icon]::before,
+body.backlinks-note-icon .backlink[data-note-icon]::before {
+  //default
+    content: "";
+    width: 0em;
+    //no background image
+    background-image: none;
+}
+
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Meta"]::before,
-body.filetree-note-icon .filename[data-note-icon="3"]::before,
-body.links-note-icon .internal-link[data-note-icon="3"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="3"]::before {
-    background-image: var(--note-icon-Meta);
-   ***/
+body.filetree-note-icon .filename[data-note-icon="Meta"]::before,
+body.links-note-icon .internal-link[data-note-icon="Meta"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Meta"]::before {
+  content: "⚙️";
+    background-image: none;
+    width: 1.4em;
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Region"]::before,
+body.filetree-note-icon .filename[data-note-icon="Region"]::before,
+body.links-note-icon .internal-link[data-note-icon="Region"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Region"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🗺";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Settlement"]::before,
+body.filetree-note-icon .filename[data-note-icon="Settlement"]::before,
+body.links-note-icon .internal-link[data-note-icon="Settlement"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Settlement"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🏰";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Locality"]::before,
+body.filetree-note-icon .filename[data-note-icon="Locality"]::before,
+body.links-note-icon .internal-link[data-note-icon="Locality"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Locality"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🏠";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="NPC"]::before,
+body.filetree-note-icon .filename[data-note-icon="NPC"]::before,
+body.links-note-icon .internal-link[data-note-icon="NPC"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="NPC"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🧝";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="SideNPC"]::before,
+body.filetree-note-icon .filename[data-note-icon="SideNPC"]::before,
+body.links-note-icon .internal-link[data-note-icon="SideNPC"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="SideNPC"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🧝";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Faction"]::before,
+body.filetree-note-icon .filename[data-note-icon="Faction"]::before,
+body.links-note-icon .internal-link[data-note-icon="Faction"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Faction"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🛡";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="History"]::before,
+body.filetree-note-icon .filename[data-note-icon="History"]::before,
+body.links-note-icon .internal-link[data-note-icon="History"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="History"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "📅";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Arc"]::before,
+body.filetree-note-icon .filename[data-note-icon="Arc"]::before,
+body.links-note-icon .internal-link[data-note-icon="Arc"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Arc"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "📖";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Plot"]::before,
+body.filetree-note-icon .filename[data-note-icon="Plot"]::before,
+body.links-note-icon .internal-link[data-note-icon="Plot"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Plot"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "📜";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Scene"]::before,
+body.filetree-note-icon .filename[data-note-icon="Scene"]::before,
+body.links-note-icon .internal-link[data-note-icon="Scene"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Scene"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🎬";
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Thing"]::before,
+body.filetree-note-icon .filename[data-note-icon="Thing"]::before,
+body.links-note-icon .internal-link[data-note-icon="Thing"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="Thing"]::before {
+    background-image: none;
+    width: 1.3em;
+    content: "🔮";
 }
