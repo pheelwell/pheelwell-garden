@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/4-bestiary/monster/statblock-template/","title":"Statblock Template"}
+{"dg-publish":true,"permalink":"/Promises of Victory/4. Bestiary/Monster/Statblock Template/","title":"Statblock Template","noteIcon":""}
 ---
 
 
