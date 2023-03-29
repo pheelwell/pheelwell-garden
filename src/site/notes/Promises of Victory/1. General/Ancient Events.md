@@ -1,9 +1,7 @@
 ---
-dg-publish: true
-title: Ancient Events
-type: History
-
+{"dg-publish":true,"permalink":"/promises-of-victory/1-general/ancient-events/","title":"Ancient Events","noteIcon":"History"}
 ---
+
 
 
 

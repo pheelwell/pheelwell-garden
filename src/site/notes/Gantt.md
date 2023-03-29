@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Gantt/","title":"Gantt","noteIcon":""}
+{"dg-publish":true,"permalink":"/gantt/","title":"Gantt","noteIcon":"Meta"}
 ---
 
 

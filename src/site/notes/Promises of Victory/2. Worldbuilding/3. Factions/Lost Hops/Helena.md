@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Promises of Victory/2. Worldbuilding/3. Factions/Lost Hops/Helena/","title":"Helena","noteIcon":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/2-worldbuilding/3-factions/lost-hops/helena/","title":"Helena","noteIcon":"NPC"}
 ---
 
 

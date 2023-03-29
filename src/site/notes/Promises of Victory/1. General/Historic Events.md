@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Promises of Victory/1. General/Historic Events/","title":"Historic Events","noteIcon":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/1-general/historic-events/","title":"Historic Events","noteIcon":"History"}
 ---
 
 
