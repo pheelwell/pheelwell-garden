@@ -1,16 +1,7 @@
 ---
-dg-publish: true
-sum:
-- Helena is a Changeling Rogue and skilled brewer
-- Kind and caring, but also fierce and dangerous
-- Known as Grandma inside the Lost Hops
-- Ideal: People are more important than gold
-- Bond: Family is most important thing to them
-- Flaw: Gambling problem
-title: Helena
-type: NPC
-
+{"dg-publish":true,"permalink":"/promises-of-victory/2-worldbuilding/3-factions/lost-hops/helena/","title":"Helena"}
 ---
+
 
 
 
