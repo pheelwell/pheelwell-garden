@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/3-adventuring/adventure-journal/","title":"Adventure Journal"}
+{"dg-publish":true,"permalink":"/Promises of Victory/3. Adventuring/Adventure Journal/","title":"Adventure Journal","noteIcon":""}
 ---
 
 
