@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/2-worldbuilding/3-factions/league-of-arathor/league-of-arathor/","title":"League of Arathor"}
+{"dg-publish":true,"permalink":"/Promises of Victory/2. Worldbuilding/3. Factions/League of Arathor/League of Arathor/","title":"League of Arathor","noteIcon":""}
 ---
 
 The League of Arathor is a coalition of mostly humans that formed to fight back against the undead legions of the [[Promises of Victory/2. Worldbuilding/3. Factions/Defilers/Defilers\|Defilers]]. The League is led by [[Promises of Victory/2. Worldbuilding/3. Factions/League of Arathor/High Paladin Erathenar\|High Paladin Erathenar]], a human paladin from the city of [[Promises of Victory/2. Worldbuilding/2. Regions/Todo/Trollbans Hold\|Trollbans Hold]].
