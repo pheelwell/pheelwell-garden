@@ -39,8 +39,8 @@ The party needs to stop the cult before they can free Naruun and cause untold de
 # Involvement in the Basins Conflict
 The conflict in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] had been raging on for decades, with no end in sight. Little did the citizens know that a sinister force was at the heart of it all. Naruun was manipulating events from the shadows in order to break free from his prison and wreak havoc upon the land.
 He Instigated:
-- [[Promises of Victory/General/Things/The Plague\|The Plague]] by planting [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] the Idea of [[Promises of Victory/General/Things/The Plague\|The Plague]]
-- Instigated the first [[Promises of Victory/General/Historic Events/War/Attack on Lichtachte\|Attack on Lichtachte]]
+- [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] by planting [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] the Idea of [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]]
+- Instigated the first [[Promises of Victory/Worldbuilding/Historic Events/War/Attack on Lichtachte\|Attack on Lichtachte]]
 # [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
 
 [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]], led by the once-paladin [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]], has been unknowingly serving Naruun's will. They believe that he is the true god of death and that he will grant them their deepest desires in exchange for power. Unbeknownst to them, they are merely pawns in Naruun's plan to escape his prison and bring destruction upon the world.
