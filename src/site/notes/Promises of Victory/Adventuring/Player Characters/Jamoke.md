@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/jamoke/","title":"Jamoke","noteIcon":"NPC","created":"","updated":""}
 ---
 
-![WhatsApp Image 2020-01-15 at 22.27.33.jpeg](/img/user/WhatsApp%20Image%202020-01-15%20at%2022.27.33.jpeg)
+![WhatsApp Image 2020-01-15 at 22.27.33.jpeg](/img/user/resources/Pictures/WhatsApp%20Image%202020-01-15%20at%2022.27.33.jpeg)
 
 This Rogue was born as the son of a High Voodoo Priest of his tribe in the Isles. He was always fascinated by Surviving in the Wild and Hunting. He always felt pressured of his legacy, to step in the shoes of his father, who was the main devotee of the Loa of death. This led to him having a strained relationship with his family. When he was of age, he left his tribe and home in search of adventure.
 He eventually made his way to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], where for a brief time he made money by skinning animals and collecting hides. After a few Months he met a group of adventurers. He adventured with them for awhile, until he was ambushed by an old rival. He was framed for the death of his father and was forced to leave the group. He was able to clear his name, but his tribe still distrusts him.
