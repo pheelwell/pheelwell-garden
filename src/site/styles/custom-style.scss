@@ -11,8 +11,26 @@ body {
     //  }
    ***/
 }
+.cm-s-obsidian > p:first-of-type:first-letter {
+    float: left;
+    font-family: "Old English Text MT", "Times New Roman", Times, serif;
+    font-size: 7em;
+    line-height: 0.5em;
+    padding-bottom: 0.05em;
+    padding-top: 0.2em;
+}
+.cm-s-obsidian > p:first-of-type {
+    //minimal height for small paragraphs
+    min-height: 5.5em;
+}
 
 
+
+.mermaid svg { 
+    max-width: 100%; 
+    height: auto;
+  }
+  
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
 body.filetree-note-icon .filename[data-note-icon]::before,
 body.links-note-icon .internal-link[data-note-icon]::before,
@@ -131,3 +149,17 @@ body.backlinks-note-icon .backlink[data-note-icon="Thing"]::before {
     width: 1.3em;
     content: "🔮";
 }
+
+// in short
+//Meta: ⚙️
+//Region: 🗺
+//Settlement: 🏰
+//Locality: 🏠
+//NPC: 🧝
+//SideNPC: 🧝
+//Faction: 🛡
+//History: 📅
+//Arc: 📖
+//Plot: 📜
+//Scene: 🎬
+//Thing: 🔮
