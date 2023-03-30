@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"","updated":""}
 ---
 
-![Pasted image 20230330014338.png](/img/user/Pasted%20image%2020230330014338.png)
+![Pasted image 20230330014338.png](/img/user/resources/Pictures/Pasted%20image%2020230330014338.png)
 # Semloh Kolrehs: Undead Half-Elf Ranger
 
 ## Background
