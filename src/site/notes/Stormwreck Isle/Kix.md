@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stormwreck-isle/kix/","title":"Kix","noteIcon":"Character","created":"","updated":""}
+{"dg-publish":true,"permalink":"/stormwreck-isle/kix/","title":"Kix","noteIcon":"NPC","created":"","updated":""}
 ---
 
 
