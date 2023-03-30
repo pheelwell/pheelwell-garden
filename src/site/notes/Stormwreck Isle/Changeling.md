@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stormwreck-isle/changeling/","title":"Changeling","noteIcon":"Creature","created":"","updated":""}
+{"dg-publish":true,"permalink":"/stormwreck-isle/changeling/","title":"Changeling","noteIcon":"Thing","created":"","updated":""}
 ---
 
 
