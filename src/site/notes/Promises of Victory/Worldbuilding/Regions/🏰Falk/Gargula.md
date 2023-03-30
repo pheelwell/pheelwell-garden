@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/gargula/","noteIcon":"NPC","created":"","updated":""}
 ---
 
-Gargula is a mysterious, black-clothed old lady who sees omens and sells magical trinkets in the small town of Falk.
+Gargula is a mysterious, black-clothed old lady who sees omens and sells magical trinkets in the small town of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]].
 
 # Appearance
 **Human**
@@ -16,7 +16,7 @@ Gargula's primary motivation is her pursuit of understanding the unknown and mys
 She firmly believes that there are hidden truths waiting to be discovered beneath the surface of everyday life. To Gargula, knowledge is power, and she strives to learn all she can about the arcane arts.
 
 ### Bonds
-Gargula has formed a close bond with Dr. Phalando, the mayor of Falk. Their unconventional relationship is both heartwarming and peculiar, and they are often seen together engaging in deep conversations or simply enjoying each other's company.
+Gargula has formed a close bond with Dr. Phalando, the mayor of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]. Their unconventional relationship is both heartwarming and peculiar, and they are often seen together engaging in deep conversations or simply enjoying each other's company.
 
 ### Flaws
 Gargula's obsession with omens and secret knowledge can sometimes lead her down dangerous paths. She may inadvertently cause harm or put others in danger by pursuing forbidden knowledge or meddling with powerful artifacts.
@@ -31,11 +31,11 @@ When roleplaying Gargula, emphasize her cryptic speech patterns and mysterious d
 Little is known about Gargula's past, and she prefers to keep it that way. Some believe she may have once been a powerful sorcerer or a scholar of the arcane arts who fell from grace, while others think she might be the last surviving member of an ancient order dedicated to preserving hidden knowledge.
 
 # Role in the campaign
-Gargula can provide players with valuable information about magic and the supernatural through her trinket shop and knowledge of omens. She may also serve as a plot hook by discovering a mysterious artifact in the forest near Falk that seems to be connected to her trinkets and omens. The party must investigate its origins and determine whether it poses a threat to the town or could be used for good.
+Gargula can provide players with valuable information about magic and the supernatural through her trinket shop and knowledge of omens. She may also serve as a plot hook by discovering a mysterious artifact in the forest near [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] that seems to be connected to her trinkets and omens. The party must investigate its origins and determine whether it poses a threat to the town or could be used for good.
 
 # Relations
-Gargula is well known among the residents of Falk due to her peculiar appearance and enigmatic nature. However, despite her eccentricities, she is generally well-liked by the townsfolk.### Gargula's Trinket Shop
-Gargula's trinket shop is a small, dimly lit store located near the edge of Falk. The shop is filled with shelves of mysterious artifacts, scrolls, and magical trinkets that Gargula has collected over the years. The air inside the shop is thick with incense, and the walls are adorned with strange symbols and tapestries.
+Gargula is well known among the residents of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] due to her peculiar appearance and enigmatic nature. However, despite her eccentricities, she is generally well-liked by the townsfolk.### Gargula's Trinket Shop
+Gargula's trinket shop is a small, dimly lit store located near the edge of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]. The shop is filled with shelves of mysterious artifacts, scrolls, and magical trinkets that Gargula has collected over the years. The air inside the shop is thick with incense, and the walls are adorned with strange symbols and tapestries.
 
 > [!info] Info
 > Gargula's trinket shop can be used as a location for players to purchase unique magical items or to gather information about arcane mysteries.
@@ -56,14 +56,14 @@ Gargula's trinket shop is a small, dimly lit store located near the edge of Falk
 >Gargula discovers an ancient artifact connected to her past, leading her on a dangerous quest for knowledge. The players must help her uncover its secrets while keeping her safe from those who would use the artifact for nefarious purposes.
 
 >[!seed] Seed
->A mysterious new threat arises in Falk, causing strange occurrences and putting the town at risk. Gargula believes this danger is linked to one of her trinkets or omens and enlists the party's help in investigating its origins and stopping it before it wreaks havoc upon Falk.
+>A mysterious new threat arises in [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]], causing strange occurrences and putting the town at risk. Gargula believes this danger is linked to one of her trinkets or omens and enlists the party's help in investigating its origins and stopping it before it wreaks havoc upon [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]].
 
 >[!seed] Seed
->Gargula goes missing under mysterious circumstances, and the townsfolk of Falk implore the party to find her. Their search leads them into the heart of a dark and dangerous conspiracy involving forbidden knowledge and powerful artifacts that could change the world as they know it.
+>Gargula goes missing under mysterious circumstances, and the townsfolk of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] implore the party to find her. Their search leads them into the heart of a dark and dangerous conspiracy involving forbidden knowledge and powerful artifacts that could change the world as they know it.
 
 # Rumors about Gargula
 1. Some believe that Gargula's real name is not Gargula but an ancient, powerful name that she has long since hidden away.
-2. It's said that Gargula once saved the town of Falk from a terrible curse by deciphering an ancient prophecy.
+2. It's said that Gargula once saved the town of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] from a terrible curse by deciphering an ancient prophecy.
 3. Rumor has it that Gargula can communicate with spirits or otherworldly beings.
 4. Some townsfolk whisper that Gargula has made deals with dark forces in exchange for her knowledge and power.
 
