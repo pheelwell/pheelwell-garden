@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/general/primer/","title":"Primer","noteIcon":"Meta","created":"","updated":""}
 ---
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3O4DGo9DS5kzUUJo6EQYdp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ![y.Phogba_purple_tentacle_old_god_locked_up_behind_a_glass_plane.png](/img/user/resources/Pictures/y.Phogba_purple_tentacle_old_god_locked_up_behind_a_glass_plane.png)
 As you find yourself standing atop a hill, surveying the ongoing battle, you become aware of the ever-present whispers in the shadows. An evil force seems to be lurking just out of sight, manipulating events and twisting the hearts of those involved. This is not just any war - this is a war that has raged for five long years in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], and it is far from over.
 
