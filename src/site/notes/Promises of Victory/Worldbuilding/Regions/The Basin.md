@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","noteIcon":"Region","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"","updated":""}
 ---
 
 
