@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks/","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks/","hideInGraph":true,"noteIcon":"Meta","created":"","updated":""}
 ---
 
 
