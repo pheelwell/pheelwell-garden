@@ -5,7 +5,7 @@
 
 
 # Introduction
-![Pasted image 20230330011335.png](/img/user/Pasted%20image%2020230330011335.png)
+![Pasted image 20230330011335.png](/img/user/resources/Pictures/Pasted%20image%2020230330011335.png)
 Promises of Victory is a Campain set in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], a Region currently in war, lead by the **[[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]** and the **[[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]**.
 
 In the Background [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] clan is preparing a ritual that will return the old God [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], who is sealed deep underground in the middle of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. The Cult sees the old God as the true god of death and the ritual will revive every lost soul in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]].
@@ -23,7 +23,7 @@ To activate the Ritual the call the [[Promises of Victory/Worldbuilding/Factions
 The party has to find the artifacts to maybe alter the ritual and kill [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] for good, while not also falling to the false promisses of the old god. This is a Major Plot twist. The Party starts by searching for the Artifacts and thinks bringing them to the Forges harms the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]].
 
 # Major Plot Threads
-![Pasted image 20230330012247.png](/img/user/Pasted%20image%2020230330012247.png)
+![559f13efad618396c7d70a96696cd7d7 2.jpg](/img/user/resources/Pictures/559f13efad618396c7d70a96696cd7d7%202.jpg)
 Those are the Threads the Player need to solve:
 
 ### [[Promises of Victory/General/Storys/Artifact of Life\|Artifact of Life]]
@@ -49,7 +49,7 @@ It takes one week for the Prison of [[Promises of Victory/Worldbuilding/Factions
 The party must race against time to not only prevent [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s escape but also find a way to destroy or contain him for good.
 
 # Optional Threads
-![Pasted image 20230330012123.png](/img/user/Pasted%20image%2020230330012123.png)
+![Pasted image 20230330012123.png](/img/user/resources/Pictures/Pasted%20image%2020230330012123.png)
 Those are the Plot Threads the Players can optionally solve: 
 
 ## Origin of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]
