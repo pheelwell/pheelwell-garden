@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/general/starting-the-adventure/","title":"Starting the Adventure","noteIcon":"Meta","created":"","updated":""}
 ---
 
+>[!WARNING] THIS IS STILL WIP
 
 ## Daylie War Progression
 
