@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"","updated":""}
 ---
 
 # Adventuring Party
