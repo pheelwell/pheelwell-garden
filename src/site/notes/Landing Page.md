@@ -8,7 +8,7 @@ This is my Digital Garden. I publish all my notes so that you can roam them.
 
 
 ## Promises of Victory
-![Pasted image 20230329230847.png](/img/user/Pasted%20image%2020230329230847.png)
+![Pasted image 20230329230847.png](/img/user/resources/Pictures/Pasted%20image%2020230329230847.png)
 
  In the war-ravaged land of The Basin, the League of Arathor and the Defilers have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
 
@@ -20,6 +20,6 @@ Things you could start with:
 [[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
 
 ## Stormwreck Isle
-![Pasted image 20230329225428.png](/img/user/Pasted%20image%2020230329225428.png)
+![Pasted image 20230329225428.png](/img/user/resources/Pictures/Pasted%20image%2020230329225428.png)
 Notes on a campaign I am a player in.
 My PC: [[Stormwreck Isle/Kix\|Kix]]
