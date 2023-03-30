@@ -16,7 +16,6 @@ Düsternest stays neutral in the war and since it only houses art and culture, i
 
 The Lord of Düsternest is [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]], who is a fair and just ruler. He is known for being very supportive of the arts, and for his love of good food and drink.
 
-
 ### Look and feel
 Describe Düsternests connection to [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]: 
 
@@ -44,4 +43,7 @@ Düsternest has a militia, which is responsible for defending the city and its c
 - [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Tren Brattingham\|Tren Brattingham]]
 
 
-  
+
+![old_street_by_abzac666_d6j3ye0-fullview.jpg](/img/user/old_street_by_abzac666_d6j3ye0-fullview.jpg)
+
+![5a5ecfb69ff9fcf4ba6b4a839c3b3253.png](/img/user/5a5ecfb69ff9fcf4ba6b4a839c3b3253.png)
