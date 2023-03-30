@@ -15,9 +15,11 @@ This is my Digital Garden. I publish all my notes so that you can roam them.
 > [!warning] If you want to play this Campain. GO AWAY! There are heavy spoilers in those Documents. A Safe Introduction is still TODO
 
 Things you could start with:
-[[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
-[[Promises of Victory/General/Note Overview\|Note Overview]] 
-[[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
+- To get hooked: [[Promises of Victory/General/Primer\|Primer]]
+- To get a overview of the Story as a GM [[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
+- To get started as a GM: [[Promises of Victory/General/Starting the Adventure\|Starting the Adventure]]
+- To get a sense of the conent of the campain: [[Promises of Victory/General/Note Overview\|Note Overview]]
+- To see what my party has been doing: [[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
 
 ## Stormwreck Isle
 ![Pasted image 20230329225428.png](/img/user/resources/Pictures/Pasted%20image%2020230329225428.png)
