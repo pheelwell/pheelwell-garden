@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/duesternest-artisans-guilds/","noteIcon":"Faction","created":"","updated":""}
 ---
 
-
-
-
-
-
 ### Düsternest Artisans Guilds
 
 The city's economy is based on trade and the arts. The city is known for its artisans, who create works of art and craftsmanship. As from a direct order of the recent Lord, all traing of [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]] is banned in the city.
@@ -24,3 +19,6 @@ The guild has no central worshop, but the members often work in their own homes.
 #### Brewers Guild
 
 Düsternest is known for its beer, and the Brewers Guild is responsible for creating it. The brewery is located in the catacombs of the castle.
+
+Notes:
+- involved with [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]] 
