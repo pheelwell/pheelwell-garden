@@ -5,7 +5,9 @@
 
 # Hi🌱
 This is my Digital Garden. I publish all my notes so that you can roam them.
+I will probably abandon this site as most of my projects collect dust after a while.
 
+To get started, here is a list of my projects: 
 
 ## Promises of Victory
 ![Pasted image 20230329230847.png](/img/user/resources/Pictures/Pasted%20image%2020230329230847.png)
