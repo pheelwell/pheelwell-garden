@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/last-hope/","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/last-hope/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-03-29T21:38:23.139+02:00"}
 ---
 
 
