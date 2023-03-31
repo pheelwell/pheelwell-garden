@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandra/","title":"Gandra","noteIcon":"SideNPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandra/","title":"Gandra","noteIcon":"SideNPC","created":"2023-01-25T02:26:53.810+01:00","updated":"2023-03-29T21:37:07.077+02:00"}
 ---
 
 **Elf - Baker**
