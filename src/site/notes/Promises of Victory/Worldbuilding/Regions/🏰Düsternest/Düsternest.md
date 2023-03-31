@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/duesternest/","title":"Düsternest","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/duesternest/","title":"Düsternest","noteIcon":"Settlement","created":"2023-01-25T02:26:53.606+01:00","updated":"2023-03-30T23:38:12.576+02:00"}
 ---
 
 ![grid_0.png](/img/user/resources/Pictures/grid_0.png)
