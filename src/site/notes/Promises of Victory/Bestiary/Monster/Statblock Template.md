@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/monster/statblock-template/","title":"Statblock Template","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/monster/statblock-template/","title":"Statblock Template","noteIcon":"Meta","created":"2023-01-25T02:26:54.326+01:00","updated":"2023-03-29T22:31:59.669+02:00"}
 ---
 
 # Statblock Template:
