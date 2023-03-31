@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/darkspear-trolls/jaloren/","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/darkspear-trolls/jaloren/","noteIcon":"NPC","created":"2023-03-26T22:52:14.121+02:00","updated":"2023-03-29T21:20:49.288+02:00"}
 ---
 
 Jaloren is a princess from the  [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]], known for her beauty and intelligence. She is the sister of [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]], a warrior who has been searching for her ever since she went missing under mysterious circumstances. Unknown to [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]], Jaloren has become a member of the Rituals of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]], a dark cult that uses powerful magic to manipulate and control others.
