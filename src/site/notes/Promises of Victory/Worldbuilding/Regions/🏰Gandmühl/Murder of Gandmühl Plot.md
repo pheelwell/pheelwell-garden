@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/murder-of-gandmuehl-plot/","title":"Murder of Gandmühl Plot","noteIcon":"Plot","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/murder-of-gandmuehl-plot/","title":"Murder of Gandmühl Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.818+01:00","updated":"2023-03-29T21:37:10.634+02:00"}
 ---
 
 
