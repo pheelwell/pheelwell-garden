@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/skelter/","title":"Skelter","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/skelter/","title":"Skelter","noteIcon":"NPC","created":"2023-01-25T02:26:54.393+01:00","updated":"2023-03-30T01:43:07.339+02:00"}
 ---
 
 ![Skelter.jpg](/img/user/resources/Pictures/Skelter.jpg)
