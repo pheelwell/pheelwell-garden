@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"2023-01-25T02:26:54.386+01:00","updated":"2023-03-30T16:13:48.408+02:00"}
 ---
 
 ![ransden.jpg](/img/user/resources/Pictures/ransden.jpg)
