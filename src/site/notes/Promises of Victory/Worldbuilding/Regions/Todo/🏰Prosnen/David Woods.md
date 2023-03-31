@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/prosnen/david-woods/","title":"David Woods","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/prosnen/david-woods/","title":"David Woods","noteIcon":"NPC","created":"2023-01-25T02:26:53.545+01:00","updated":"2023-03-29T21:38:29.827+02:00"}
 ---
 
 
