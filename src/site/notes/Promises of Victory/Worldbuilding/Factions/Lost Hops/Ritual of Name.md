@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/ritual-of-name/","title":"Ritual of Name","noteIcon":"Thing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/ritual-of-name/","title":"Ritual of Name","noteIcon":"Thing","created":"2023-01-25T02:26:54.086+01:00","updated":"2023-03-29T21:30:55.871+02:00"}
 ---
 
 Every Member of [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] undergoes Moms Ritual of Name. There they lose their name and every memory related to it and are given a new name. With the completion of the ritual, all non magical written evidence of the Person is removed. This way no one can track them or their family back through their real identity. When someone tries to remind them of their past they will forget again in about one minute. Even [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Mom\|Mom]] doesn't know the real names or origins of her group members.
