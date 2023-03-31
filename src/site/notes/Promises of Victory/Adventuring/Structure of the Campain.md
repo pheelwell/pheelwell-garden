@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-03-30T22:50:20.472+02:00"}
 ---
 
 
