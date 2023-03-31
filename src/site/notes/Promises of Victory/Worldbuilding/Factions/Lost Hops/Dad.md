@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/dad/","title":"Dad","noteIcon":"SideNPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/dad/","title":"Dad","noteIcon":"SideNPC","created":"2023-01-25T02:26:54.062+01:00","updated":"2023-03-29T21:30:44.545+02:00"}
 ---
 
 **Air Genasi Rogue**
