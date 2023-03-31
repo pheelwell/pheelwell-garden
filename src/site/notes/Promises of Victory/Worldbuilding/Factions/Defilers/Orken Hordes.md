@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/orken-hordes/","title":"Orken Hordes","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/orken-hordes/","title":"Orken Hordes","noteIcon":"Faction","created":"2023-01-25T02:26:53.949+01:00","updated":"2023-03-29T21:28:35.767+02:00"}
 ---
 
 Lead by [[Promises of Victory/Worldbuilding/Factions/Defilers/Grushnak\|Grushnak]].
