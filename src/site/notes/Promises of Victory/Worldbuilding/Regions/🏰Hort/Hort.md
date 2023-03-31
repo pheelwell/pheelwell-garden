@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/hort/hort/","title":"Hort","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/hort/hort/","title":"Hort","noteIcon":"Settlement","created":"2023-01-25T02:26:53.407+01:00","updated":"2023-03-29T21:57:43.939+02:00"}
 ---
 
 Hort was a village of little renown, its population scarce and mostly composed of the diminutive halflings and gnomes. With no trade or nearby mines to provide coin, the villagers lived in poverty. They were a surly lot, harsh of tongue and unhelpful in attitude. 
