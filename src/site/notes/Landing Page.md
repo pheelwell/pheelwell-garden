@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-03-31T13:17:13.522+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-03-31T18:11:31.086+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 This is my Digital Garden. I publish all my notes so that you can roam them.
 I will probably abandon this site as most of my projects collect dust after a while.
 
-To get started, here is a list of my projects: 
+To get started, here is a list of my projects:
 
 ## Promises of Victory
 ![Pasted image 20230329230847.png](/img/user/resources/Pictures/Pasted%20image%2020230329230847.png)
@@ -27,3 +27,23 @@ Things you could start with:
 ![Pasted image 20230329225428.png](/img/user/resources/Pictures/Pasted%20image%2020230329225428.png)
 Notes on a campaign I am a player in.
 My PC: [[Stormwreck Isle/Kix\|Kix]]
+
+
+## Last Updated Articles: 
+``` dataview
+table
+  file.mtime as "Last Updated",
+  file.size as "Size (bytes)",
+  file.link as "Link"
+from ""
+sort file.mtime desc
+limit 5
+```
+## Largest Articles
+``` dataview
+table
+  file.size as "Size (bytes)"
+from ""
+sort file.size desc
+limit 5
+```
