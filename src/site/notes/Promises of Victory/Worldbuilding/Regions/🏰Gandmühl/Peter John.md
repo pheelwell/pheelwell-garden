@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/peter-john/","title":"Peter John","noteIcon":"SideNPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/peter-john/","title":"Peter John","noteIcon":"SideNPC","created":"2023-01-25T02:26:53.839+01:00","updated":"2023-03-29T21:37:16.424+02:00"}
 ---
 
 
