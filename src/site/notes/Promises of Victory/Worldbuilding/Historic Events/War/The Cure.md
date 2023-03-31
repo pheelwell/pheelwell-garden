@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/historic-events/war/the-cure/","title":"The Cure","noteIcon":"History","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/historic-events/war/the-cure/","title":"The Cure","noteIcon":"History","created":"2023-01-25T02:26:52.857+01:00","updated":"2023-03-29T21:23:35.466+02:00"}
 ---
 
 The Cure for [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] was found in the year 3018 by the [[paladin\|paladin]] [[Promises of Victory/Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]. It was a complicated mixture of holy essences. The Cure was distributed to the people of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], and [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] was brought under control. The prevents [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] from going rampage, but didn't revert the already undead.
