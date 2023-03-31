@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stormwreck-isle/eyes-of-the-dragon/","title":"Eyes of the Dragon","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/stormwreck-isle/eyes-of-the-dragon/","title":"Eyes of the Dragon","noteIcon":"Faction","created":"2023-02-12T19:51:25.215+01:00","updated":"2023-03-29T21:42:02.849+02:00"}
 ---
 
 
