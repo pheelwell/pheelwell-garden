@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/edschmied/edschmied/","title":"Edschmied","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/edschmied/edschmied/","title":"Edschmied","noteIcon":"Settlement","created":"2023-01-25T02:26:53.718+01:00","updated":"2023-03-29T21:36:38.138+02:00"}
 ---
 
 
