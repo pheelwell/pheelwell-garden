@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandmuehl-bread-plot/","title":"Gandmühl Bread Plot","noteIcon":"Plot","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandmuehl-bread-plot/","title":"Gandmühl Bread Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.783+01:00","updated":"2023-03-29T21:37:00.595+02:00"}
 ---
 
 
