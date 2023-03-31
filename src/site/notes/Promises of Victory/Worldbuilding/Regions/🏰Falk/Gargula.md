@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/gargula/","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/gargula/","noteIcon":"NPC","created":"2023-03-30T23:27:49.683+02:00","updated":"2023-03-31T01:14:57.238+02:00"}
 ---
 
 Gargula is a mysterious, black-clothed old lady who sees omens and sells magical trinkets in the small town of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]].
