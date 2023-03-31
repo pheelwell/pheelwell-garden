@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-03-31T13:19:06.178+02:00"}
 ---
 
 # Adventuring Party
@@ -52,6 +52,7 @@ Characters have intermingled Backstorys:
 - The Party is abducted into [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]] that lies near the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills.
 - Inside [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]], they attend a local festival (the Bright Sun Festival)
 - They talk with [[Promises of Victory/Worldbuilding/Factions/DEHTA/Broll Bearmantle\|Broll Bearmantle]], head Druid of [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]]
+- 
 - They learn about a young green dragon helping Druids hatch last known green dragon eggs in Basin
 
 ## Chapter 6: [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]] Research
