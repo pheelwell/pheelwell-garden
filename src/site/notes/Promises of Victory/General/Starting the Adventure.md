@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/starting-the-adventure/","title":"Starting the Adventure","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/starting-the-adventure/","title":"Starting the Adventure","noteIcon":"Meta","created":"2023-01-25T02:26:52.791+01:00","updated":"2023-03-30T13:04:48.335+02:00"}
 ---
 
 >[!WARNING] THIS IS STILL WIP
