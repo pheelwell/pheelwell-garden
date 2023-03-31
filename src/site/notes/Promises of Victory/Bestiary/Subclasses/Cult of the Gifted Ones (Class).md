@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/subclasses/cult-of-the-gifted-ones-class/","title":"Cult of the Gifted Ones (Class)","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/subclasses/cult-of-the-gifted-ones-class/","title":"Cult of the Gifted Ones (Class)","noteIcon":"Meta","created":"2023-01-25T02:26:54.343+01:00","updated":"2023-03-29T21:23:01.513+02:00"}
 ---
 
 

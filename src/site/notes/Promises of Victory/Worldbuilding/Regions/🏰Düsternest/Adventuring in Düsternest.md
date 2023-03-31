@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/adventuring-in-duesternest/","title":"Adventuring in Düsternest","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/adventuring-in-duesternest/","title":"Adventuring in Düsternest","noteIcon":"Meta","created":"2023-01-25T02:26:53.566+01:00","updated":"2023-03-31T17:28:09.965+02:00"}
 ---
 
 # Adventuring in Düsternest
@@ -11,7 +11,7 @@
 | **Artifact of Chaos**           | n/a |                       |
 | **Souls of the Dead**           |     |                       |
 | **The Titan Smith**             | n/a |                       |
-| **The Resurrection of Nar’run** |     | **Name:** Dr Phalando |
+| **The Resurrection of Nar’run** |     | **Name:** [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] |
 
 
 ### Hooks

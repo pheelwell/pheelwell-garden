@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/tren-brattingham/","title":"Tren Brattingham","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/tren-brattingham/","title":"Tren Brattingham","noteIcon":"NPC","created":"2023-01-25T02:26:53.682+01:00","updated":"2023-03-29T21:36:00.972+02:00"}
 ---
 
 **Human - Private Investigator**

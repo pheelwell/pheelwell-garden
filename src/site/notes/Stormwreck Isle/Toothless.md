@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stormwreck-isle/toothless/","title":"Toothless","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/stormwreck-isle/toothless/","title":"Toothless","noteIcon":"Faction","created":"2023-03-04T15:15:55.591+01:00","updated":"2023-03-29T21:42:11.105+02:00"}
 ---
 
 

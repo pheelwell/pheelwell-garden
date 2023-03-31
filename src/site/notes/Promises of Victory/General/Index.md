@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/index/","title":"Ancient Events","hideInGraph":true,"noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/index/","title":"Ancient Events","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-27T20:48:40.686+02:00","updated":"2023-03-30T22:50:34.334+02:00"}
 ---
 
 

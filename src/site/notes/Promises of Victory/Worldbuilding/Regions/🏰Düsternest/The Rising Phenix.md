@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/the-rising-phenix/","title":"The Rising Phenix","noteIcon":"Locality","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/the-rising-phenix/","title":"The Rising Phenix","noteIcon":"Locality","created":"2023-01-25T02:26:53.664+01:00","updated":"2023-03-29T21:35:53.150+02:00"}
 ---
 
 ### The Rising Phenix

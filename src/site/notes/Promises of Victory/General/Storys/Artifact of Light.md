@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/storys/artifact-of-light/","title":"Artifact of Light","noteIcon":"Arc","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/storys/artifact-of-light/","title":"Artifact of Light","noteIcon":"Arc","created":"2023-01-25T02:26:52.971+01:00","updated":"2023-03-29T21:25:44.413+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/storys/souls-of-the-dead/","title":"Souls of the Dead","noteIcon":"Arc","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/storys/souls-of-the-dead/","title":"Souls of the Dead","noteIcon":"Arc","created":"2023-01-25T02:26:52.985+01:00","updated":"2023-03-29T21:25:53.166+02:00"}
 ---
 
 

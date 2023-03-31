@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/sturmklau/","title":"Sturmklau","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/sturmklau/","title":"Sturmklau","noteIcon":"Settlement","created":"2023-01-25T02:26:53.515+01:00","updated":"2023-03-29T21:39:42.865+02:00"}
 ---
 
 - Artifact is carried to Sturmklau to hatch the Dragon egg. (Together with Heart of Forrest + Lesser Chaos magic, no titan no death)

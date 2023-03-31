@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/the-triad/head-of-archives/","title":"Head of Archives","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/the-triad/head-of-archives/","title":"Head of Archives","noteIcon":"NPC","created":"2023-01-25T02:26:54.273+01:00","updated":"2023-03-29T21:32:44.983+02:00"}
 ---
 
 The Head of Archives is the most secretive member of the Triad.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/duesternest-artisans-guilds/","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/duesternest-artisans-guilds/","noteIcon":"Faction","created":"2023-01-25T02:26:53.972+01:00","updated":"2023-03-30T18:25:27.920+02:00"}
 ---
 
 ### Düsternest Artisans Guilds

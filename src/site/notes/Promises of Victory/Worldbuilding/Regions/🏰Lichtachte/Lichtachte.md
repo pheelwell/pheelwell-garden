@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/lichtachte/lichtachte/","title":"Lichtachte","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/lichtachte/lichtachte/","title":"Lichtachte","noteIcon":"Settlement","created":"2023-01-25T02:26:53.868+01:00","updated":"2023-03-30T16:08:21.280+02:00"}
 ---
 
 # Overview

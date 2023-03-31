@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/forge-of-life/","title":"Gantt","noteIcon":"Locality","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/forge-of-life/","title":"Gantt","noteIcon":"Locality","created":"2023-03-25T23:56:40.233+01:00","updated":"2023-03-29T21:39:12.051+02:00"}
 ---
 
 

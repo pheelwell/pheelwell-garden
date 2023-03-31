@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/volar/","title":"Volar","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/volar/","title":"Volar","noteIcon":"NPC","created":"2023-01-25T02:26:54.260+01:00","updated":"2023-03-30T14:25:15.173+02:00"}
 ---
 
 

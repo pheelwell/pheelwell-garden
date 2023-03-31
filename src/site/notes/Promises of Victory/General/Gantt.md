@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/gantt/","title":"Gantt","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/gantt/","title":"Gantt","noteIcon":"Meta","created":"2023-01-25T02:14:11.865+01:00","updated":"2023-03-30T12:47:36.203+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/falk/","title":"Falk","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/falk/","title":"Falk","noteIcon":"Settlement","created":"2023-01-25T02:26:53.376+01:00","updated":"2023-03-31T00:06:35.554+02:00"}
 ---
 
 

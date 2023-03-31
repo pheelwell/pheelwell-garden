@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/high-paladin-erathenar/","title":"High Paladin Erathenar","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/high-paladin-erathenar/","title":"High Paladin Erathenar","noteIcon":"NPC","created":"2023-01-25T02:26:54.037+01:00","updated":"2023-03-29T21:30:31.482+02:00"}
 ---
 
 

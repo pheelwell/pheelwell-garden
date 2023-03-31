@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/the-cathedral-competition-plothook/","title":"The Cathedral Competition Plothook","noteIcon":"Scene","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/the-cathedral-competition-plothook/","title":"The Cathedral Competition Plothook","noteIcon":"Scene","created":"2023-01-25T02:26:53.657+01:00","updated":"2023-03-29T21:35:48.954+02:00"}
 ---
 
 ## The Cathedral Competition Plothook

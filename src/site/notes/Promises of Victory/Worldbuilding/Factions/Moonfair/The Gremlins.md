@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/moonfair/the-gremlins/","title":"The Gremlins","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/moonfair/the-gremlins/","title":"The Gremlins","noteIcon":"Faction","created":"2023-01-25T02:26:54.156+01:00","updated":"2023-03-29T21:31:25.745+02:00"}
 ---
 
 

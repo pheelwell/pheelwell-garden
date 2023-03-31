@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/fulfiller-s-market/","title":"Gantt","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/fulfiller-s-market/","title":"Gantt","noteIcon":"Settlement","created":"2023-03-26T23:55:50.697+02:00","updated":"2023-03-29T21:39:29.633+02:00"}
 ---
 
 

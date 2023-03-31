@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/lichtachte/heist-on-the-cathedral-plot/","title":"Heist on the Cathedral Plot","noteIcon":"Plot","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/lichtachte/heist-on-the-cathedral-plot/","title":"Heist on the Cathedral Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.859+01:00","updated":"2023-03-29T21:37:48.100+02:00"}
 ---
 
 This Plot 

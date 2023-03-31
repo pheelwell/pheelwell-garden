@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/edschmied/adventuring-in-edschmied/","title":"Adventuring in Edschmied","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/edschmied/adventuring-in-edschmied/","title":"Adventuring in Edschmied","noteIcon":"Meta","created":"2023-01-25T02:26:53.695+01:00","updated":"2023-03-29T21:36:22.008+02:00"}
 ---
 
 # Adventuring in Edschmied

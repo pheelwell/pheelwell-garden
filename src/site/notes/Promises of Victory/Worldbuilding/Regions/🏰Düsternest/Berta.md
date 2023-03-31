@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/berta/","title":"Berta","noteIcon":"SideNPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/berta/","title":"Berta","noteIcon":"SideNPC","created":"2023-01-25T02:26:53.574+01:00","updated":"2023-03-29T21:35:22.852+02:00"}
 ---
 
 ### Berta

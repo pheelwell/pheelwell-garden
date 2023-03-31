@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"2023-03-27T00:08:32.913+02:00","updated":"2023-03-30T01:43:50.181+02:00"}
 ---
 
 ![Pasted image 20230330014338.png](/img/user/resources/Pictures/Pasted%20image%2020230330014338.png)

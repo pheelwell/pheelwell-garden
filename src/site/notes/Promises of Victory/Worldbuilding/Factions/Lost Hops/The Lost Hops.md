@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/the-lost-hops/","title":"The Lost Hops","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/the-lost-hops/","title":"The Lost Hops","noteIcon":"Faction","created":"2023-01-25T02:26:54.116+01:00","updated":"2023-03-29T21:31:05.254+02:00"}
 ---
 
 The city of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]  has a hidden underground smuggling operation called "The [[Lost Hopps\|Lost Hopps]]".

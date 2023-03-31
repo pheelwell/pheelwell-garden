@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/moonfair/the-moonfair/","title":"The Moonfair","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/moonfair/the-moonfair/","title":"The Moonfair","noteIcon":"Faction","created":"2023-01-25T02:26:54.170+01:00","updated":"2023-03-29T21:31:29.166+02:00"}
 ---
 
 ![partyfriend_Halfling_with_purple_Zylinder_and_tuxedo_walking_do_ad58d710-52f6-4bf7-b658-883483ccf1ca.png](/img/user/resources/Pictures/partyfriend_Halfling_with_purple_Zylinder_and_tuxedo_walking_do_ad58d710-52f6-4bf7-b658-883483ccf1ca.png)!

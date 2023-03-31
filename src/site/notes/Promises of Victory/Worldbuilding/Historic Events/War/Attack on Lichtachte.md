@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/historic-events/war/attack-on-lichtachte/","title":"Attack on Lichtachte","noteIcon":"History","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/historic-events/war/attack-on-lichtachte/","title":"Attack on Lichtachte","noteIcon":"History","created":"2023-01-25T02:26:52.841+01:00","updated":"2023-03-30T12:49:03.373+02:00"}
 ---
 
 

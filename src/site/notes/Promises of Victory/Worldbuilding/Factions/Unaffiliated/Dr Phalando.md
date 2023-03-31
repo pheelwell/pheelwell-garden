@@ -1,9 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/dr-phalando/","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/dr-phalando/","noteIcon":"NPC","created":"2023-03-27T00:06:13.195+02:00","updated":"2023-03-31T17:31:53.444+02:00"}
 ---
 
 
 Dr. Phalando is a slightly eccentric professor living in the small town of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]. He resides in a laboratory situated on top of the only hill in town, where he conducts his experiments and research. Unbeknownst to most, Dr. Phalando guards a dangerous secret: beneath his house lies the entrance to the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]].
+
+> [!TIP] Quick Reference
+> ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
+> **Dr. Phalando** _Undead Wizard_ 
+> Eccentric professor in Falk guarding the entrance to the Forge of Chaos.
+>- **Motivation**: Protecting the secret, pursuing arcane knowledge, ensuring powerful artifacts don't fall into wrong hands
+>- **Ideals**: Knowledge, Secrecy
+>- **Bonds**: Broll Bearmantle, Gargula
+>- **Flaws**: Eccentricity, Paranoia
+>----
+>- **Roleplaying Tips**: Appear distracted or absent-minded but eager to share knowledge when prompted; friendly and helpful but paranoid and secretive about certain topics.
+>-  **Quirk**: Always carries around a small notebook filled with illegible scribbles and doodles.
 
 # Appearance
 **Undead Wizard**
