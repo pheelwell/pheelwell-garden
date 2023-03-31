@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/mom/","title":"Mom","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/mom/","title":"Mom","noteIcon":"NPC","created":"2023-01-25T02:26:54.078+01:00","updated":"2023-03-29T21:30:51.336+02:00"}
 ---
 
 **Fire Genasi Artificer**
