@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-cult-of-the-gifted/","title":"The Cult of the Gifted","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-cult-of-the-gifted/","title":"The Cult of the Gifted","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-03-29T21:28:03.346+02:00"}
 ---
 
 
