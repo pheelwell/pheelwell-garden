@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lpf/league-of-paranormal-researchers/","title":"League of Paranormal Researchers","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lpf/league-of-paranormal-researchers/","title":"League of Paranormal Researchers","noteIcon":"Faction","created":"2023-01-25T02:26:54.144+01:00","updated":"2023-03-29T21:31:17.851+02:00"}
 ---
 
 The LPF is a secret organization trying to unshed mysteries all over [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]].
