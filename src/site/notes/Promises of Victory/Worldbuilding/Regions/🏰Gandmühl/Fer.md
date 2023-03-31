@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/fer/","title":"Fer","noteIcon":"SideNPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/fer/","title":"Fer","noteIcon":"SideNPC","created":"2023-01-25T02:26:53.750+01:00","updated":"2023-03-29T21:36:52.976+02:00"}
 ---
 
 
