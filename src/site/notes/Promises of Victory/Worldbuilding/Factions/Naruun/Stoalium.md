@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/naruun/stoalium/","title":"Stoalium","noteIcon":"Thing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/naruun/stoalium/","title":"Stoalium","noteIcon":"Thing","created":"2023-01-25T02:26:54.191+01:00","updated":"2023-03-29T21:31:51.102+02:00"}
 ---
 
 
