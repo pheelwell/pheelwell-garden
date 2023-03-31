@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/turnback/","title":"Turnback","noteIcon":"History","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/turnback/","title":"Turnback","noteIcon":"History","created":"2023-01-25T02:26:54.237+01:00","updated":"2023-03-29T21:32:17.839+02:00"}
 ---
 
 
