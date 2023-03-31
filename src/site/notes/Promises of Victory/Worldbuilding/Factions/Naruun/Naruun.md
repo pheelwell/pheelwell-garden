@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/naruun/naruun/","title":"Naruun","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/naruun/naruun/","title":"Naruun","noteIcon":"NPC","created":"2023-01-25T02:26:54.184+01:00","updated":"2023-03-29T21:31:39.096+02:00"}
 ---
 
 
