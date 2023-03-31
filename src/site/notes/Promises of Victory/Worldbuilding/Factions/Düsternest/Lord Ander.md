@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-03-30T21:01:32.412+02:00"}
 ---
 
 ![[Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png \| 100]]
