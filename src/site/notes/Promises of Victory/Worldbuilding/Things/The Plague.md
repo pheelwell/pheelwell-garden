@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/things/the-plague/","title":"The Plague","noteIcon":"Thing","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/things/the-plague/","title":"The Plague","noteIcon":"Thing","created":"2023-01-25T02:26:53.325+01:00","updated":"2023-03-29T21:26:13.518+02:00"}
 ---
 
 
