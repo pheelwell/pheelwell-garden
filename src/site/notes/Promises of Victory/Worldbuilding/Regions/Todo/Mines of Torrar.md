@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/mines-of-torrar/","title":"Mines of Torrar","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/mines-of-torrar/","title":"Mines of Torrar","noteIcon":"Settlement","created":"2023-01-25T02:26:53.507+01:00","updated":"2023-03-29T21:39:35.958+02:00"}
 ---
 
 
