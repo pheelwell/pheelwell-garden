@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/subclasses/shadow-hunter/","title":"Shadow Hunter","noteIcon":"Meta","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/subclasses/shadow-hunter/","title":"Shadow Hunter","noteIcon":"Meta","created":"2023-01-25T02:26:54.353+01:00","updated":"2023-03-29T21:23:07.199+02:00"}
 ---
 
 You can choose the **Shadow Hunter** subclass for the **Rogue** class. 
