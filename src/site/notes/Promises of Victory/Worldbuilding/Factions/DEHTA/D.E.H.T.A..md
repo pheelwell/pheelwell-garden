@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/dehta/d-e-h-t-a/","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/dehta/d-e-h-t-a/","noteIcon":"Faction","created":"2023-03-26T23:18:33.970+02:00","updated":"2023-03-31T14:02:16.327+02:00"}
 ---
 
 
