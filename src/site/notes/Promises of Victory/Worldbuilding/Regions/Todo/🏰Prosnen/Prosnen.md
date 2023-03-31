@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/prosnen/prosnen/","title":"Prosnen","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/prosnen/prosnen/","title":"Prosnen","noteIcon":"Settlement","created":"2023-01-25T02:26:53.554+01:00","updated":"2023-03-30T16:13:38.131+02:00"}
 ---
 
 
