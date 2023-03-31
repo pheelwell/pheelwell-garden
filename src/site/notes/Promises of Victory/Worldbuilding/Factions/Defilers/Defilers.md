@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/defilers/","title":"Defilers","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/defilers/","title":"Defilers","noteIcon":"Faction","created":"2023-01-25T02:26:53.913+01:00","updated":"2023-03-29T21:28:20.827+02:00"}
 ---
 
 The Defilers were formed in the wake of a great tragedy, when a powerful necromancer named [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was exiled from her home in [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]. Desperate and alone, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was determined to make a new life for herself, free from persecution. To that end, she traveled to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and set up camp with her loyal followers, who had also been exiled from their homes.
