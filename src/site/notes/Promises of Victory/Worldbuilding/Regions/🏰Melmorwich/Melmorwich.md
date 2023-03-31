@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/melmorwich/melmorwich/","title":"Melmorwich","noteIcon":"Settlement","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/melmorwich/melmorwich/","title":"Melmorwich","noteIcon":"Settlement","created":"2023-01-25T02:26:53.417+01:00","updated":"2023-03-29T23:16:53.753+02:00"}
 ---
 
 The city is situated ontop of a hill and is surrounded by castle walls. The inner city is rather rundown and rancid but the undead don't mind. The outer city is much nicer and is where most of the undead live. The city is also home to many different temples and shrines to the undead god.
