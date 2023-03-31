@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/the-shaddowhammer/","title":"The Shaddowhammer","noteIcon":"Faction","created":"","updated":""}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/the-shaddowhammer/","title":"The Shaddowhammer","noteIcon":"Faction","created":"2023-01-25T02:26:54.230+01:00","updated":"2023-03-29T21:32:13.338+02:00"}
 ---
 
 The Shaddowhammer is a extreme offspring of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]. They share the same goal as the Cult, but decided to go a extremer and darker path by using the powers of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Ilsensine\|Ilsensine]], an Eldrich deity. 
