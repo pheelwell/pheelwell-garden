@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/dr-phalando/","noteIcon":"NPC","created":"2023-03-27T00:06:13.195+02:00","updated":"2023-03-31T17:30:43.515+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/dr-phalando/","noteIcon":"NPC","created":"2023-03-27T00:06:13.195+02:00","updated":"2023-03-31T17:31:53.444+02:00"}
 ---
 
 
@@ -69,16 +69,3 @@ When roleplaying Dr. Phalando, emphasize his intelligence and eccentricity. He m
 
 > [!secret] Secret
 > Dr. Phalando has discovered that someone within the town has been trying to learn more about the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]] - he must find out who this person is before they uncover its secrets or bring harm upon themselves or others.
-
-Write a Quck refference like:
-> [!TIP] Quick Refference
-> ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
-> **Insert Name** _Race Class_ 
->  One sentence description
->- **Motivation**: in, single, keywords
->- **Ideals**: in, single, keywords
->- **Bonds**: in, single, keywords
->- **Flaws**: in, single, keywords
->----
->- **Roleplaying Tips**: Things to be reminded while roleplaying
->-  **Quirk**: something memorable
