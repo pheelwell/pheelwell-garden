@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/goats/the-goats/","title":"The Goats","noteIcon":"Faction","created":"2023-01-25T02:26:54.022+01:00","updated":"2023-03-29T21:30:05.849+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/goats/the-goats/","title":"The Goats","noteIcon":"Faction","created":"2023-01-25T02:26:54.022+01:00","updated":"2023-04-01T02:15:22.178+02:00"}
 ---
 
 
@@ -66,8 +66,6 @@ The symbol of the Goats is a goat's head with a curved knife in its mouth.
 ![guild_symbol_goats_head_with_a_curved_dagger_in_its_.png](/img/user/resources/Pictures/guild_symbol_goats_head_with_a_curved_dagger_in_its_.png)
 
 ![Landscape_portrait_inside_of_fantasy_city_at_night_h.png](/img/user/resources/Pictures/Landscape_portrait_inside_of_fantasy_city_at_night_h.png)
-
-
 
 
 ### Inner Circles
