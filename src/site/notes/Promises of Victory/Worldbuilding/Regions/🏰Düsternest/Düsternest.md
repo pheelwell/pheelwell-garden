@@ -44,6 +44,6 @@ Düsternest has a militia, which is responsible for defending the city and its c
 
 
 
-![old_street_by_abzac666_d6j3ye0-fullview.jpg](/img/user/old_street_by_abzac666_d6j3ye0-fullview.jpg)
+![old_street_by_abzac666_d6j3ye0-fullview.jpg](/img/user/resources/Pictures/old_street_by_abzac666_d6j3ye0-fullview.jpg)
 
-![5a5ecfb69ff9fcf4ba6b4a839c3b3253.png](/img/user/5a5ecfb69ff9fcf4ba6b4a839c3b3253.png)
+![5a5ecfb69ff9fcf4ba6b4a839c3b3253.png](/img/user/resources/Pictures/5a5ecfb69ff9fcf4ba6b4a839c3b3253.png)

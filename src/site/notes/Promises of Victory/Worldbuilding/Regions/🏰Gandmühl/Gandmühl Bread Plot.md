@@ -7,12 +7,12 @@ The Gandmühler bread is a type of bread made in Gandmühl. It is made with a sp
 
 ### The secret behind the bread
 
-The special ingridients are actually a special type of crystal found in a nearby cave system. These crystals when crushed and added to bread dough, make the bread rise much higher and taste sweeter. The Baker came to the knowlage about the Crystals from [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] on his market.
+The special ingridients are actually a special type of crystal found in a nearby cave system. These crystals when crushed and added to bread dough, make the bread rise much higher and taste sweeter. The Baker came to the knowlage about the Crystals from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] on his market.
 
 ### The secret behind the secret
 
-Event the Baker didn't know the Deal he has struck with [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]]. The Bread might be the best in the Region but each loaf of bread is cursed. The curse just lingers in the back of the Persons soul to activate on Death, transferring the soul energy to the fulfillers market. The effect is not dramatic but it does allow [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] to make a tiny bit of money off each loaf of bread sold.
-Usualy [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] wants to ruin the life of people, but this is not the case this time. In this case she wants to use the soul energy to send them to the joined efferots of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] Clan.
+Event the Baker didn't know the Deal he has struck with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]. The Bread might be the best in the Region but each loaf of bread is cursed. The curse just lingers in the back of the Persons soul to activate on Death, transferring the soul energy to the fulfillers market. The effect is not dramatic but it does allow [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] to make a tiny bit of money off each loaf of bread sold.
+Usualy [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] wants to ruin the life of people, but this is not the case this time. In this case she wants to use the soul energy to send them to the joined efferots of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] Clan.
 
 
 ## The Reformers
@@ -46,7 +46,7 @@ The party can investigate the forest to see if they can find anything that would
 
 ### Asking [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandra\|Gandra]] about the origins of the Crystals
 
-The party can confront [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandra\|Gandra]] with their findings and she will tell them that she learned about the crystals from [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]]. She will also tell them that she only wanted to help the town and that she didn't know the crystals were cursed.
+The party can confront [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandra\|Gandra]] with their findings and she will tell them that she learned about the crystals from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]. She will also tell them that she only wanted to help the town and that she didn't know the crystals were cursed.
 
 ### Destroying the crystals
 
@@ -65,6 +65,6 @@ Asking around the lumberjacks, the party can find out that the wood is sold to [
 
 ## Aftermath:
 
-### Confronting [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]]
+### Confronting [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
 
-When visiting the Fullfiller to a later ocasion the party can confront [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] about the curse. She will proclaim that she only wanted to help [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandra\|Gandra]]. She will also tell them that she only makes deals with people who are willing and that she doesn't force anyone into anything.  
+When visiting the Fullfiller to a later ocasion the party can confront [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] about the curse. She will proclaim that she only wanted to help [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandra\|Gandra]]. She will also tell them that she only makes deals with people who are willing and that she doesn't force anyone into anything.  

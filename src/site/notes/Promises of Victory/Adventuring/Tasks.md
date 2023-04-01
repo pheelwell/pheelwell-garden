@@ -22,13 +22,13 @@
 - [x] Learn more about the [[Plague\|Plague]] and its connection to [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] 
 - [ ] Explore [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] and uncover why [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was exiled from there
 
-## [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|Fulfiller]]
-- [ ] Find out about the connection of [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]] 
+## [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]]
+- [ ] Find out about the connection of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]] 
 - [ ] Find out about the Meaning of the Talismans
-- [ ] Discover what is  [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]]'s Market and how does it operate
-- [ ] Uncover what kind of deals [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] offers and what is the purpose behind them
-- [ ] Figure out how to fight against [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]]'s influence and power 
-- [ ] Learn what kind of trinkets or items [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] needs to accumulate bad emotions and how she uses them
+- [ ] Discover what is  [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]'s Market and how does it operate
+- [ ] Uncover what kind of deals [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] offers and what is the purpose behind them
+- [ ] Figure out how to fight against [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]'s influence and power 
+- [ ] Learn what kind of trinkets or items [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] needs to accumulate bad emotions and how she uses them
 
 ## [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
 - [ ] Discover the truth behind [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
@@ -56,7 +56,7 @@
 
 ## [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Researchers\|LPF]]
 - [ ] Investigate the [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Researchers\|League of Paranormal Researchers]] and their secretive activities
-- [ ] Find out about the special machinery given to them by [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]]
+- [ ] Find out about the special machinery given to them by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
 - [ ] Discover the research conducted by the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] Research Department
 - [ ] Uncover the dark secrets of some extreme experiments conducted by [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Researchers\|LPF]]
 - [ ] Investigate what they have learned about [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and their purpose

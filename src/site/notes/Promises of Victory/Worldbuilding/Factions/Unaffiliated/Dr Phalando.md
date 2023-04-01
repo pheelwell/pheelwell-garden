@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/dr-phalando/","noteIcon":"NPC","created":"2023-03-27T00:06:13.195+02:00","updated":"2023-03-31T17:31:53.444+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/dr-phalando/","noteIcon":"NPC","created":"2023-03-27T00:06:13.195+02:00","updated":"2023-03-31T18:00:51.822+02:00"}
 ---
 
 

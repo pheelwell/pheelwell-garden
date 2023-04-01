@@ -25,7 +25,7 @@ The members of the LPF are experts in many different fields, including:
 One Branch of the LPF is the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] Research Department, which is devoted to understanding the nature and purpose of the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]].
 The [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] Research Department has been studying the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] for many years, and they have a lot of knowledge about them. They know that the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] are benevolent beings who help the [[Promises of Victory/General/Storys/Souls of the Dead\|Souls of the Dead]] to release their pent-up anxiety and move on to the afterlife.
 They have trouble to get in Contact with the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]], as they are very secretive, but they have managed to observe them at deathbeads on single ocasions.
-Recently [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] gave some researchers some machinery to see into what happens at a near death scenario.
+Recently [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] gave some researchers some machinery to see into what happens at a near death scenario.
 They observed that the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] are guiding the [[Promises of Victory/General/Storys/Souls of the Dead\|Souls of the Dead]] with unfulfilled ambitions through their last whishes.
 
 ### Dark Secrets

@@ -14,7 +14,7 @@ A Undead Priest once in service of the [[Promises of Victory/Worldbuilding/Facti
 
 [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]]
 This Goblin left the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]] to search for a way for it to undo their Pact they did with the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Gremlins\|The Gremlins]].
-**Story Relevance:** In the Partys research they find [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] who is responsible for the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]]s deal. [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|The Fulfiller]] is also one of the few creatures to actually remember [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] as a God of False Promisses
+**Story Relevance:** In the Partys research they find [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] who is responsible for the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]]s deal. [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] is also one of the few creatures to actually remember [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] as a God of False Promisses
 
 [[Promises of Victory/Adventuring/Player Characters/Semloh Kolrehs\|Semloh Kolrehs]]
 This Undead Half Elf Ranger just recently turned into an Undead.
