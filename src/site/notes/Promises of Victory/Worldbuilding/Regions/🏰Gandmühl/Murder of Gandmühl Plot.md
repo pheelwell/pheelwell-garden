@@ -44,4 +44,4 @@ Once the party has found out Lambrecht's real name, they can track him down and 
 
 ### Implications
 
-Tarwin despair -> [[Promises of Victory/Worldbuilding/Factions/Fulfiller/The Fulfiller\|Fulfiller]] Seduces Tarwin -> Tarwin becomes Volair  
+Tarwin despair -> [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]] Seduces Tarwin -> Tarwin becomes Volair  
