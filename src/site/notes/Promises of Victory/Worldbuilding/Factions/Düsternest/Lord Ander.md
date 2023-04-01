@@ -1,35 +1,71 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-03-30T21:01:32.412+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-04-01T03:11:12.256+02:00"}
 ---
 
-![[Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png \| 100]]
-The Lord of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] is Lord Ander, who is a fair and just ruler. He is known for being very supportive of the arts, and for his love of good food and drink.
-Lord Ander is famous for being a war veteran tired of all the fighting, and he has made it his mission to make [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] a peaceful and prosperous city.
-Although wanting a peaceful city, he is far from careless, and has made sure that the city is well defended.
-He works close together with the [[Promises of Victory/Worldbuilding/Factions/Düsternest/Düsternest Artisans Guilds\|Düsternest Artisans Guilds]]
 
-One of Lord Ander's most significant accomplishments is his dedication to ensuring that [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] remains well-defended. Under his rule, the city has developed strong fortifications and a capable guard force to protect its citizens from any potential threats. However, he always emphasizes diplomacy over aggression, believing that peaceful resolution should always be attempted before resorting to violence.
+Lord Ander is the fair and just ruler of the city of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]. He is a middle-aged man with a strong build, bearing the scars of past battles. His face has a large scar running across it, a souvenir from his time as a war veteran. Despite his imposing appearance, he has an air of warmth and approachability.
 
-> [!tip] GM Tip
-> Use Lord Ander's goals for peace and prosperity as a driving force behind many of the quests or events in [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]. This can create opportunities for players to work directly with him or on his behalf.
+> [!TIP] Quick Reference
+> ![[Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png \| 300]] 
+> **Lord Ander** _Human Ruler_
+>  Fair and just ruler of Düsternest, focused on peace, prosperity, and the arts.
+>- **Motivation**: Peace, prosperity, supporting arts and culture
+>- **Ideals**: Diplomacy over violence, local talent, valuing art and beauty
+>- **Bonds**: Artisans Guilds, the Lost Hops, citizens of Düsternest
+>- **Flaws**: Tiredness from war, overemphasis on diplomacy
+> ____
+>- **Roleplaying Tips**: Emphasize dedication to peace and prosperity while showcasing wariness as a battle-hardened veteran.
+>-  **Quirk**: Appreciation for good food and drink
 
-Lord Ander has forged close ties with the [[Promises of Victory/Worldbuilding/Factions/Düsternest/Düsternest Artisans Guilds\|Düsternest Artisans Guilds]], recognizing the importance of art and craftsmanship in building a thriving city. He often commissions works from local artists, using their talents to beautify public spaces, create monuments honoring heroes of the past, or even design new structures and innovations that improve life within [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]].
+# Appearance
+Lord Ander is a middle-aged human male with a strong build, hardened by his years as a war veteran. He bears an imposing scar across his face, which only serves to emphasize his air of authority. Despite his fierce appearance, he exudes warmth and approachability. As the ruler of Düsternest, he is dedicated to promoting peace, prosperity, and the arts within his city. His appreciation for good food and drink lends an air of joviality to his gatherings and feasts.
 
-Ander's focus on art and culture provides an excellent opportunity for player characters with artistic talents or interests to find work or inspiration within [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]. Additionally, characters who share his values may find themselves drawn to assist him in maintaining peace and order within the city. 
+### Motivations
+- Establishing peace and prosperity within Düsternest.
+- Encouraging arts and culture in the city.
+- Ensuring that the city remains well-defended without resorting to aggression.
 
-Although Lord Ander seeks peace, don't forget that he is a war veteran who knows how to fight. If the situation demands it, he won't hesitate to take up arms to protect his people.
+### Ideals
+- Preferring diplomacy over violence.
+- Supporting local talent and craftsmanship.
+- Valuing art, culture, and beauty.
 
-> [!seed]
-> Some citizens of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] may not agree with Lord Ander's pacifist stance, potentially creating internal strife or even an underground faction opposing his rule. This could provide an interesting subplot for players to uncover during their time in the city.
+### Bonds
+- Close relationships with Düsternest's Artisans Guilds.
+- An uneasy alliance with the Lost Hops organization.
+- Loyalty to the citizens of Düsternest.
 
-[[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] is a place where art, culture, and peace are valued highly under the rule of Lord Ander. As a fair and just ruler, he seeks to make his city a beacon of prosperity and harmony for all who call it home. Players who find themselves in [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] will have the opportunity to work towards these noble goals alongside Lord Ander or perhaps even challenge them if they believe a different path is needed for the city's future.
+### Flaws
+- Tiredness from his past as a war veteran can make him slow to react in new conflicts.
+- Overemphasis on diplomacy can sometimes blind him to threats requiring more direct action.
 
-# Involvement with [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|the Lost Hops]]
-Lord Ander is aware that the [[Lost Hopps\|Lost Hopps]] operate within Düsternest, and although they may engage in some questionable activities, he recognizes that their goals are ultimately noble and beneficial to the city. As such, he has chosen to provide them with a measure of cover, allowing them to continue their work without interference from the city guard or other authorities.
+### Quirk
+Lord Ander has a love for good food and drink, often hosting lavish feasts at his estate.
 
-While Lord Ander does not openly support or endorse the actions of the [[Lost Hopps\|Lost Hopps]], he understands that their presence can be a valuable asset in maintaining balance and addressing issues that might otherwise go unchallenged. This makes for an uneasy alliance between Lord Ander and the Lost Hops, with each party understanding that their goals may sometimes align while also recognizing that they must maintain a certain distance from one another.
+### Roleplaying
+When portraying Lord Ander, emphasize his dedication to peace and prosperity while also showcasing his wariness as a battle-hardened veteran. Engage with players who share his ideals, offering them opportunities to work towards his goals within Düsternest.
 
-> [!seed] Seed
-> Players could be hired by Lord Ander to investigate a case of corruption within his own administration or perhaps even within the ranks of the city guard. In doing so, they may find themselves working alongside members of the Lost Hops or even being recruited into their ranks.
+# Backstory
+Lord Ander was once a renowned warrior who fought in numerous battles defending his homeland. However, after years of fighting, he grew weary of war's toll on both himself and his people. Upon ascending to the lordship of Düsternest, he resolved to create a peaceful and prosperous city that values art, culture, and diplomacy.
 
-This delicate relationship between Lord Ander and the [[Lost Hopps\|Lost Hopps]] adds an intriguing layer of complexity to Düsternest's political landscape, providing ample opportunities for intrigue, espionage, and morally ambiguous decisions for players to navigate as they become more involved in the city's affairs. Whether they choose to work with or against either party will ultimately shape their experience in Düsternest and determine where their loyalties truly lie.
+# role in the campaign
+Lord Ander can serve as an ally or quest-giver for the player characters, either directly or through his connections with the Artisans Guilds. His goals for peace and prosperity shape many of the quests and events in Düsternest, providing opportunities for players to become involved with his rule.
+
+>[!seed] Seed, Adventure Hook
+>Some citizens of Düsternest may not agree with Lord Ander's pacifist stance, potentially creating internal strife or even an underground faction opposing his rule. This could provide an interesting subplot for players to uncover during their time in the city.
+
+>[!seed] Seed, Adventure Hook
+>Players could be hired by Lord Ander to investigate a case of corruption within his own administration or perhaps even within the ranks of the city guard. In doing so, they may find themselves working alongside members of The Lost Hops or even being recruited into their ranks.
+
+# Relations
+- **Düsternest Artisans Guilds**: Lord Ander works closely with these guilds, supporting their craftsmanship and often commissioning works from local artists.
+- **The Lost Hops**: While not openly endorsing their activities, Lord Ander recognizes their noble intentions and maintains a delicate alliance with this secretive organization.
+- **Düsternest Guard**: As the city's ruler, Lord Ander oversees the guard force responsible for maintaining order and defending Düsternest from threats both internal and external.
+
+### Involvement with The Lost Hops
+
+Lord Ander is aware that The Lost Hops operate within Düsternest. Although they may engage in some questionable activities, he recognizes that their goals are ultimately noble and beneficial to the city. As such, he has chosen to provide them with a measure of cover, allowing them to continue their work without interference from the city guard or other authorities.
+
+While Lord Ander does not openly support or endorse the actions of The Lost Hops, he understands that their presence can be a valuable asset in maintaining balance and addressing issues that might otherwise go unchallenged. This makes for an uneasy alliance between Lord Ander and The Lost Hops, with each party understanding that their goals may sometimes align while also recognizing that they must maintain a certain distance from one another.
+
+This delicate relationship between Lord Ander and The Lost Hops adds an intriguing layer of complexity to Düsternest's political landscape, providing ample opportunities for intrigue, espionage, and morally ambiguous decisions for players to navigate as they become more involved in the city's affairs. Whether they choose to work with or against either party will ultimately shape their experience in Düsternest and determine where their loyalties truly lie.
