@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-cult-of-the-gifted/","title":"The Cult of the Gifted","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-02T01:02:57.628+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-cult-of-the-gifted/","title":"The Cult of the Gifted","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-02T01:03:22.084+02:00"}
 ---
 
 The Cult of the Gifted is a religious organization that has spread throughout the Basin, gathering followers and growing in power. They worship Naruun, the God of Death, whom they believe can resurrect and grant wishes to those who serve him faithfully. The cult is primarily made up of people who have lost someone important in their lives, seeking solace and hope in Naruun's promises. As more join their ranks, they continue to gain influence and power throughout the Basin.
