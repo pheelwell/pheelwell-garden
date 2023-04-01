@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-04-01T03:11:12.256+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-04-01T03:38:01.323+02:00"}
 ---
 
 
 Lord Ander is the fair and just ruler of the city of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]. He is a middle-aged man with a strong build, bearing the scars of past battles. His face has a large scar running across it, a souvenir from his time as a war veteran. Despite his imposing appearance, he has an air of warmth and approachability.
 
 > [!TIP] Quick Reference
-> ![[Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png \| 300]] 
+> ![Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png](/img/user/resources/Pictures/Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png) 
 > **Lord Ander** _Human Ruler_
 >  Fair and just ruler of Düsternest, focused on peace, prosperity, and the arts.
 >- **Motivation**: Peace, prosperity, supporting arts and culture
