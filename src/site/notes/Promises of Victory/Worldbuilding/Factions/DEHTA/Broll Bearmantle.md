@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/dehta/broll-bearmantle/","noteIcon":"NPC","created":"2023-03-27T00:08:11.265+02:00","updated":"2023-03-31T17:27:59.385+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/dehta/broll-bearmantle/","noteIcon":"NPC","created":"2023-03-27T00:08:11.265+02:00","updated":"2023-04-01T03:35:25.338+02:00"}
 ---
 
 
@@ -17,8 +17,7 @@ Broll Bearmantle is the Head Druid of [[Promises of Victory/Worldbuilding/Region
 >- **Quirk**: Scratches behind his ear like a bear when deep in thought or agitated.
 >- **Roleplaying Tips**: Calm yet powerful tone; wise and knowledgeable but stern on nature-related matters.
 
-# Appearance
-**Elf Druid**
+## Appearance
 _"Nature's fury takes many forms, but I prefer mine to be that of a bear."_
 Broll Bearmantle is an imposing figure among the elves of [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]]. Standing tall with broad shoulders and a muscular build, he resembles a bear more than an elf. His thick beard and hair further accentuate this resemblance. Broll's eyes are a piercing green, reflecting his deep connection to nature.
 
