@@ -2,7 +2,7 @@ body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-    //  background-color: white;
+    
     //  .content {
     //   font-size: 14px;
     //  }
@@ -10,6 +10,29 @@ body {
     //   color: black;
     //  }
    ***/
+
+
+   
+}
+
+
+   
+}
+
+
+
+.cm-s-obsidian > p:first-of-type:first-letter {
+    float: left;
+    font-family: "Old English Text MT", "Times New Roman", Times, serif;
+    font-size: 6em;
+    line-height: 0.5em;
+    padding-bottom: 0.05em;
+    padding-top: 0.2em;
+    --text-selection: rgba(var(--red_x), 0.6);
+}
+.cm-s-obsidian > p:first-of-type {
+    //minimal height for small paragraphs
+    min-height: 6em;
 }
 
 .callout[data-callout="read"] {
@@ -26,9 +49,6 @@ body {
     --callout-color: 183, 255, 50;
     --callout-icon: lucide-sprout;
 }
-
-
-
 
 .cm-s-obsidian > p:first-of-type:first-letter {
     float: left;

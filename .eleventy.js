@@ -44,7 +44,7 @@ module.exports = function (eleventyConfig) {
     })
     .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
-      disabled: true,
+      disabled: false,
       divWrap: false,
       divClass: "checkbox",
       idPrefix: "cbx_",
