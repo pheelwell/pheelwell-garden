@@ -5,7 +5,7 @@
 
 Falk is a small, remote town nestled in the south of Basin's Forest, west of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]. It was initially established as a logging community but has since grown to include a diverse population of hunters, craftsmen, and even some undead members known as the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]. The town's economy primarily depends on logging and hunting, with occasional trade from passing merchants. Falk is also known for its weekly competitions that attract travelers from far and wide.
 
-![Pasted image 20230331000035.png](/img/user/Pasted%20image%2020230331000035.png)
+![Pasted image 20230331000035.png](/img/user/resources/Pictures/Pasted%20image%2020230331000035.png)
 ## Notable Locations:
 - [[Tavern to the Screaming Banshee\|Tavern to the Screaming Banshee]]: A popular gathering place for locals and visitors alike that magically changes its interior every time someone enters.
 - [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Gargula\|Gargula]]'s Trinket Shop: A mysterious shop owned by an enigmatic old lady who sells magical trinkets and reads omens.
