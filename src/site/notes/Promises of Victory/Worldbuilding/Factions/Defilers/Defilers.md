@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/defilers/","title":"Defilers","noteIcon":"Faction","created":"2023-01-25T02:26:53.913+01:00","updated":"2023-03-29T21:28:20.827+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/defilers/","title":"Defilers","noteIcon":"Faction","created":"2023-01-25T02:26:53.913+01:00","updated":"2023-03-31T22:08:55.993+02:00"}
 ---
+
+
+
 
 The Defilers were formed in the wake of a great tragedy, when a powerful necromancer named [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was exiled from her home in [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]. Desperate and alone, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was determined to make a new life for herself, free from persecution. To that end, she traveled to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and set up camp with her loyal followers, who had also been exiled from their homes.
 
@@ -17,12 +20,12 @@ Eventually, more and more people began to embrace the Defilers as part of their 
 Even those in [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]], who had once exiled [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] for her necromancy, eventually acknowledged her leadership and strength - if not her methods - and welcomed the Defilers into their cities as honorable allies. In time, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]’s vision became a reality: The Defilers were no longer viewed as monsters or enemy forces but as valuable members of society whom brought peace to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]].  
 
 # Organization Structure
-The Defilers have an organized and disciplined structure, with [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]] as their leader and Grushnak, the orc chieftain, as her second-in-command. All of their members are expected to be loyal and follow orders without question. 
+The Defilers have an organized and disciplined structure, with [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]] as their leader and [[Promises of Victory/Worldbuilding/Factions/Defilers/Grushnak\|Grushnak]], the orc chieftain, as her second-in-command. All of their members are expected to be loyal and follow orders without question. 
 
-Their forces are divided into two main groups: The Undead Legion and the Orcen Horde. The Undead Legion is led by [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] herself, who commands them from atop a white skeletal steed. Her loyal lieutenants are powerful undead sorcerers who follow her command without hesitation. The Orcen Horde, meanwhile, is lead by Grushnak and his warriors from the nearby mountains.
+Their forces are divided into two main groups: The Undead Legion and the Orcen Horde. The Undead Legion is led by [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] herself, who commands them from atop a white skeletal steed. Her loyal lieutenants are powerful undead sorcerers who follow her command without hesitation. The Orcen Horde, meanwhile, is lead by [[Promises of Victory/Worldbuilding/Factions/Defilers/Grushnak\|Grushnak]] and his warriors from the nearby mountains.
 
 Below them are the small units of infantry and archers that make up the bulk of the Defilers' forces. These troops obey their commanders without question, but some of them have their own ideas about how to conduct themselves in battle. They can be fiercely independent at times, which can cause some problems for [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]'s plans.
 
-Finally, there is a large group of necromancers who use their magic to create more undead warriors for the Defilers' army. These necromancers have no real rank or position; they simply act on orders from [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]] or Grushnak when needed. 
+Finally, there is a large group of necromancers who use their magic to create more undead warriors for the Defilers' army. These necromancers have no real rank or position; they simply act on orders from [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]] or [[Promises of Victory/Worldbuilding/Factions/Defilers/Grushnak\|Grushnak]] when needed. 
 
 The Defilers may not be a unified group in terms of ideology or loyalty, but they are unified in their goal: to become an accepted force in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and take control of it for themselves. Their organization has allowed them to gain power and strength over time, making them a formidable force to be reckoned with. - [ ] Investigate the origin of the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]
