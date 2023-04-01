@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-01T02:13:41.399+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-01T03:42:35.335+02:00"}
 ---
 
 
@@ -25,8 +25,8 @@ Things you could start with:
 - To get a sense of the conent of the campain: [[Promises of Victory/General/Note Overview\|Note Overview]]
 - To see what my party has been doing: [[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
 
-If you are just window shopping here are some fun articles i like:
-[[]]
+If you are just window shopping here are some fun articles I like:
+[[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]] 
 
 ## Stormwreck Isle
 ![Pasted image 20230329225428.png](/img/user/resources/Pictures/Pasted%20image%2020230329225428.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/high-paladin-erathenar/","title":"High Paladin Erathenar","noteIcon":"NPC","created":"2023-01-25T02:26:54.037+01:00","updated":"2023-04-01T03:34:12.210+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/high-paladin-erathenar/","title":"High Paladin Erathenar","noteIcon":"NPC","created":"2023-01-25T02:26:54.037+01:00","updated":"2023-04-01T03:35:27.631+02:00"}
 ---
 
 
@@ -17,7 +17,7 @@ Erathenar is the leader of the [[Promises of Victory/Worldbuilding/Factions/Leag
 >- **Roleplaying Tips**: Portray Erathenar as a just and honorable leader with unwavering dedication to his people; emphasize his courage and determination when facing powerful enemies.
 >-  **Quirk**: Often quotes inspirational sayings about justice and honor during conversations.
 
-### Appearance
+## Appearance
 High Paladin Erathenar is a tall, muscular man with a regal bearing, clad in shining gold-and-white armor adorned with ornamental symbols of justice. His long, flowing hair is the color of sunlight, and his piercing blue eyes seem to see through any deception.
 
 ### Motivations
