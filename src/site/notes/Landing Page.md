@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-02T02:36:22.781+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-02T02:38:49.325+02:00"}
 ---
 
 
@@ -41,6 +41,7 @@ table
   file.size as "Size (bytes)",
   file.link as "Link"
 from ""
+where dg-publish = true
 sort file.mtime desc
 limit 15
 ```
@@ -50,6 +51,7 @@ limit 15
 table
   file.size as "Size (bytes)"
 from ""
+where dg-publish = true
 sort file.size desc
 limit 5
 ```
