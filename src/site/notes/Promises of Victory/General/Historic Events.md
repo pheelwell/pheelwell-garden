@@ -88,7 +88,7 @@ Those are the most important facts about the War between the [[Promises of Victo
 
 The initial attack on [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] occurred in the year 3014. The attackers were a horde of zombies. The zombies overwhelmed the city's defenses, and many people were killed. To regain the casualties [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] spread her Plague to rescue the citizens. This is what caused the great divide in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. 
 # Behind the Scenes
-The Zombies were controlled by [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] who instigated the attack with his last bit of power to get [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] to use her Ritual. [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]], instigate, power, Ritual
+The Zombies were controlled by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] who instigated the attack with his last bit of power to get [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] to use her Ritual. [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]], instigate, power, Ritual
 
 
 
@@ -103,7 +103,7 @@ The Zombies were controlled by [[Promises of Victory/Worldbuilding/Factions/Naru
 
 [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] was a necrotic virus that was spread by the necromancer [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]. It caused the recently deceased to rise from the dead as zombies with their souls still affixed to them. [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] caused a great divide in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], with many people seeing the undead as monsters. The [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] to this day sees the undead as the same monsters that killed many of their kin.
 # Behind the Scenes
-While Researching [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was Influenced by [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]. She didn't intend [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] to be contagious.
+While Researching [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was Influenced by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. She didn't intend [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] to be contagious.
 
 
 
@@ -202,8 +202,8 @@ In the year 3039, the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defi
 
 ![a_Cathedral_concept_art_by_Chris_Rallistrending_on_d.png](/img/user/resources/Pictures/a_Cathedral_concept_art_by_Chris_Rallistrending_on_d.png)
 # Naruun Related History
-While the war is going on, [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] , [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] , [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] and [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] also have a History:
-Ancient Events: [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] was sealed away by forces of nature
+While the war is going on, [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] , [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] , [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] and [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] also have a History:
+Ancient Events: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] was sealed away by forces of nature
 Year 3012: Naruun influence rises in the Basin
 Year 3024: [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] is founded
 Year 3031: [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] is formed by cult leader Volar
