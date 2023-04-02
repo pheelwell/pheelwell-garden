@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/tarwin-althammer/","title":"Tarwin Althammer","noteIcon":"NPC","created":"2023-01-25T02:26:54.052+01:00","updated":"2023-04-02T02:54:22.803+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/tarwin-althammer/","title":"Tarwin Althammer","noteIcon":"NPC","created":"2023-01-25T02:26:54.052+01:00","updated":"2023-04-02T14:00:26.160+02:00"}
 ---
 
 
@@ -10,3 +10,32 @@ Tarwin hailed from the city of [[Promises of Victory/Worldbuilding/Regions/🏰G
 On this journey Tarwin encountered incredible danger and hardship, yet also discovered a renewed sense of purpose as he worked to understand what had happened to his family in [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]]. His travels eventually brought him to [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]], where he used the knowledge gained from his experiences to create documents that would help others find justice in similar situations. 
 
 
+## Appearance
+Tarwin Althammer is a tall and muscular human Paladin with a strong presence. He has short, dark hair that is greying at the temples, and a well-trimmed beard framing his chiseled jawline. His piercing blue eyes seem to carry the weight of his tragic past. Tarwin is usually seen wearing his intricately crafted armor, adorned with symbols of justice, and carries a finely crafted longsword at his side.
+  
+## Motivations
+Tarwin's main motivation is to seek justice for the tragic loss of his wife Marit and their daughter Reyala. He also strives to clear his name from the false accusation of murder that tarnished his reputation in Gandmühl.
+
+## Ideals
+Tarwin holds on tightly to the ideals of righteousness, justice, and unwavering loyalty. Despite facing numerous hardships and betrayals, he never wavers from these core beliefs.
+
+## Bonds
+Tarwin's most significant bond was with his wife Marit and their daughter Reyala. Though they are no longer with him, their memories drive him forward in seeking justice for their untimely deaths.
+
+## Flaws
+Tarwin's strong sense of morality can sometimes lead him to be inflexible in situations where compromise might be necessary. Additionally, the weight of his tragic past can make it difficult for him to trust others easily.
+
+## Quirk
+Tarwin has a habit of humming Marit's favorite elven melody, both as a way to remember her fondly and as a soothing balm during times of stress or pain.
+
+## Roleplaying
+When roleplaying Tarwin Althammer, emphasize his dedication to justice and unwavering loyalty. His voice should be strong yet tinged with the sorrow that stems from losing those who were dear to him. When interacting with other characters or making decisions, always consider how Tarwin would strive for righteousness above all else.
+
+## Backstory
+Tarwin Althammer was once a respected Paladin in the city of Gandmühl, living a happy life with his elven wife Marit and their prodigious daughter Reyala. However, tragedy struck when Reyala was mysteriously murdered, and Tarwin was unjustly accused of the crime. Unable to bear the false accusations and loss of his family, Tarwin left Gandmühl to seek solace and justice elsewhere.
+
+## Role in the campaign
+Tarwin's journey led him to Ransden, where he used his experiences and knowledge to create documents that would help others find justice and safety from similar situations. The party might come across these documents or encounter Tarwin himself as they navigate their own quests for justice or redemption.
+
+## Relations
+Tarwin's most significant relationships were with his wife Marit and their daughter Reyala, both of whom he lost tragically. As he travels, he may form new bonds with those who share his ideals or who have also suffered great losses.
