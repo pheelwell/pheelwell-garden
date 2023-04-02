@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/helena/","title":"Helena","noteIcon":"NPC","created":"2023-01-25T02:26:54.071+01:00","updated":"2023-03-29T21:30:47.919+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/helena/","title":"Helena","noteIcon":"NPC","created":"2023-01-25T02:26:54.071+01:00","updated":"2023-04-02T13:37:20.761+02:00"}
 ---
 
 ### Helena
@@ -20,3 +20,5 @@ Helena is one of the two public figures of the Hops. She poses as a skilled brew
 | Quirk        | I'm a light sleeper                         |
 
 elderly looking human woman in her 70s, long black hair, brown eyes, light skin, slim build, wearing a black leather cloak.
+
+

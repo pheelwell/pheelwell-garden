@@ -97,6 +97,7 @@ This Vault is divided into sections:
 | [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Uncle\|Uncle]]                                           | <ul><li>Uncle is a Goblin Artificer known for selling magical items and counterfeits</li><li>He is an illusionist and has a shop called “Carl’s Curious Curiosities”</li><li>Uncle has a good personality, is kind and gentle but can be fierce when necessary</li><li>He has an ideal of finding the best deals, wants to retire in luxury, and is a bit of a hoarder</li><li><ul><li><b>Appearance</b>: old goblin man in his 70s with short white hair, green eyes, wrinkled skin, small build wearing a brown robe.</li></ul></li></ul>                                                                                                                                                                                                                                                       |
 | [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Mom\|Mom]]                                               | <ul><li>fire genasi artificer</li><li>captain of the Lost Hops Logistics</li><li>skilled artificer</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Helena\|Helena]]                                         | <ul><li>Helena is a Changeling Rogue and skilled brewer</li><li>Kind and caring, but also fierce and dangerous</li><li>Known as Grandma inside the Lost Hops</li><li><ul><li><b>Ideal</b>: People are more important than gold</li></ul></li><li><ul><li><b>Bond</b>: Family is most important thing to them</li></ul></li><li><ul><li><b>Flaw</b>: Gambling problem</li></ul></li></ul>                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]       | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]]             | <ul><li>Tarwin Althammer was a respected human Paladin and hailed from the city of Gandmühl.</li><li>He was known for his skill in combat, strong sense of morality and unwavering loyalty to the righteous cause.</li><li>His beloved wife Marit was an elven musician and their daughter Reyala was a prodigy whose life was cut too short.</li><li>He was unjustly accused of her murder and left Gandmühl in search of solace elsewhere.</li><li>He encountered hardship on his journey, but also found a renewed purpose to seek justice for his family.</li><li>He eventually arrived at Ransden where he created documents to help others findtheir way to safety and freedom.</li><li>His legacy lives on through these documents, reminding people of his tragedy and courage.</li></ul> |
 | [[Promises of Victory/Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|High Paladin Erathenar]] | <ul><li>Erathenar is the leader of the League of Arathor and High Paladin of Lichtachte.</li><li>He is a skilled warrior and powerful paladin.</li><li>He was born a commoner in Trollbans Hold, Lichtachte.</li><li>He had a strong sense of justice and courage which led him to lead the League of Arathor.</li><li>He earned respect throughout Lichtachte and beyond through victories against Defilers.</li><li>He is remembered for his courage and unwavering faith in justice and honor.</li></ul>                                                                                                                                                                                                                                                                                       |
 | [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]]                                | <ul><li>Lord Ander is the Lord of Düsternest</li><li>He is a fair and just ruler, supportive of arts, and he loves good food and drink</li><li>He is a war veteran tired of all the fighting who wants to make Düsternest peaceful and prosperous</li><li>Has made sure that the city is well defended</li><li>Works close with the Düsternest Artisans Guilds</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -145,29 +146,29 @@ This Vault is divided into sections:
 
 # Unmarked
 These Files need Metadata!
-| File                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------ |
-| [[Wedding/wedding/🗒️Todo list\|🗒️Todo list]]                                                            |
-| [[Wedding/wedding/Untitled\|Untitled]]                                                                    |
-| [[Wedding/wedding/Timeline\|Timeline]]                                                                    |
-| [[Wedding/wedding/secret/🗒️Secret Todo List\|🗒️Secret Todo List]]                                       |
-| [[Wedding/wedding/secret/Preisquiz\|Preisquiz]]                                                           |
-| [[Wedding/wedding/secret/Laras Notes\|Laras Notes]]                                                       |
-| [[Wedding/wedding/secret/Kahoot\|Kahoot]]                                                                 |
-| [[Wedding/wedding/secret/JGA\|JGA]]                                                                       |
-| [[Wedding/wedding/secret/Afterparty\|Afterparty]]                                                         |
-| [[Wedding/wedding/Geburtstag Notes\|Geburtstag Notes]]                                                    |
-| [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]                                 |
-| [[Promises of Victory/Worldbuilding/Regions/Todo/Belldort\|Belldort]]                                     |
-| [[Promises of Victory/Worldbuilding/Regions/NPC Template\|NPC Template]]                                  |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Ralyen Arcfall\|Ralyen Arcfall]]                |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Raiden Arcfall\|Raiden Arcfall]]                |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Herbert Ragebone\|Herbert Ragebone]]            |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Helene Arcfall\|Helene Arcfall]]                |
-| [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]] |
-| [[Promises of Victory/Worldbuilding/Factions/Faction Overview\|Faction Overview]]                         |
-| [[Promises of Victory/General/Custom Callouts\|Custom Callouts]]                                          |
-| [[pininfo\|pininfo]]                                                                                      |
-| [[Landing Page\|Landing Page]]                                                                            |
+| File                                                                                              |
+| ------------------------------------------------------------------------------------------------- |
+| [[Untitled\|Untitled]]                                                                         |
+| [[Wedding/wedding/🗒️Todo list\|🗒️Todo list]]                                                 |
+| [[Wedding/wedding/Untitled\|Untitled]]                                                         |
+| [[Wedding/wedding/Timeline\|Timeline]]                                                         |
+| [[Wedding/wedding/secret/🗒️Secret Todo List\|🗒️Secret Todo List]]                            |
+| [[Wedding/wedding/secret/Preisquiz\|Preisquiz]]                                                |
+| [[Wedding/wedding/secret/Laras Notes\|Laras Notes]]                                            |
+| [[Wedding/wedding/secret/Kahoot\|Kahoot]]                                                      |
+| [[Wedding/wedding/secret/JGA\|JGA]]                                                            |
+| [[Wedding/wedding/secret/Afterparty\|Afterparty]]                                              |
+| [[Wedding/wedding/Geburtstag Notes\|Geburtstag Notes]]                                         |
+| [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]                      |
+| [[Promises of Victory/Worldbuilding/Regions/Todo/Belldort\|Belldort]]                          |
+| [[Promises of Victory/Worldbuilding/Regions/NPC Template\|NPC Template]]                       |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Ralyen Arcfall\|Ralyen Arcfall]]     |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Raiden Arcfall\|Raiden Arcfall]]     |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Herbert Ragebone\|Herbert Ragebone]] |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Helene Arcfall\|Helene Arcfall]]     |
+| [[Promises of Victory/Worldbuilding/Factions/Faction Overview\|Faction Overview]]              |
+| [[Promises of Victory/General/Custom Callouts\|Custom Callouts]]                               |
+| [[pininfo\|pininfo]]                                                                           |
+| [[Landing Page\|Landing Page]]                                                                 |
 
 

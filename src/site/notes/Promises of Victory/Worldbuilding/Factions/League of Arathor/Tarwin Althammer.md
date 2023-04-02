@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/tarwin-althammer/","title":"Tarwin Althammer","noteIcon":"NPC","created":"2023-01-25T02:26:54.052+01:00","updated":"2023-04-01T03:29:46.399+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/tarwin-althammer/","title":"Tarwin Althammer","noteIcon":"NPC","created":"2023-01-25T02:26:54.052+01:00","updated":"2023-04-02T02:54:22.803+02:00"}
 ---
 
 
