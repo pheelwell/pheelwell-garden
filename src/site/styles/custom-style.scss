@@ -1,5 +1,5 @@
 body {
-    /***
+  /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
     
@@ -10,181 +10,257 @@ body {
     //   color: black;
     //  }
    ***/
-
-
-   
 }
 
+//only data-callout="tip"
+//only above 2200px width
+
+@media only screen and (min-width: 1400px) {
+  .callout[data-callout="tip"] {
+    width: 50%; /* Set the width of the callout div to 40% */
+    position: absolute; /* Position the callout div absolutely */
+    left: 100%; /* Position the callout div to the right of the container */
+    margin-left: 20px; /* Add some margin to the right of the callout div */
+  }
+}
+@media only screen and (min-width: 800px) and (max-width: 1400px){
+  .callout[data-callout="tip"] {
+    width: 50%; /* Set the width of the callout div to 40% */
+    float: right; /* Position the callout div absolutely */
+  }
+}
+
+
+//this keeps the link-graph always down the page (this is copied from the default theme)
+#link-graph {
+    border-radius: 0 10px 10px 10px;
+}
+.sidebar {
+    position: relative;
+    transform: none;
+    border-radius: 4px;
+    margin-top: 50px;
+    max-width: 700px;
+    margin: auto;
+    border-radius: 0;
+    border-top: 2px solid var(--background-secondary);
+    justify-content: space-between;
+}
+
+.sidebar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.graph {
+    flex: 1;
+    .graph-title-container {
+        justify-content: flex-start;
+    }
+}
+
+.toc {
+    display: none;
+}
 
 
 
 .cm-s-obsidian > p:first-of-type:first-letter {
-    float: left;
-    font-family: "Old English Text MT", "Times New Roman", Times, serif;
-    font-size: 6em;
-    line-height: 0.5em;
-    padding-bottom: 0.05em;
-    padding-top: 0.2em;
-    --text-selection: rgba(var(--red_x), 0.6);
+  float: left;
+  font-family: "Old English Text MT", "Times New Roman", Times, serif;
+  font-size: 6em;
+  line-height: 0.5em;
+  padding-bottom: 0.05em;
+  padding-top: 0.2em;
+  --text-selection: rgba(var(--red_x), 0.6);
 }
 .cm-s-obsidian > p:first-of-type {
-    //minimal height for small paragraphs
-    min-height: 6em;
+  //minimal height for small paragraphs
+  min-height: 6em;
 }
 
 .callout[data-callout="read"] {
-    --callout-color: 183, 50, 255;
-    --callout-icon: lucide-book-open;
+  --callout-color: 183, 50, 255;
+  --callout-icon: lucide-book-open;
 }
 
 .callout[data-callout="secret"] {
-    --callout-color: 100, 100, 100;
-    --callout-icon: lucide-lock;
+  --callout-color: 100, 100, 100;
+  --callout-icon: lucide-lock;
 }
 
 .callout[data-callout="seed"] {
-    --callout-color: 183, 255, 50;
-    --callout-icon: lucide-sprout;
+  --callout-color: 183, 255, 50;
+  --callout-icon: lucide-sprout;
 }
 
 .cm-s-obsidian > p:first-of-type:first-letter {
-    float: left;
-    font-family: "Old English Text MT", "Times New Roman", Times, serif;
-    font-size: 7em;
-    line-height: 0.5em;
-    padding-bottom: 0.05em;
-    padding-top: 0.2em;
-    --text-selection: rgba(var(--red_x), 0.6);
+  float: left;
+  font-family: "Old English Text MT", "Times New Roman", Times, serif;
+  font-size: 7em;
+  line-height: 0.5em;
+  padding-bottom: 0.05em;
+  padding-top: 0.2em;
+  --text-selection: rgba(var(--red_x), 0.6);
 }
 .cm-s-obsidian > p:first-of-type {
-    //minimal height for small paragraphs
-    min-height: 5.5em;
+  //minimal height for small paragraphs
+  min-height: 5.5em;
 }
 
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}
 
-
-.mermaid svg { 
-    max-width: 100%; 
-    height: auto;
-  }
-  
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon]::before,
 body.filetree-note-icon .filename[data-note-icon]::before,
 body.links-note-icon .internal-link[data-note-icon]::before,
 body.backlinks-note-icon .backlink[data-note-icon]::before {
   //default
-    content: "";
-    width: 0em;
-    //no background image
-    background-image: none;
+  content: "";
+  width: 0em;
+  //no background image
+  background-image: none;
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Meta"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Meta"]::before,
 body.filetree-note-icon .filename[data-note-icon="Meta"]::before,
 body.links-note-icon .internal-link[data-note-icon="Meta"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Meta"]::before {
   content: "⚙️";
-    background-image: none;
-    width: 1.4em;
+  background-image: none;
+  width: 1.4em;
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Region"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Region"]::before,
 body.filetree-note-icon .filename[data-note-icon="Region"]::before,
 body.links-note-icon .internal-link[data-note-icon="Region"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Region"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🗺";
+  background-image: none;
+  width: 1.3em;
+  content: "🗺";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Settlement"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Settlement"]::before,
 body.filetree-note-icon .filename[data-note-icon="Settlement"]::before,
 body.links-note-icon .internal-link[data-note-icon="Settlement"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Settlement"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🏰";
+  background-image: none;
+  width: 1.3em;
+  content: "🏰";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Locality"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Locality"]::before,
 body.filetree-note-icon .filename[data-note-icon="Locality"]::before,
 body.links-note-icon .internal-link[data-note-icon="Locality"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Locality"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🏠";
+  background-image: none;
+  width: 1.3em;
+  content: "🏠";
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="NPC"]::before,
 body.filetree-note-icon .filename[data-note-icon="NPC"]::before,
 body.links-note-icon .internal-link[data-note-icon="NPC"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="NPC"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🧝";
+  background-image: none;
+  width: 1.3em;
+  content: "🧝";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="SideNPC"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="SideNPC"]::before,
 body.filetree-note-icon .filename[data-note-icon="SideNPC"]::before,
 body.links-note-icon .internal-link[data-note-icon="SideNPC"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="SideNPC"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🧝";
+  background-image: none;
+  width: 1.3em;
+  content: "🧝";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Faction"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Faction"]::before,
 body.filetree-note-icon .filename[data-note-icon="Faction"]::before,
 body.links-note-icon .internal-link[data-note-icon="Faction"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Faction"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🛡";
+  background-image: none;
+  width: 1.3em;
+  content: "🛡";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="History"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="History"]::before,
 body.filetree-note-icon .filename[data-note-icon="History"]::before,
 body.links-note-icon .internal-link[data-note-icon="History"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="History"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "📅";
+  background-image: none;
+  width: 1.3em;
+  content: "📅";
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Arc"]::before,
 body.filetree-note-icon .filename[data-note-icon="Arc"]::before,
 body.links-note-icon .internal-link[data-note-icon="Arc"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Arc"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "📖";
+  background-image: none;
+  width: 1.3em;
+  content: "📖";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Plot"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Plot"]::before,
 body.filetree-note-icon .filename[data-note-icon="Plot"]::before,
 body.links-note-icon .internal-link[data-note-icon="Plot"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Plot"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "📜";
+  background-image: none;
+  width: 1.3em;
+  content: "📜";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Scene"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Scene"]::before,
 body.filetree-note-icon .filename[data-note-icon="Scene"]::before,
 body.links-note-icon .internal-link[data-note-icon="Scene"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Scene"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🎬";
+  background-image: none;
+  width: 1.3em;
+  content: "🎬";
 }
 
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Thing"]::before,
+body.title-note-icon
+  .cm-s-obsidian
+  > header
+  > h1[data-note-icon="Thing"]::before,
 body.filetree-note-icon .filename[data-note-icon="Thing"]::before,
 body.links-note-icon .internal-link[data-note-icon="Thing"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="Thing"]::before {
-    background-image: none;
-    width: 1.3em;
-    content: "🔮";
+  background-image: none;
+  width: 1.3em;
+  content: "🔮";
 }
 
 // in short
