@@ -8,9 +8,9 @@ The Fulfiller is an old Hag who lived since before the imprisonment of [[Promise
 > ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
 > **The Fulfiller** _Ancient Hag_ 
 >  A manipulative hag who feeds off bad emotions and causes despair through false promises.
->- **Motivation**: Feed on bad emotions, free [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]
+>- **Motivation**: Feed on bad emotions, free [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
 >- **Ideals**: Manipulation, Despair
->- **Bonds**: [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] (imprisoned old god)
+>- **Bonds**: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] (imprisoned old god)
 >- **Flaws**: Overconfidence, Sadism
 > ____
 >- **Roleplaying Tips**: Cunning and manipulative, always looking to bring despair to others, sinister and mysterious.
@@ -26,14 +26,14 @@ The Fulfiller is an ancient hag with a gaunt, twisted appearance. Her eyes are d
 
 ### Motivations
 - To feed on bad emotions and despair by causing intense changes in fate
-- To free [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], an imprisoned old god who also feeds on bad emotions
+- To free [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], an imprisoned old god who also feeds on bad emotions
 
 ### Ideals
 - Manipulation: The Fulfiller believes that people are easily swayed by their desires, making them easy targets for her schemes.
 - Despair: She thrives on the suffering of others and seeks to cause as much misery as possible.
 
 ### Bonds
-- [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]: The imprisoned old god shares the Fulfiller's love for feeding on bad emotions, leading her to sympathize with him and work towards his release.
+- [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]: The imprisoned old god shares the Fulfiller's love for feeding on bad emotions, leading her to sympathize with him and work towards his release.
 
 ### Flaws
 - Overconfidence: The Fulfiller takes great pride in her ability to manipulate others but may underestimate the resourcefulness or resilience of those who oppose her.
@@ -43,15 +43,15 @@ The Fulfiller is an ancient hag with a gaunt, twisted appearance. Her eyes are d
 When roleplaying as the Fulfiller, keep in mind that she is always looking for ways to manipulate others and cause heartbreak. She is skilled at identifying people's desires and creating false promises that will ultimately lead to their downfall.
 
 ## Backstory
-The Fulfiller has existed since before the imprisonment of [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], an old god who, like her, feeds on bad emotions. With [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s imprisonment, she has lost a valuable source of sustenance and now seeks to free him so he can continue his work.
+The Fulfiller has existed since before the imprisonment of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], an old god who, like her, feeds on bad emotions. With [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s imprisonment, she has lost a valuable source of sustenance and now seeks to free him so he can continue his work.
 
 To ensure her own survival in the meantime, she established a traveling market where she offers deals that seem to fulfill people's desires but ultimately lead them into deep despair. She takes great joy in causing these intense changes in fate and collects trinkets from her victims as a way of accumulating their bad emotions.
 
 ## Role in the campaign
-The Fulfiller can serve as a villain or an obstacle for the player characters. They may encounter her traveling market and be tempted by her offers, only to discover later on that they've been tricked into terrible misfortune. Alternatively, they may be tasked with stopping her schemes or even freeing [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] from his prison.
+The Fulfiller can serve as a villain or an obstacle for the player characters. They may encounter her traveling market and be tempted by her offers, only to discover later on that they've been tricked into terrible misfortune. Alternatively, they may be tasked with stopping her schemes or even freeing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] from his prison.
 
 ## Relations
-- [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]: The Fulfiller sympathizes with this imprisoned old god who shares her love for feeding on bad emotions.
+- [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]: The Fulfiller sympathizes with this imprisoned old god who shares her love for feeding on bad emotions.
 - Player Characters: The Fulfiller may try to manipulate the PCs by offering them deals that seem too good to be true but ultimately lead to heartbreak and despair.
 - [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Researchers\|League of Paranormal Researchers]]: Provided Machinery
 - [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]: Gave him the first plans about the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]]
