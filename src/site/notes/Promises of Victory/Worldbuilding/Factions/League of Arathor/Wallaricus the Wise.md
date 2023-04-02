@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/wallaricus-the-wise/","noteIcon":"NPC","created":"2023-03-30T16:09:04.126+02:00","updated":"2023-04-02T02:44:55.343+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/wallaricus-the-wise/","noteIcon":"NPC","created":"2023-03-30T16:09:04.126+02:00","updated":"2023-04-02T15:03:19.823+02:00"}
 ---
-
 
 Have you heard the stories about Wallaricus the Wise?" a young student whispered to his friend as they sat in the temple halls. "They say he has the knowledge of a thousand scholars and can see through any deception. But there's also something unsettling about him, like he's constantly on guard against some unseen threat. I wonder what secrets he hides behind those wise, watchful eyes."
 
