@@ -8,7 +8,7 @@ The Plague was researched and created by [[Promises of Victory/Worldbuilding/Fac
 # Creation
 
 The Plague was developed by [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] in the time Leading up to the  [[Promises of Victory/Worldbuilding/Historic Events/War/Attack on Lichtachte\|Attack on Lichtachte]].
-She was unknowingly influenced by [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], who let her find notes on making the virus self efficient, but made it contagious. 
+She was unknowingly influenced by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], who let her find notes on making the virus self efficient, but made it contagious. 
 
 # How it works
 The vile Plague that had befouled the realm was wrought with necromantic black magic, raising up the recently deceased with their souls still bound to their bodies. Though a conventional resurrection could heal the body from its affliction, General Malachi sought a more efficient yet unholy revival. Utilizing some of the body itself to fuel its resurrection process, the Plague was made self-efficient and thus became contagious, far beyond what Malachi had intended. The virus lodges in a healthy person's body until death where it will break out and spread its desolating sickness.
