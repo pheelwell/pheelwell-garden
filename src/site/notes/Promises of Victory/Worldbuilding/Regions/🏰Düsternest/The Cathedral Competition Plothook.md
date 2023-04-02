@@ -146,7 +146,7 @@ Read to the PLayers:
 > You find a pergament Roll that seems much older then the rest of the Scrolls detailing a sort of ancient Arcane Prison Chamber.
 > Although almost perfect, the power to even build that is so exorbitant you would need the whole Basin to work on it for Years. This is stupidly oversized.
 
-This is a Hint on the Sealing Chamber of [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]
+This is a Hint on the Sealing Chamber of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
 
 #### S7. Break Room
 
