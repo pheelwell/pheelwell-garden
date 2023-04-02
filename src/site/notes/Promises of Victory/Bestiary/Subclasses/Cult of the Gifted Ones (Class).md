@@ -17,19 +17,19 @@ Starting at 2nd level, you can bring despair to others. As a bonus action, you c
 
 #### Chanel Divinity: Naruun's Blessing
 
-Starting at 2nd level, you can use your Channel Divinity to offer a creature [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s Blessing. As an action, you present your holy symbol and speak a prayer to [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], begging for his gift. Choose a creature within 30 feet of you that you can see. That creature gains temporary hit points equal to double your cleric level + your Wisdom modifier.
+Starting at 2nd level, you can use your Channel Divinity to offer a creature [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s Blessing. As an action, you present your holy symbol and speak a prayer to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], begging for his gift. Choose a creature within 30 feet of you that you can see. That creature gains temporary hit points equal to double your cleric level + your Wisdom modifier.
 
 #### Naruun's Gift
 
-Starting at 6th level, as a Ritual you can offer a creature one of [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s gifts. The creature must be willing, and for the Gift to transpire you have to know what the deepest desires of the creatures are. The creature must make a Charisma check against your cleric spell save DC. On a failed check, the creature gains a random gift from [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]. These gifts can be anything from a new ability, to a great power, or even a curse.
+Starting at 6th level, as a Ritual you can offer a creature one of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s gifts. The creature must be willing, and for the Gift to transpire you have to know what the deepest desires of the creatures are. The creature must make a Charisma check against your cleric spell save DC. On a failed check, the creature gains a random gift from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. These gifts can be anything from a new ability, to a great power, or even a curse.
 
 #### Naruun's Gaze
 
-Starting at 8th level, you can use your Channel Divinity to unleash [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s Gaze of Despair. As an action, you present your holy symbol and stare into the eyes of a creature within 30 feet of you that you can see. The creature must make a Wisdom saving throw against your cleric spell save DC. On a failed save, the creature is filled with despair and is stunned until the end of your next turn.
+Starting at 8th level, you can use your Channel Divinity to unleash [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s Gaze of Despair. As an action, you present your holy symbol and stare into the eyes of a creature within 30 feet of you that you can see. The creature must make a Wisdom saving throw against your cleric spell save DC. On a failed save, the creature is filled with despair and is stunned until the end of your next turn.
 
 #### Naruun's Avatar
 
-Starting at 17th level, you can channel the power of [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] into yourself. As an action, you present your holy symbol and speak a prayer to [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]], begging for his gift. For the next minute, you are under the effects of the following benefits:
+Starting at 17th level, you can channel the power of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] into yourself. As an action, you present your holy symbol and speak a prayer to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], begging for his gift. For the next minute, you are under the effects of the following benefits:
 
 - You have resistance to all damage.
 - You can use your action to make two attacks.
