@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/the-lost-hops/","title":"The Lost Hops","noteIcon":"Faction","created":"2023-01-25T02:26:54.116+01:00","updated":"2023-03-29T21:31:05.254+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/the-lost-hops/","title":"The Lost Hops","noteIcon":"Faction","created":"2023-01-25T02:26:54.116+01:00","updated":"2023-04-01T13:00:22.311+02:00"}
 ---
 
-The city of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]  has a hidden underground smuggling operation called "The [[Lost Hopps\|Lost Hopps]]".
+The city of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]  has a hidden underground smuggling operation called [[The Lost Hopps\|The Lost Hopps]].
 Their goal is to steal from the rich and wealthy and provide contraband to the poor and needy.
 The smuggling operation is led by a woman named [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Helena\|Helena]], who is an expert in stealth and subterfuge.
 As a cover the Lost Hops pose as traveling brewers, wandering from city to city, brewing and selling their beer.

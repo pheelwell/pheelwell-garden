@@ -5,7 +5,7 @@
 
 ### Geography
 
-Edschmied lays in the center of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and is a giant castle mostly populated by dwarfs. The city is most well known for the craftmanship and the processing of the metal [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]]. 
+Edschmied lays in the center of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and is a giant castle mostly populated by dwarfs. The city is most well known for the craftmanship and the processing of the metal [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]]. 
 
 ### Politics
 

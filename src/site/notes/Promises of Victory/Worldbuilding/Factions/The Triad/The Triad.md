@@ -15,4 +15,4 @@ There are 3 heads of the Council of which only one is publicly known.
 The Triad is advised by a group of 12 Elders, which are chosen from the city's population.
 The Elders are chosen for their wisdom and knowledge and they advise the Triad on all matters concerning the city.
 They then are assigned to the different Heads of the Triad.
-The Triad sells [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]] to Edschmied to the [[Promises of Victory/Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]]. They don't know what they do with it, though they hide the fact so that others factions don't bother them.
+The Triad sells [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] to Edschmied to the [[Promises of Victory/Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]]. They don't know what they do with it, though they hide the fact so that others factions don't bother them.

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-03-30T22:53:27.147+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-01T12:59:32.779+02:00"}
 ---
 
 
 # Cult of the Gifted
-- [ ] Discover the true nature of [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]
+- [ ] Discover the true nature of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
 - [ ] Uncover the true motives of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
 - [ ] Investigate and discover what [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] are sacrificing
 - [ ] Find out how to stop [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] from growing in power
@@ -13,8 +13,8 @@
 - [ ] Defeate [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] and stop his plans
 
 ## [[Promises of Victory/Worldbuilding/Factions/Cold Heaven Dwarfs/Cold Heaven Dwarfs\|Cold Heaven Dwarfs]]
-- [ ] Learn about [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]] and it's use in smithing weapons and armor
-- [ ] Learn that there is a discrepancy between [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]] delivered and armors produced 
+- [ ] Learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] and it's use in smithing weapons and armor
+- [ ] Learn that there is a discrepancy between [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] delivered and armors produced 
 
 ## [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]
 - [ ] Discover who their leader is and what their ambitions are
@@ -46,7 +46,7 @@
 - [ ] Locate the documents created by Tarwin in [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] that serve as a reminder of his tragedy and courage 
 
 ## Lost Hops
- - [ ] Find out about the goals of the [[Lost Hops\|Lost Hops]]
+ - [ ] Find out about the goals of  [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]]
 - [ ] Uncover their leaders, [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Helena\|Helena]], [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Mom\|Mom]], and [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Dad\|Dad]] 
 - [ ] Discover the mysterious [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Ritual of Name\|Ritual of Name]] 
 - [ ] Understand the connection of [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] to [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] 
@@ -62,14 +62,14 @@
 - [ ] Investigate what they have learned about [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and their purpose
 - [ ] Learn about ancient magic, unexplained phenomena, and paranormal activity studied by [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Researchers\|LPF]]
 
-## [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]
- - [ ] Find out that [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] is the old god of false promises
-- [ ] Discover how [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] is manipulating [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
+## [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
+ - [ ] Find out that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] is the old god of false promises
+- [ ] Discover how [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] is manipulating [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
 - [ ] Uncover what the cult has been sacrificing people for and gathering power for
-- [ ] Learn more about [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]’s physical form, visions and his ability to grant people’s deepest desires 
-- [ ] Research into [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]’s peak of power thousends of years ago and into the forges powered by [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] 
-- [ ] Discover the artifacts necessary to break the prison and prevent [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s escape 
-- [ ] Investigate [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]]'s involvement in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]'s conflict and manipulate events from the shadows to break free
+- [ ] Learn more about [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]’s physical form, visions and his ability to grant people’s deepest desires 
+- [ ] Research into [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]’s peak of power thousends of years ago and into the forges powered by [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] 
+- [ ] Discover the artifacts necessary to break the prison and prevent [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s escape 
+- [ ] Investigate [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s involvement in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]'s conflict and manipulate events from the shadows to break free
 
 ## [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]]
  - [ ] Find out that [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] are astral entities guiding spirits with unfulfilled ambitions
@@ -82,5 +82,5 @@
 - [ ] Find out who is the publicly known head of [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 - [ ] Find out who are the other members of [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 - [ ] Discover what [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]] sells to [[Promises of Victory/Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]] 
-- [ ] Investigate what the Cult does with [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]]
+- [ ] Investigate what the Cult does with [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]]
 

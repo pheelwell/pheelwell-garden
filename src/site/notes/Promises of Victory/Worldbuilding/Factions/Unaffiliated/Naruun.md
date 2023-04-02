@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/naruun/naruun/","title":"Naruun","noteIcon":"NPC","created":"2023-01-25T02:26:54.184+01:00","updated":"2023-03-29T21:31:39.096+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/naruun/","title":"Naruun","noteIcon":"NPC","created":"2023-01-25T02:26:54.184+01:00","updated":"2023-03-29T21:31:39.096+02:00"}
 ---
 
 
@@ -53,11 +53,11 @@ The [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] are astral
 
 Their involvement with Naruun's prison is a closely guarded secret, as only a select few know about their connection to it. If this information were to be discovered by those who seek to free Naruun, it could spell disaster for both the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and all of creation.
 
-# [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]]
+# [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]]
 
-[[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]] is an otherworldly metal with strange properties. It has been used throughout history by both sides in wars within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], each seeking an advantage over their enemies. What neither side realizes is that this power comes with a cost: [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]] is actually remnants of Naruun's tentacles, granting power but also binding those who wield it to his influence.
+[[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] is an otherworldly metal with strange properties. It has been used throughout history by both sides in wars within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], each seeking an advantage over their enemies. What neither side realizes is that this power comes with a cost: [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] is actually remnants of Naruun's tentacles, granting power but also binding those who wield it to his influence.
 
-Naruun has been quietly manipulating events from behind-the-scenes via [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]]'s power - most notably during times when one side appears to be winning an important battle - and at each critical moment takes back its power from those who wear it. This has kept the unending war between both sides alive, allowing Naruun to continue gathering strength and inching closer to his ultimate goal of freedom.
+Naruun has been quietly manipulating events from behind-the-scenes via [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]]'s power - most notably during times when one side appears to be winning an important battle - and at each critical moment takes back its power from those who wear it. This has kept the unending war between both sides alive, allowing Naruun to continue gathering strength and inching closer to his ultimate goal of freedom.
 
 # Conclusion
 

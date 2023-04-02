@@ -3,7 +3,7 @@
 ---
 
 
-[The Basin](The%20Basin.md) underwent many ancient events before the events outlined in the [[Promises of Victory/General/Historic Events\|Historic Events]] related to the basin. reaching back to a forgotten time where [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] war roaming free.
+[The Basin](The%20Basin.md) underwent many ancient events before the events outlined in the [[Promises of Victory/General/Historic Events\|Historic Events]] related to the basin. reaching back to a forgotten time where [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] war roaming free.
 
 -3523: Naruun is born and quickly becomes a powerful entity over the Basin, his Cult of the Gifted begin worshiping him and granting his wishes in exchange for power.
 

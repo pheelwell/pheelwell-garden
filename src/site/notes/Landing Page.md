@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-01T03:42:35.335+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-02T02:38:49.325+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@ To get started, here is a list of my projects:
 ## Promises of Victory
 ![Pasted image 20230329230847.png](/img/user/resources/Pictures/Pasted%20image%2020230329230847.png)
 
- In the war-ravaged land of The Basin, the League of Arathor and the Defilers have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
+ In the war-ravaged land of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
 
 > [!warning] If you want to play this Campain. GO AWAY! There are heavy spoilers in those Documents. A Safe Introduction is still TODO
 
@@ -41,6 +41,7 @@ table
   file.size as "Size (bytes)",
   file.link as "Link"
 from ""
+where dg-publish = true
 sort file.mtime desc
 limit 15
 ```
@@ -50,6 +51,7 @@ limit 15
 table
   file.size as "Size (bytes)"
 from ""
+where dg-publish = true
 sort file.size desc
 limit 5
 ```

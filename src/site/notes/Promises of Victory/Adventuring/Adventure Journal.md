@@ -14,7 +14,7 @@ A Undead Priest once in service of the [[Promises of Victory/Worldbuilding/Facti
 
 [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]]
 This Goblin left the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]] to search for a way for it to undo their Pact they did with the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Gremlins\|The Gremlins]].
-**Story Relevance:** In the Partys research they find [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] who is responsible for the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]]s deal. [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] is also one of the few creatures to actually remember [[Promises of Victory/Worldbuilding/Factions/Naruun/Naruun\|Naruun]] as a God of False Promisses
+**Story Relevance:** In the Partys research they find [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] who is responsible for the [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]]s deal. [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] is also one of the few creatures to actually remember [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] as a God of False Promisses
 
 [[Promises of Victory/Adventuring/Player Characters/Semloh Kolrehs\|Semloh Kolrehs]]
 This Undead Half Elf Ranger just recently turned into an Undead.
@@ -39,7 +39,7 @@ Characters have intermingled Backstorys:
 - Alongside [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]], professional dragon hunter [[Promises of Victory/Worldbuilding/Factions/DEHTA/Agraxis\|Agraxis]] joins them
 
 ## Chapter 2: A Stop at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]
-- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] where they learn about [[Promises of Victory/Worldbuilding/Factions/Naruun/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
+- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] where they learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 
 ## Chapter 3: The [[Promises of Victory/General/Storys/Artifact of Chaos\|Artifact of Chaos]]
 - The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/General/Storys/Artifact of Chaos\|Artifact of Chaos]], and he tells the party to keep it safe
