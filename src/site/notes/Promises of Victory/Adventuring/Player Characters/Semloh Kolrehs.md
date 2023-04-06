@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"2023-03-27T00:08:32.913+02:00","updated":"2023-03-30T01:43:50.181+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"2023-03-27T00:08:32.913+02:00","updated":"2023-04-02T22:26:47.479+02:00"}
 ---
 
 ![Pasted image 20230330014338.png](/img/user/resources/Pictures/Pasted%20image%2020230330014338.png)
@@ -40,3 +40,6 @@ During his journey, Semloh may cross paths with other adventurers who share simi
 ## Conclusion
 
 Semloh Kolrehs is a compelling character whose tragic backstory and unwavering determination make him an intriguing addition to any adventuring party. As he delves deeper into the world of the supernatural in search of answers about his own cursed existence, players have ample opportunities to explore themes of redemption, friendship, and the blurred lines between life and death. With each step closer to solving the mystery behind his murder and breaking free from his undead curse, Semloh's story serves as a testament to resilience in even the darkest of times.
+
+
+
