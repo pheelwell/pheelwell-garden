@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/high-paladin-erathenar/","title":"High Paladin Erathenar","noteIcon":"NPC","created":"2023-01-25T02:26:54.037+01:00","updated":"2023-04-01T03:35:27.631+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/league-of-arathor/high-paladin-erathenar/","title":"High Paladin Erathenar","noteIcon":"NPC","created":"2023-01-25T02:26:54.037+01:00","updated":"2023-04-04T00:15:00.359+02:00"}
 ---
-
 
 Erathenar is the leader of the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the High Paladin of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]. He is a just and honorable man, and he will stop at nothing to protect his people. He is a skilled warrior and a powerful paladin, and he has led the League to many victories against the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]].
 
