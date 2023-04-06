@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/lichtachte/lichtachte/","title":"Lichtachte","noteIcon":"Settlement","created":"2023-01-25T02:26:53.868+01:00","updated":"2023-03-30T16:08:21.280+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/lichtachte/lichtachte/","title":"Lichtachte","noteIcon":"Settlement","created":"2023-01-25T02:26:53.868+01:00","updated":"2023-04-05T23:51:51.858+02:00"}
 ---
 
 # Overview
 
-Lichtachte is a bastion of light in the otherwise dark and troubled lands of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. The city is ruled by the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]], led by High Paladin [[Promises of Victory/Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]. It stands as a symbol of hope against the forces of darkness, particularly those commanded by General [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] and her undead army, known as the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]. The city itself is known for its impressive Cathedral of Light, which houses the powerful [[Promises of Victory/General/Storys/Artifact of Light\|Artifact of Light]].
+Lichtachte is a bastion of light in the otherwise dark and troubled lands of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. The city is ruled by the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]], led by High Paladin [[Promises of Victory/Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]. It stands as a symbol of hope against the forces of darkness, particularly those commanded by General [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] and her undead army, known as the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]. The city itself is known for its impressive Cathedral of Light, which houses the powerful Artifact called [[Promises of Victory/Worldbuilding/Things/Sundawn\|Sundawn]].
 
 # Geography
 
@@ -14,7 +14,7 @@ Nearby [[Promises of Victory/Worldbuilding/Regions/Todo/Trollbans Hold\|Trollban
 
 # Key Locations
 
-1. *Cathedral of Light*: This grand cathedral serves as a beacon for those seeking sanctuary from darkness in Lichtachte. It houses the powerful [[Promises of Victory/General/Storys/Artifact of Light\|Artifact of Light]], which is hidden from plain sight. Located at the heart of Lichtachte, this fortified building also serves as both a stronghold and meeting place for members of [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]].
+1. *Cathedral of Light*: This grand cathedral serves as a beacon for those seeking sanctuary from darkness in Lichtachte. It houses the powerful artifact [[Promises of Victory/Worldbuilding/Things/Sundawn\|Sundawn]], which is hidden from plain sight. Located at the heart of Lichtachte, this fortified building also serves as both a stronghold and meeting place for members of [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]].
 2. *Grand Library*: An underground library run by [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]], who seeks knowledge on how to regain his humanity after being turned into an undead soldier by General [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]'s Plague.
 4. 
 
