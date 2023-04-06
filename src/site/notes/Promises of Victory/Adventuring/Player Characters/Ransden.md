@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"2023-01-25T02:26:54.386+01:00","updated":"2023-03-30T16:13:48.408+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"2023-01-25T02:26:54.386+01:00","updated":"2023-04-02T22:56:55.030+02:00"}
 ---
 
 ![ransden.jpg](/img/user/resources/Pictures/ransden.jpg)
@@ -60,3 +60,6 @@ Wurde vor Jahren:
 
 Bekannt: Unbekannter Gott. Wird in Verbindung mit Wiedegeburt gebracht. Legenden besagen, dass die Tentakeln Naru'uns damals das gesammte Arathibecken durchzogen haben.
 Du findest Erzählungen von Okulten Bewegungen die sich zusammentuen um die Wunder und Geschenke dieses Gottes entegenzunehmen.
+
+Sumerize everything with precise words. use aproximately 250 Words. optimize for minimal word usage, just state facts. keep everything to facts about the person and his relation. Don't state facts about other people when adds nothing about the summary of the character.
+
