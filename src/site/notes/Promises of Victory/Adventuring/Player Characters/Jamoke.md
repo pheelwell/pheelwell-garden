@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/jamoke/","title":"Jamoke","noteIcon":"NPC","created":"2023-01-25T02:26:54.377+01:00","updated":"2023-03-30T01:41:37.860+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/jamoke/","title":"Jamoke","noteIcon":"NPC","created":"2023-01-25T02:26:54.377+01:00","updated":"2023-04-02T22:18:05.306+02:00"}
 ---
 
 ![WhatsApp Image 2020-01-15 at 22.27.33.jpeg](/img/user/resources/Pictures/WhatsApp%20Image%202020-01-15%20at%2022.27.33.jpeg)
