@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-03-31T13:19:06.178+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-04-05T23:55:20.737+02:00"}
 ---
+
+
+
 
 # Adventuring Party
 The Party consists of:
 [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]]
 **Motivation:** A Troll [[Promises of Victory/Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] of the [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]. He fled his home to pursue Adventure.  
-**Story Relevance:** Jamokes Sister [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] is working for the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]], she will be used to get the Party to fulfill the Ritual of the [[Promises of Victory/General/Storys/Artifact of Chaos\|Artifact of Chaos]] in the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]].  
+**Story Relevance:** Jamokes Sister [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] is working for the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]], she will be used to get the Party to fulfill the Ritual with the  [[Promises of Victory/Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]] in the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]].  
 
 [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]]
 A Undead Priest once in service of the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]. He found a Ritual that Promises to bring back his Family.
@@ -41,8 +44,8 @@ Characters have intermingled Backstorys:
 ## Chapter 2: A Stop at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]
 - The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] where they learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 
-## Chapter 3: The [[Promises of Victory/General/Storys/Artifact of Chaos\|Artifact of Chaos]]
-- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/General/Storys/Artifact of Chaos\|Artifact of Chaos]], and he tells the party to keep it safe
+## Chapter 3: The [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
+- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]], and he tells the party to keep it safe, since it is a powerful artifact
 
 ## Chapter 4: Conflict at [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills
 - The Party visits the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills where they notice local woodworkers getting attacked by elves using sleep spells
