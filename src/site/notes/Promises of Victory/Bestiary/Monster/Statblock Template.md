@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/monster/statblock-template/","title":"Statblock Template","noteIcon":"Meta","created":"2023-01-25T02:26:54.326+01:00","updated":"2023-03-29T22:31:59.669+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/monster/statblock-template/","title":"Statblock Template","noteIcon":"Meta","created":"2023-01-25T02:26:54.326+01:00","updated":"2023-04-02T23:14:08.293+02:00"}
 ---
 
 # Statblock Template:
@@ -130,3 +130,6 @@ actions :
 ```
 
 based on [[Promises of Victory/Bestiary/Monster/Statblock Template\|Statblock Template]]
+
+
+give an example for a dnd 5e statblock in markdown format suitable for obsidian inside a callout:
