@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/finding-what-s-lost-plot/","title":"Finding what's Lost Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.626+01:00","updated":"2023-03-29T21:35:43.013+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/finding-what-s-lost-plot/","title":"Finding what's Lost Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.626+01:00","updated":"2023-04-05T23:55:52.036+02:00"}
 ---
 
 ## Finding what's Lost Plot
 
-This is a plot that the players can embark on to learn about the **[[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|lost Hops]]**. If they sympathise with the burglar group, they can use them to plan a heist on the **Church of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]** to steal the **[[Promises of Victory/General/Storys/Artifact of Life\|Artifact of Life]]**.
+This is a plot that the players can embark on to learn about the **[[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|lost Hops]]**. If they sympathise with the burglar group, they can use them to plan a heist on the **Church of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]** to steal the [[Promises of Victory/Worldbuilding/Things/Heart of the forrest\|Heart of the forrest]].
 
 ### Precondition
 
