@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/naruun/","title":"Naruun","noteIcon":"NPC","created":"2023-01-25T02:26:54.184+01:00","updated":"2023-03-29T21:31:39.096+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/naruun/","title":"Naruun","noteIcon":"NPC","created":"2023-01-25T02:26:54.184+01:00","updated":"2023-04-07T13:38:08.771+02:00"}
 ---
 
 
-Naruun is the old god of false promises. He was once a powerful deity, but was sealed away by the other forces of nature. He was imprisoned in a titanic prison, but has been manipulating [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]  and other factions of the [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] to try and escape. He has been using them to sacrifice people and gather power. He is almost ready to escape, but the party needs to stop him.
+Naruun is the old god of false promises. He was once a powerful deity, but was sealed away by the other forces of nature. He was imprisoned in a titanic prison, but has been manipulating [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]  and other factions of the [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] to try and escape. He has been using them to sacrifice people and gather power. He is almost ready to escape, but the party needs to stop him.
 
 # Appearance
 In his physical Form Naruun appears as a infinite purple mass of giant tentacles, that burry into the land.
@@ -11,7 +11,7 @@ In his visions he looks like a giant clouded concept of an Angelic figure with m
 
 # Taking Influence
 The god of false promises works in finding out the deepest desires of people and then granting them the power to seemingly achieve those desires and wishes.
-He starts out by appearing as a being of great benevolence, helping [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] in their pursuits. For example, he promises them the power to resurrect the dead, and they believe that he is the true god of death.
+He starts out by appearing as a being of great benevolence, helping [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] in their pursuits. For example, he promises them the power to resurrect the dead, and they believe that he is the true god of death.
 
 # History
 
@@ -41,9 +41,9 @@ The conflict in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin
 He Instigated:
 - [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]] by planting [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] the Idea of [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]]
 - Instigated the first [[Promises of Victory/Worldbuilding/Historic Events/War/Attack on Lichtachte\|Attack on Lichtachte]]
-# [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
+# [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 
-[[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]], led by the once-paladin [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]], has been unknowingly serving Naruun's will. They believe that he is the true god of death and that he will grant them their deepest desires in exchange for power. Unbeknownst to them, they are merely pawns in Naruun's plan to escape his prison and bring destruction upon the world.
+[[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], led by the once-paladin [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]], has been unknowingly serving Naruun's will. They believe that he is the true god of death and that he will grant them their deepest desires in exchange for power. Unbeknownst to them, they are merely pawns in Naruun's plan to escape his prison and bring destruction upon the world.
 
 As they work towards their goal of resurrecting their dead loved ones, they are also unwittingly gathering the artifacts needed to break Naruun's prison. The cultists blindly follow [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] and Naruun, not knowing that their actions will ultimately lead to chaos and destruction.
 
