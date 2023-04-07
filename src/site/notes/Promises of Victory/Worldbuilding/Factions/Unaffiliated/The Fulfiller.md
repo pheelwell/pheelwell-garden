@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-01T03:27:47.918+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-07T13:25:40.185+02:00"}
 ---
 
-The Fulfiller is an old Hag who lived since before the imprisonment of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]]. She lives from feeding bad emotions, similar to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]]. Since [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]] the very existance and acting of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]] provided the Fulfiller with many dreams beeing shattered, she sympathises with the old god and wants to free him again, so that he can start feeding off of the bad emotions of people again.
+The Fulfiller is an old Hag who lived since before the imprisonment of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]]. She lives from feeding bad emotions, similar to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]]. Since [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] the very existance and acting of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] provided the Fulfiller with many dreams beeing shattered, she sympathises with the old god and wants to free him again, so that he can start feeding off of the bad emotions of people again.
 
 > [!TIP] Quick Reference
 > ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
