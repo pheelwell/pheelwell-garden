@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-01T12:59:32.779+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-07T13:25:39.959+02:00"}
 ---
 
 
 # Cult of the Gifted
 - [ ] Discover the true nature of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
-- [ ] Uncover the true motives of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
-- [ ] Investigate and discover what [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] are sacrificing
-- [ ] Find out how to stop [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] from growing in power
-- [ ] Unmask [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] and reveal their true intentions
+- [ ] Uncover the true motives of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
+- [ ] Investigate and discover what [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] are sacrificing
+- [ ] Find out how to stop [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] from growing in power
+- [ ] Unmask [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] and reveal their true intentions
 - [ ] Investigate and uncover where [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] is hiding
 - [ ] Defeate [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] and stop his plans
 
@@ -23,7 +23,7 @@
 - [ ] Explore [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] and uncover why [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was exiled from there
 
 ## [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]]
-- [ ] Find out about the connection of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|Naruun]] 
+- [ ] Find out about the connection of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] 
 - [ ] Find out about the Meaning of the Talismans
 - [ ] Discover what is  [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]'s Market and how does it operate
 - [ ] Uncover what kind of deals [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] offers and what is the purpose behind them
@@ -33,7 +33,7 @@
 ## [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
 - [ ] Discover the truth behind [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
 - [ ] Research the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]] ritual commanded by [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
-- [ ] Find out more about [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] and their connection to [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
+- [ ] Find out more about [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] and their connection to [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
 - [ ] Look into [[Naruun's\|Naruun's]] plan and his influence on [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
 - [ ] Investigate why [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] left the Cult
 - [ ] Uncover the purpose of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]], founded by [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
@@ -64,7 +64,7 @@
 
 ## [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
  - [ ] Find out that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] is the old god of false promises
-- [ ] Discover how [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] is manipulating [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
+- [ ] Discover how [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] is manipulating [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 - [ ] Uncover what the cult has been sacrificing people for and gathering power for
 - [ ] Learn more about [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]’s physical form, visions and his ability to grant people’s deepest desires 
 - [ ] Research into [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]’s peak of power thousends of years ago and into the forges powered by [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] 
