@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-01T23:44:23.047+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-07T13:30:36.657+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 ## [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]
 (quote from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]])
 # Minor Factions
-## [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]]
+## [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 (quote from an unknown commoner)
 ## [[Promises of Victory/Worldbuilding/Factions/DEHTA/D.E.H.T.A.\|D.E.H.T.A.]]
 (quote from [[Promises of Victory/Worldbuilding/Factions/DEHTA/Broll Bearmantle\|Broll Bearmantle]])
@@ -77,7 +77,7 @@ Many members of The Shaddowhammer are lost souls searching for purpose or seekin
 
 > [!seed] Adventure Hook: The party uncovers information about a plot by The Shaddowhammer to unleash their devastating magical bomb on a major city in the Basin. They must race against time to infiltrate Shadowspire and prevent this catastrophe from occurring while battling fanatical cultists along the way.
 
-## The Cult of the Gifted
+## The Gifted
 
 > [!warning ] This is BS too  :D 
 
@@ -161,4 +161,23 @@ Jamoke's goal is to save his sister and put an end to the cult's machinations. H
 
 The Lost Hops is a secret underground smuggling operation that poses as a group of traveling brewers. Their goal is to steal from the rich and provide contraband items for the poor. Led by Helena, an expert in subterfuge and stealth, they are based in Düsternest.
 
-The organization is divided into two groups led by Mom and Dad, totaling 
+The organization is divided into two groups led by Mom and Dad, totaling 40 members. Members undergo a ritual called the Name, which erases their memories of their past identities, allowing them to fully embrace their new lives within The Lost Hops.
+
+While they maintain good relations with the city guard, there is always a risk of discovery and retribution from those they steal from. Still, The Lost Hops continues to operate, bringing hope and aid to those who need it most.
+
+> [!seed] Adventure Hook: The party learns of The Lost Hops' secret operation and must decide whether to assist them in their endeavors or turn them in for a potential reward from the authorities or wealthy victims.
+
+## The Goats
+
+> [!quote] Quote
+> "The pursuit of knowledge often comes at a cost, but the advancements we make may one day save countless lives." - A Noble
+
+The Goats are a mercenary organization specializing in organ harvesting and creative medical procedures. Run by a small group of upper management called Cooks, they have a clear hierarchical structure and chain of command.
+
+Their goals are to make money and advance the state of medical knowledge through any means necessary. They use well-oiled machinery to harvest organs and conduct experiments on unwilling subjects.
+
+The inner circle members, known as Cutters, are given the most difficult and dangerous jobs. They also receive a special mutagen that bestows them with the lycanthropy curse to enhance their abilities.
+
+The Goats are in conflict with The Lost Hops due to their opposing goals but remain focused on furthering their own aims regardless of any obstacles.
+
+>[!seed] Adventure Hook: A close friend or family member falls victim to The Goats' organ harvesting operation. The party must track down this ruthless organization and put an end to their grisly deeds while potentially uncovering disturbing secrets about the world's medical practices.
