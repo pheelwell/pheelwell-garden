@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/subclasses/cult-of-the-gifted-ones-class/","title":"Cult of the Gifted Ones (Class)","noteIcon":"Meta","created":"2023-01-25T02:26:54.343+01:00","updated":"2023-03-29T21:23:01.513+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/bestiary/subclasses/cult-of-the-gifted-ones-class/","title":"Cult of the Gifted Ones (Class)","noteIcon":"Meta","created":"2023-01-25T02:26:54.343+01:00","updated":"2023-04-07T13:25:39.977+02:00"}
 ---
 
 
-You can choose [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted\|The Cult of the Gifted]] Ones subclass for the Priest class.[[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted#Naruun\|Naruun]] is an ancient forgotten old god. People seek him in the deepest moments of despair, to beg for his gifts. And for some whos desires are strong enougth, he also returns those bids.
-Some believe that [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted#Naruun\|Naruun]] is a malevolent god, while others believe that he is simply misunderstood. In either case, he offers his gifts to his followers, the Gifted ones.
-The Gifted ones are people who have been blessed by [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted#Naruun\|Naruun]]. Those Gifts could bring many forms, but almost always originate in the deep desires of the Gifted. If you open your mind to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Cult of the Gifted#Naruun\|Naruun]] he will soothe your despair, and will help you bring it on the people opposing you.
+You can choose [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] Ones subclass for the Priest class.[[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted#Naruun\|Naruun]] is an ancient forgotten old god. People seek him in the deepest moments of despair, to beg for his gifts. And for some whos desires are strong enougth, he also returns those bids.
+Some believe that [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted#Naruun\|Naruun]] is a malevolent god, while others believe that he is simply misunderstood. In either case, he offers his gifts to his followers, the Gifted ones.
+The Gifted ones are people who have been blessed by [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted#Naruun\|Naruun]]. Those Gifts could bring many forms, but almost always originate in the deep desires of the Gifted. If you open your mind to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted#Naruun\|Naruun]] he will soothe your despair, and will help you bring it on the people opposing you.
 
 #### Psycic Transmutation
 
