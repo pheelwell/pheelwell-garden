@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/iraia/","noteIcon":"NPC","created":"2023-03-29T16:19:51.956+02:00","updated":"2023-04-09T20:08:28.158+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/iraia/","noteIcon":"NPC","created":"2023-03-29T16:19:51.956+02:00","updated":"2023-04-09T20:08:39.152+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@ Iraia is a founding member of [[Promises of Victory/Worldbuilding/Factions/Cult 
 
 
 > [!TIP] Quick Reference
-> ![[Iraia.png\| 300]] 
+> ![Pasted image 20230409190632.png|300](/img/user/Pasted%20image%2020230409190632.png) 
 > **Iraia** _Human Leader_ 
 > Founding member and visionary leader of The Gifted
 >- **Motivation**: Destiny, guidance, protection
