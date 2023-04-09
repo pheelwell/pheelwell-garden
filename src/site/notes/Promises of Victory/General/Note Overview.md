@@ -24,7 +24,7 @@ This Vault is divided into sections:
 | [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]]                           | <ul><li>Gandmühl is a small town mostly populated by elves with a population of about 2000.</li><li><ul><li><b>The town has two main groups</b>: those who want to keep trading wood and those who want to expand tourism.</li></ul></li><li>The town is governed by a council of elves, split evenly between these two groups.</li><li>Gandmühl is located next to a river in a forest and surrounded by fields and forrest.</li><li>The two groups are called "The Chuckers" and "The Reformers".</li><li>The Chuckers live on the east side of the town and rely on lumber trading for their source of income.</li><li>The Reformers live on the west side and use the harbor to bring in tourists.</li></ul>                                                                                                                                                                                   |
 | [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]                        | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/🏰Prosnen/Prosnen\|Prosnen]]                         | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Last Hope\|Last Hope]]                  | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]]    | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]]                     | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/The Defilers Lumbermills\|The Defilers Lumbermills]] | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]]                               | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -146,32 +146,33 @@ This Vault is divided into sections:
 
 # Unmarked
 These Files need Metadata!
-| File                                                                                              |
-| ------------------------------------------------------------------------------------------------- |
-| [[Wedding/wedding/Untitled\|Untitled]]                                                         |
-| [[Wedding/wedding/🗒️Todo list\|🗒️Todo list]]                                                 |
-| [[Wedding/wedding/Geburtstag Notes\|Geburtstag Notes]]                                         |
-| [[Wedding/wedding/Timeline\|Timeline]]                                                         |
-| [[Wedding/wedding/secret/Preisquiz\|Preisquiz]]                                                |
-| [[Wedding/wedding/secret/🗒️Secret Todo List\|🗒️Secret Todo List]]                            |
-| [[Wedding/wedding/secret/Laras Notes\|Laras Notes]]                                            |
-| [[Wedding/wedding/secret/Kahoot\|Kahoot]]                                                      |
-| [[Wedding/wedding/secret/JGA\|JGA]]                                                            |
-| [[Wedding/wedding/secret/Afterparty\|Afterparty]]                                              |
-| [[Untitled\|Untitled]]                                                                         |
-| [[Untitled 2\|Untitled 2]]                                                                     |
-| [[Technical/Custom Callouts\|Custom Callouts]]                                                 |
-| [[Promises of Victory/Worldbuilding/Regions/Todo/Belldort\|Belldort]]                          |
-| [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]                      |
-| [[Promises of Victory/Worldbuilding/Regions/NPC Template\|NPC Template]]                       |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Ralyen Arcfall\|Ralyen Arcfall]]     |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Raiden Arcfall\|Raiden Arcfall]]     |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Herbert Ragebone\|Herbert Ragebone]] |
-| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Helene Arcfall\|Helene Arcfall]]     |
-| [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Shaddowbane\|Shaddowbane]]          |
-| [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Untitled\|Untitled]]            |
-| [[Promises of Victory/Worldbuilding/Factions/Faction Overview\|Faction Overview]]              |
-| [[pininfo\|pininfo]]                                                                           |
-| [[Graph Filter\|Graph Filter]]                                                                 |
+| File                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Wedding/wedding/Untitled\|Untitled]]                                                                       |
+| [[Wedding/wedding/🗒️Todo list\|🗒️Todo list]]                                                               |
+| [[Wedding/wedding/Geburtstag Notes\|Geburtstag Notes]]                                                       |
+| [[Wedding/wedding/Timeline\|Timeline]]                                                                       |
+| [[Wedding/wedding/secret/Preisquiz\|Preisquiz]]                                                              |
+| [[Wedding/wedding/secret/🗒️Secret Todo List\|🗒️Secret Todo List]]                                          |
+| [[Wedding/wedding/secret/Laras Notes\|Laras Notes]]                                                          |
+| [[Wedding/wedding/secret/Kahoot\|Kahoot]]                                                                    |
+| [[Wedding/wedding/secret/JGA\|JGA]]                                                                          |
+| [[Wedding/wedding/secret/Afterparty\|Afterparty]]                                                            |
+| [[Untitled\|Untitled]]                                                                                       |
+| [[Untitled 2\|Untitled 2]]                                                                                   |
+| [[Technical/Custom Callouts\|Custom Callouts]]                                                               |
+| [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Endless Caves Archive\|Endless Caves Archive]] |
+| [[Promises of Victory/Worldbuilding/Regions/Todo/Belldort\|Belldort]]                                        |
+| [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]                                    |
+| [[Promises of Victory/Worldbuilding/Regions/NPC Template\|NPC Template]]                                     |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Ralyen Arcfall\|Ralyen Arcfall]]                   |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Raiden Arcfall\|Raiden Arcfall]]                   |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Herbert Ragebone\|Herbert Ragebone]]               |
+| [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Helene Arcfall\|Helene Arcfall]]                   |
+| [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Shaddowbane\|Shaddowbane]]                        |
+| [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Untitled\|Untitled]]                          |
+| [[Promises of Victory/Worldbuilding/Factions/Faction Overview\|Faction Overview]]                            |
+| [[pininfo\|pininfo]]                                                                                         |
+| [[Graph Filter\|Graph Filter]]                                                                               |
 
 
