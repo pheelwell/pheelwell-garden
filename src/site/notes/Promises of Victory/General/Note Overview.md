@@ -161,6 +161,7 @@ These Files need Metadata!
 | [[Untitled\|Untitled]]                                                                                       |
 | [[Untitled 2\|Untitled 2]]                                                                                   |
 | [[Technical/Custom Callouts\|Custom Callouts]]                                                               |
+| [[Promises of Victory/Worldbuilding/Faction Overview\|Faction Overview]]                                     |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Endless Caves Archive\|Endless Caves Archive]] |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/Belldort\|Belldort]]                                        |
 | [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]                                    |
@@ -171,7 +172,6 @@ These Files need Metadata!
 | [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Helene Arcfall\|Helene Arcfall]]                   |
 | [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Shaddowbane\|Shaddowbane]]                        |
 | [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Untitled\|Untitled]]                          |
-| [[Promises of Victory/Worldbuilding/Factions/Faction Overview\|Faction Overview]]                            |
 | [[pininfo\|pininfo]]                                                                                         |
 | [[Graph Filter\|Graph Filter]]                                                                               |
 
