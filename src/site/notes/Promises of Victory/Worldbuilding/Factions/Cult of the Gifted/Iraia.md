@@ -1,26 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/iraia/","noteIcon":"NPC","created":"2023-03-29T16:19:51.956+02:00","updated":"2023-04-09T20:08:39.152+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/iraia/","noteIcon":"NPC","created":"2023-03-29T16:19:51.956+02:00","updated":"2023-04-09T20:30:11.899+02:00"}
 ---
-
 
 
 Iraia is a founding member of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], a visionary leader who guides her followers with wisdom and foresight. She has an unwavering belief in the power of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones and their ability to change the world for the better.
 
-
 > [!TIP] Quick Reference
 > ![Pasted image 20230409190632.png|300](/img/user/Pasted%20image%2020230409190632.png) 
 > **Iraia** _Human Leader_ 
-> Founding member and visionary leader of The Gifted
+> Founding member and visionary leader of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 >- **Motivation**: Destiny, guidance, protection
 >- **Ideals**: Loyalty, devotion, faith
->- **Bonds**: The Gifted, Edard Combell, Volar
+>- **Bonds**: [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]], [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
 >- **Flaws**: Hides the truth about her visions' accuracy
 > ____
 >- **Roleplaying Tips**: Emphasize charisma and strong will; portray as a motherly figure to followers.
 >-  **Quirk**: Can sense when someone is gifted before they realize it themselves.
-
-
-
 
 ## Appearance
 Iraia is a tall, slender woman with long, flowing dark hair that reaches her waist. Her eyes are a striking, almost unnerving shade of deep blue that seems to pierce through those she gazes upon. She has an air of grace and elegance about her, and her movements are fluid and measured. Her face is angular, with high cheekbones and a strong jawline, giving her an ethereal beauty. She typically wears long flowing robes in shades of deep purple, silver, and black – colors associated with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s divine power. Intricate embroidery adorns the edges of her garments, depicting symbols and glyphs sacred to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]. Around her neck hangs a large amulet bearing the symbol of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] – a constant reminder of her devotion to the god.
@@ -64,7 +59,7 @@ Iraia serves as a visionary leader and guide for [[Promises of Victory/Worldbuil
 > [!seed] Seed, Adventure Hook
 > Rumors of a powerful artifact that could break [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s prison reach Iraia's ears, and she becomes obsessed with finding it. The players must help her locate the artifact before it falls into the wrong hands or decide if they should stand against her quest, fearing the consequences of freeing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
 
-- Iraia can be found in [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Last Hope\|Last Hope]]
+- Iraia can be found in [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]]
 - Iraia has dedicated her life to serving [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and unlocking the full potential of her gift. She believes that by following his guidance, she can bring about a golden age for [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones.
 - Iraia is known to have a unique connection with nature and animals. She often uses this bond to help her locate new gifted individuals or gather information from the natural world.
 - Iraia has a mysterious past that she doesn't share with anyone. Some believe she was once part of a powerful noble family who disowned her when her powers manifested.
