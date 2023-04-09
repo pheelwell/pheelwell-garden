@@ -1,4 +1,3 @@
-body {
   /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
@@ -10,11 +9,40 @@ body {
     //   color: black;
     //  }
    ***/
+/* Underline styles - details of technique here: https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline */
+//only affect content cm-s-obsidian
+.cm-s-obsidian a {
+  background: 
+    linear-gradient(to right,var(--link-color),var(--link-color)),
+    linear-gradient(to right,var(--lite-accent),var(--lite-accent));
+  background-size: 100% 0.07em, 0 0.2em;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms ease;
+  text-decoration: none;
+  color: var(--text-normal);
+}
+
+//overwrite border to none
+li {
+  border-left: none;
+
+}
+li:nth-child(even) {
+  border-left: none;
+}
+ul > li:nth-child(even)::before {
+  color: var(--accent);
+}
+
+.cm-s-obsidian a:hover,
+.cm-s-obsidian a:focus {
+  background-size: 0 0.01em, 100% 0.2em;
+  color: var(--text-normal);
 }
 
 //only data-callout="tip"
 //only above 2200px width
-
 @media only screen and (min-width: 1400px) {
   .callout[data-callout="tip"] {
     width: 50%; /* Set the width of the callout div to 40% */
@@ -64,12 +92,10 @@ body {
     display: none;
 }
 
-
-
 .cm-s-obsidian > p:first-of-type:first-letter {
   float: left;
   font-family: "Old English Text MT", "Times New Roman", Times, serif;
-  font-size: 6em;
+  font-size: 5em;
   line-height: 0.5em;
   padding-bottom: 0.05em;
   padding-top: 0.2em;
@@ -89,26 +115,15 @@ body {
   --callout-color: 100, 100, 100;
   --callout-icon: lucide-lock;
 }
+.callout[data-callout="stats"] {
+  --callout-color: 255, 50, 50;
+  --callout-icon: lucide-dice;
+}
 
 .callout[data-callout="seed"] {
   --callout-color: 183, 255, 50;
   --callout-icon: lucide-sprout;
 }
-
-.cm-s-obsidian > p:first-of-type:first-letter {
-  float: left;
-  font-family: "Old English Text MT", "Times New Roman", Times, serif;
-  font-size: 7em;
-  line-height: 0.5em;
-  padding-bottom: 0.05em;
-  padding-top: 0.2em;
-  --text-selection: rgba(var(--red_x), 0.6);
-}
-.cm-s-obsidian > p:first-of-type {
-  //minimal height for small paragraphs
-  min-height: 5.5em;
-}
-
 .mermaid svg {
   max-width: 100%;
   height: auto;
@@ -125,154 +140,86 @@ body.backlinks-note-icon .backlink[data-note-icon]::before {
   background-image: none;
 }
 
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Meta"]::before,
-body.filetree-note-icon .filename[data-note-icon="Meta"]::before,
-body.links-note-icon .internal-link[data-note-icon="Meta"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Meta"]::before {
-  content: "⚙️";
-  background-image: none;
-  width: 1.4em;
-}
 
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Region"]::before,
-body.filetree-note-icon .filename[data-note-icon="Region"]::before,
-body.links-note-icon .internal-link[data-note-icon="Region"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Region"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🗺";
-}
 
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Settlement"]::before,
-body.filetree-note-icon .filename[data-note-icon="Settlement"]::before,
-body.links-note-icon .internal-link[data-note-icon="Settlement"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Settlement"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🏰";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Locality"]::before,
-body.filetree-note-icon .filename[data-note-icon="Locality"]::before,
-body.links-note-icon .internal-link[data-note-icon="Locality"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Locality"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🏠";
-}
-
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="NPC"]::before,
-body.filetree-note-icon .filename[data-note-icon="NPC"]::before,
-body.links-note-icon .internal-link[data-note-icon="NPC"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="NPC"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🧝";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="SideNPC"]::before,
-body.filetree-note-icon .filename[data-note-icon="SideNPC"]::before,
-body.links-note-icon .internal-link[data-note-icon="SideNPC"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="SideNPC"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🧝";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Faction"]::before,
-body.filetree-note-icon .filename[data-note-icon="Faction"]::before,
-body.links-note-icon .internal-link[data-note-icon="Faction"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Faction"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🛡";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="History"]::before,
-body.filetree-note-icon .filename[data-note-icon="History"]::before,
-body.links-note-icon .internal-link[data-note-icon="History"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="History"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "📅";
-}
-
-body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="Arc"]::before,
-body.filetree-note-icon .filename[data-note-icon="Arc"]::before,
-body.links-note-icon .internal-link[data-note-icon="Arc"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Arc"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "📖";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Plot"]::before,
-body.filetree-note-icon .filename[data-note-icon="Plot"]::before,
-body.links-note-icon .internal-link[data-note-icon="Plot"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Plot"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "📜";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Scene"]::before,
-body.filetree-note-icon .filename[data-note-icon="Scene"]::before,
-body.links-note-icon .internal-link[data-note-icon="Scene"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Scene"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🎬";
-}
-
-body.title-note-icon
-  .cm-s-obsidian
-  > header
-  > h1[data-note-icon="Thing"]::before,
-body.filetree-note-icon .filename[data-note-icon="Thing"]::before,
-body.links-note-icon .internal-link[data-note-icon="Thing"]::before,
-body.backlinks-note-icon .backlink[data-note-icon="Thing"]::before {
-  background-image: none;
-  width: 1.3em;
-  content: "🔮";
-}
-
-// in short
 //Meta: ⚙️
 //Region: 🗺
 //Settlement: 🏰
 //Locality: 🏠
-//NPC: 🧝
-//SideNPC: 🧝
-//Faction: 🛡
+//NPC: 👤
 //History: 📅
 //Arc: 📖
 //Plot: 📜
 //Scene: 🎬
 //Thing: 🔮
+//Faction:
+
+
+
+body.title-note-icon .cm-s-obsidian > header > h1::after,
+body.filetree-note-icon .filename::after,
+body.links-note-icon .internal-link::after,
+body.backlinks-note-icon .backlink::after {
+  background-image: none;
+  transition: font-size 400ms ease;
+  //scale down
+  font-size: 0.0em;
+}
+
+// scale up the icon on hover
+body.title-note-icon .cm-s-obsidian > header > h1:hover::after,
+body.filetree-note-icon .filename:hover::after,
+body.links-note-icon .internal-link:hover::after,
+body.backlinks-note-icon .backlink:hover::after {
+  font-size: 1em;
+}
+
+[data-note-icon="Meta"]::after {
+  content: "⚙️";
+}
+
+[data-note-icon="Locality"]::after {
+  content: "🏠";
+}
+
+[data-note-icon="NPC"]::after {
+  content: "👤";
+}
+
+[data-note-icon="History"]::after {
+  content: "📅";
+}
+
+[data-note-icon="Arc"]::after {
+  content: "📖";
+}
+
+[data-note-icon="Plot"]::after {
+  content: "📜";
+}
+
+[data-note-icon="Scene"]::after {
+  content: "🎬";
+}
+
+[data-note-icon="Thing"]::after {
+  content: "🔮";
+}
+
+[data-note-icon="Faction"]::after {
+  content: "⚔️";
+}
+
+[data-note-icon="Region"]::after {
+  content: "🗺";
+}
+
+[data-note-icon="Settlement"]::after {
+  content: "🏰";
+}
+
+
+//undo for header
+body.title-note-icon .cm-s-obsidian > header > h1::after{
+  content: "";
+}
