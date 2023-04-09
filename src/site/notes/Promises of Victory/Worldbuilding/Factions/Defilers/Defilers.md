@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/defilers/","title":"Defilers","noteIcon":"Faction","created":"2023-01-25T02:26:53.913+01:00","updated":"2023-03-31T22:08:55.993+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/defilers/defilers/","title":"Defilers","noteIcon":"Faction","created":"2023-01-25T02:26:53.913+01:00","updated":"2023-04-09T21:02:05.025+02:00"}
 ---
 
 
 
 
 The Defilers were formed in the wake of a great tragedy, when a powerful necromancer named [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was exiled from her home in [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]. Desperate and alone, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was determined to make a new life for herself, free from persecution. To that end, she traveled to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and set up camp with her loyal followers, who had also been exiled from their homes.
-
+![Pasted image 20230409210202.png](/img/user/Pasted%20image%2020230409210202.png)
 In time, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] gathered more followers - undead abominations created by her secret invention, The Plage. With her growing army of loyal soldiers and allies, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] established the Defilers as a powerful force in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. Though they were feared by many for their dark magic, they were devoted to protecting those whom they deemed innocent, and fought against anyone who sought to harm them.
 
 Though it seemed at first that their goal was simply survival, it soon became clear that [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]'s ambitions were far greater than that. She wanted to be accepted as living creatures in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] - not just tolerated as monsters or ignored and forgotten. As such, she strove to create an independent nation where everyone could live together peacefully - regardless of race or religion.
