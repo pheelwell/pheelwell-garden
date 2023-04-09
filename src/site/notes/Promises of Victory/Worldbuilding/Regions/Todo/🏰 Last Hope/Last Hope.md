@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/last-hope/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-07T19:50:33.831+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/last-hope/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-09T19:15:17.653+02:00"}
 ---
 
 
@@ -22,6 +22,9 @@ Upon entering, visitors are greeted by a maze-like network of winding tunnels cr
 
 At its heart lies a grand chamber where rituals are conducted beneath a canopy adorned with intricate patterns woven from enchanted silk threads. Here, members gather around an altar built directly above the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Life\|Forge of Life]] itself, tapping into its arcane energies during ceremonies designed to enhance their innate abilities.
 
+- The Crystal Cavern: A hidden underground cave filled with beautiful and powerful crystals. [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]] and [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] use this location as a source of power for their rituals and ceremonies.
+
+  - The Chamber of Visions: A secret room within The Sanctuary where Iraia goes to receive her visions from Naruun. It is said that only those who have been blessed by the god may enter this sacred space.
 Inhabitants:
 
 The Cult's membership comprises individuals from all walks of life who have discovered their extraordinary gifts by chance or destiny. Despite their diverse backgrounds, the members of this enigmatic group are united by their desire to unlock the full potential of their powers and use them for their own ends.
