@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-04-07T13:26:47.228+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-04-09T00:27:18.730+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@ He searches for Answers on why he woke up as an Undead and why he was killed.
 
 # Connections
 Characters have intermingled Backstorys:
-[[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]] and [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] both have connections to the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]], with [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]]'s sister [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] working for the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] and [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] being a former priest in service of the league. Their shared history with the league may create a bond between them, as they work together to uncover the truth about [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]]'s involvement with the Shaddowhammer and [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]]'s quest to regain his humanity.
+[[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]] and [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] both have connections to the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]], with [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]]'s sister [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] working for the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] and [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] being a former priest in service of the league. Their shared history with the league may create a bond between them, as they work together to uncover the truth about [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]]'s involvement with [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] and [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]]'s quest to regain his humanity.
 
 [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]] and [[Promises of Victory/Adventuring/Player Characters/Semloh Kolrehs\|Semloh Kolrehs]] both have a connection to the supernatural world, with [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]] seeking a way to undo [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Moonfair\|The Moonfair]]'s pact with [[Promises of Victory/Worldbuilding/Factions/Moonfair/The Gremlins\|The Gremlins]] and Semloh trying to find answers about his transformation into an undead. Through their shared experiences, they might find common ground in their pursuit of understanding the mysterious forces that shape their lives.
 
@@ -74,7 +74,7 @@ Characters have intermingled Backstorys:
 - The party gets robbed by [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Daughters (burglars crew)\|The Daughters (burglars crew)]] and are abducted to [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] Headquarters. 
 - [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] invite them to a competition of robbing the Cathedral of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] 
 
-## Chapter 10: Falk Ambush
+## Chapter 10: [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] Ambush
 - The party travels further to [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills and takes a rest halfway in the forest
 - They get ambushed by the same abominations that mind controlled them back in [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]]
 
