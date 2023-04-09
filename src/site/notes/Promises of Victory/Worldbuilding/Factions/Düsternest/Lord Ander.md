@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-04-01T03:38:01.323+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/duesternest/lord-ander/","title":"Lord Ander","noteIcon":"NPC","created":"2023-01-25T02:26:53.989+01:00","updated":"2023-04-09T11:28:19.110+02:00"}
 ---
 
 
@@ -61,6 +61,12 @@ Lord Ander can serve as an ally or quest-giver for the player characters, either
 - **Düsternest Artisans Guilds**: Lord Ander works closely with these guilds, supporting their craftsmanship and often commissioning works from local artists.
 - **The Lost Hops**: While not openly endorsing their activities, Lord Ander recognizes their noble intentions and maintains a delicate alliance with this secretive organization.
 - **Düsternest Guard**: As the city's ruler, Lord Ander oversees the guard force responsible for maintaining order and defending Düsternest from threats both internal and external.
+- [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]: Lord Ander sympathetic to the cause of The Gifted, despite not knowing their true intentions.
+
+Lord Ander, the Lord of Düsternest, has been keeping a close eye on The Gifted. He has noticed their unusual abilities and has become intrigued by them. He is unaware of their connection to Naruun, but he believes they could be valuable allies in his quest for peace and prosperity in Düsternest.
+
+> [!seed] Adventure Hook
+> The party is tasked with investigating a secret meeting between Lord Ander and members of The Gifted. What they discover could change everything.
 
 ### Involvement with The Lost Hops
 
@@ -69,3 +75,4 @@ Lord Ander is aware that The Lost Hops operate within Düsternest. Although they
 While Lord Ander does not openly support or endorse the actions of The Lost Hops, he understands that their presence can be a valuable asset in maintaining balance and addressing issues that might otherwise go unchallenged. This makes for an uneasy alliance between Lord Ander and The Lost Hops, with each party understanding that their goals may sometimes align while also recognizing that they must maintain a certain distance from one another.
 
 This delicate relationship between Lord Ander and The Lost Hops adds an intriguing layer of complexity to Düsternest's political landscape, providing ample opportunities for intrigue, espionage, and morally ambiguous decisions for players to navigate as they become more involved in the city's affairs. Whether they choose to work with or against either party will ultimately shape their experience in Düsternest and determine where their loyalties truly lie.
+
