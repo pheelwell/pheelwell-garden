@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-gifted/","title":"The Gifted","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-09T18:44:40.494+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-gifted/","title":"The Gifted","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-09T20:30:11.912+02:00"}
 ---
 
 
@@ -43,6 +43,8 @@ Their ultimate goal is to complete a powerful magical ritual they call the [[Pro
 ## Activities
 
 To spread their influence throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]], members often travel from place to place, acting as preachers and healers. They offer aid and comfort to those suffering from grief or loss, using their empathetic nature and promises of resurrection to draw new followers into their ranks.
+
+Their Headquarters [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]] is located near [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]].
 
 While they present themselves as a non-violent faction focused on healing and restoration, they are not without secrets. In order to fuel their [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]] ritual and gain favor with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], members engage in sacrificial rites that involve innocent individuals or even undead creatures. These sacrifices are kept hidden from the public eye but provide the soul energy needed for their grand plan.
 
@@ -101,9 +103,3 @@ In their pursuit for answers, some members of the LPF have infiltrated The Gifte
 > [!quote] Quote
 > "The Gifted may hold the key to unlocking the true nature of Nosem energy, and perhaps even a way to stop Naruun. We must learn all we can from them, even if it means risking our lives." - A member of the LPF infiltrating The Gifted.
 
-# Places
-
-- [[Endless Caves Archive\|Endless Caves Archive]]: A hidden library maintained by the priesthood devoted to Ilsensine. It contains vast knowledge on ancient history, magic, and secrets that could be valuable to both The Gifted and the LPF in their respective quests.
-
-> [!seed] Adventure Hook
-> An important artifact or tome is rumored to be hidden within the Endless Caves Archive, potentially holding vital information related to Naruun or Nosem energy. The party must navigate the treacherous caves and overcome guardians to retrieve it.
