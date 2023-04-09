@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-07T13:30:36.657+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-09T00:27:08.633+02:00"}
 ---
 
 
@@ -109,15 +109,15 @@ By promoting ethical treatment of animals and raising awareness about their plig
 ## The Moonfair
 
 > [!quote] Quote
-> "Everyone deserves a chance at happiness, no matter how small or fleeting it may be. At The Moonfair, we create a place where dreams come true and joyis shared by all who visit. Come, and leave your troubles behind.&quot; - Skelter
+> "Everyone deserves a chance at happiness, no matter how small or fleeting it may be. At The Moonfair, we create a place where dreams come true and joyis shared by all who visit. Come, and leave your troubles behind.&quot; - [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]]
 
 The Moonfair is a unique carnival run by misfits, orphans, and outcasts who have banded together to provide joy and entertainment to those in need. Visitors to the fair do not have to pay money for their experience; instead, they are given a ticket upon entering that allows them to purchase items from various stands.
 
 The Moonfair's financial dealings are managed by a group of gremlins who keep track of gifts given to the market. The fair currently owes the gremlins an ever-increasing debt of 50388.3 gold, with a 5% increase every month.
 
-Skelter, a greedy goblin and former member of The Moonfair, travels the Basin as a con artist. He is determined to buy the fair for himself and exploit it for profit.
+[[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]], a greedy goblin and former member of The Moonfair, travels the Basin as a con artist. He is determined to buy the fair for himself and exploit it for profit.
 
->[!seed] Adventure Hook: While visiting The Moonfair, the party learns about its growing debt problem and must find a way to help save it from falling into Skelter's greedy hands. They might search for treasure or take on high-paying jobs to raise funds or negotiate new terms with the gremlins.
+>[!seed] Adventure Hook: While visiting The Moonfair, the party learns about its growing debt problem and must find a way to help save it from falling into [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]]'s greedy hands. They might search for treasure or take on high-paying jobs to raise funds or negotiate new terms with the gremlins.
 
 ## The Triad
 
