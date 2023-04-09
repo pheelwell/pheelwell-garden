@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/the-lost-hops/","title":"The Lost Hops","noteIcon":"Faction","created":"2023-01-25T02:26:54.116+01:00","updated":"2023-04-01T13:00:22.311+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lost-hops/the-lost-hops/","title":"The Lost Hops","noteIcon":"Faction","created":"2023-01-25T02:26:54.116+01:00","updated":"2023-04-09T10:54:08.055+02:00"}
 ---
 
 The city of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]  has a hidden underground smuggling operation called [[The Lost Hopps\|The Lost Hopps]].
@@ -37,3 +37,13 @@ The Lost strongly despise the [[Promises of Victory/Worldbuilding/Factions/The T
 
 [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Sons (burglars crew)\|The Sons (burglars crew)]]
 [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Daughters (burglars crew)\|The Daughters (burglars crew)]]
+
+
+- The Lost Hops are known for their resourcefulness and adaptability, able to swiftly change plans and tactics when faced with unexpected challenges.
+- They have a strict code of honor that forbids them from stealing from the poor or causing harm to innocent bystanders during their heists.
+>[!secret]- 
+>Some members of The Lost Hops are secretly working against their leader Helena, seeking personal gain or power rather than adhering to the group's original goals of helping the downtrodden.
+
+
+> [!seed] Adventure Hook
+> The players hear rumors of a powerful magical artifact that has been stolen by The Lost Hops. They must decide whether to help recover it for its original owner or assist the thieves in redistributing it to those in need.
