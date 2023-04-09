@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-07T13:25:39.959+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-09T00:27:34.583+02:00"}
 ---
 
 
-# Cult of the Gifted
+# Cult of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the Gifted]]
 - [ ] Discover the true nature of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
 - [ ] Uncover the true motives of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 - [ ] Investigate and discover what [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] are sacrificing
