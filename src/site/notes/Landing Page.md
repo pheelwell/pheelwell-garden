@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-07T23:17:35.191+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-09T10:58:32.524+02:00"}
 ---
 
 # Hi🌱
@@ -24,9 +24,10 @@ Things you could start with:
 - To get started as a GM: [[Promises of Victory/General/Starting the Adventure\|Starting the Adventure]]
 - To get a sense of the conent of the campain: [[Promises of Victory/General/Note Overview\|Note Overview]]
 - To see what my party has been doing: [[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
-- Stare at the [[Dynamic Picture Gallery\|Dynamic Picture Gallery]]
+- Stare at the [[resources/Picture Gallery\|Picture Gallery]]
 If you are just window shopping here are some fun articles I like:
 - [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]]
+- [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
 
 
 
