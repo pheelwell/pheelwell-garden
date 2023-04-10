@@ -218,8 +218,30 @@ body.backlinks-note-icon .backlink:hover::after {
   content: "🏰";
 }
 
+[data-note-icon="Technical"]::after {
+  content: "🔧";
+}
+[data-note-icon="Psycho"]::after {
+  content: "🧠";
+}
+
 
 //undo for header
 body.title-note-icon .cm-s-obsidian > header > h1::after{
   content: "";
+}
+
+//revert image hover effect from template
+.img-grid img[alt*="."]:hover,
+.image-embed[src*="#grid"]:hover,
+.image-embed[src*="#grid"]:hover,
+img[alt*=grid]:hover {
+  transform: scale(1);
+}
+
+//center images in the editor
+img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
