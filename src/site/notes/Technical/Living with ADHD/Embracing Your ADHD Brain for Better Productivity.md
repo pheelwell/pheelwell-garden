@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/embracing-your-adhd-brain-for-better-productivity/","noteIcon":"Technical","created":"2023-04-10T00:16:34.034+02:00","updated":"2023-04-10T21:11:30.412+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/embracing-your-adhd-brain-for-better-productivity/","noteIcon":"Psycho","created":"2023-04-10T00:16:34.034+02:00","updated":"2023-04-10T23:54:15.741+02:00"}
 ---
 
-
-#ADHD #Concept
 >[!info] This is AI generated content
 > This is a AI written summary of this video https://www.youtube.com/watch?v=JsT3KPYJFl4
 > ADHD Jesse Is a channel that focuses on helping individuals with Attention Deficit Hyperactivity Disorder (ADHD) to better understand, manage, and embrace their unique brain wiring for increased productivity and success. 
