@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-11T00:00:04.253+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-11T00:11:41.620+02:00"}
 ---
 
 This project explores the use of embeddings to analyze and organize a collection of notes. The process involves generating embeddings for the notes, finding the closest embeddings to a given input text, and visualizing the generated embeddings.
@@ -16,7 +16,8 @@ An example workflow can be found in the provided Python scripts section.
 During this research, several observations were made:
 
 - Storing vectors in JSON files is efficient, as it takes only about 2 seconds to find nearest vectors and write content.
-- Separating notes by headings may result in less informative vectors for short headings. Adding metadata or using a two-stage approach (finding best-fitting documents first) could help improve results.
+- Separating notes by headings may result in less informative vectors for short headings. Adding metadata or using a two-stage approach (finding best-fitting documents first) could help improve results. 
+- The stored Vector Json is 25MB
 - Excluding indexed notes might be necessary, as templates can interfere with queries.
 
 Visualizations of clustered embeddings revealed some interesting patterns:
@@ -44,9 +45,10 @@ In conclusion, this research demonstrates the potential of using embeddings to a
 
 
 ## Example Usage:
-As an example of practical usage, this approach was used to generate a list of interesting secrets for a fictional campaign by appending relevant prompts to an output file and running it through GPT-4.
-This resulted in this Example Output: [[Technical/AI Assisted Writing/Important Secrets of the Campain\|Important Secrets of the Campain]]
-The output was appended by "Give a list of the most important Secerts of the Campain". This was the Result given by GPT-4: [[Technical/AI Assisted Writing/Secret Query Output File\|Secret Query Output File]]
+As an example of practical usage, this approach was used to generate a list of interesting secrets for a fictional campaign by appending relevant prompts to an output file and running it through GPT-4. This resulted in this query output containing all important Articles:
+[[Technical/AI Assisted Writing/Secret Query Output File\|Secret Query Output File]]
+The output was appended by "Give a list of the most important Secerts of the Campain". This was the Result given by GPT-4:
+[[Technical/AI Assisted Writing/Important Secrets of the Campain\|Important Secrets of the Campain]]
 
 
 ## Python Scripts:
