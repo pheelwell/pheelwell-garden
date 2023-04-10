@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-11T00:11:41.620+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-11T00:17:21.616+02:00"}
 ---
 
 This project explores the use of embeddings to analyze and organize a collection of notes. The process involves generating embeddings for the notes, finding the closest embeddings to a given input text, and visualizing the generated embeddings.
@@ -28,11 +28,11 @@ Visualizations of clustered embeddings revealed some interesting patterns:
 
 The following images showcase some visualizations from this research:
 
-1. Clustered embeddings with filenames included:
+1. Clustering for embeddings for each seperate heading with filenames attached:
 ![Pasted image 20230410220445.png](/img/user/Pasted%20image%2020230410220445.png)
-2. Clustered embeddings without filenames:
-![Pasted image 20230410220522.png](/img/user/Pasted%20image%2020230410220522.png)
-3. Weird Vector from empty File:
+2. Clustered paragraph embeddings without filenames:
+![Pasted image 20230411001417.png](/img/user/Pasted%20image%2020230411001417.png)
+3. Weird Vector from empty File, Embeddings done on whole files:
 ![Pasted image 20230410222154.png](/img/user/Pasted%20image%2020230410222154.png)
 4. Improved clustering after removing empty files and enforcing a 100-character minimum:
 ![Pasted image 20230410222510.png](/img/user/Pasted%20image%2020230410222510.png)
@@ -40,9 +40,9 @@ The following images showcase some visualizations from this research:
 ![Pasted image 20230410222553.png](/img/user/Pasted%20image%2020230410222553.png)
 6. Zoomed-in view showing a cluster of documentation:
 ![Pasted image 20230410222621.png](/img/user/Pasted%20image%2020230410222621.png)
-
+7. Only Fantasy Prompts:
+ ![Pasted image 20230411001703.png](/img/user/Pasted%20image%2020230411001703.png)
 In conclusion, this research demonstrates the potential of using embeddings to analyze and organize notes, revealing patterns and relationships that can be further explored or leveraged for practical applications.
-
 
 ## Example Usage:
 As an example of practical usage, this approach was used to generate a list of interesting secrets for a fictional campaign by appending relevant prompts to an output file and running it through GPT-4. This resulted in this query output containing all important Articles:
