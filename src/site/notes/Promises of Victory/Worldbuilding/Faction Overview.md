@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-09T23:46:58.077+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-10T21:49:19.897+02:00"}
 ---
 
 
@@ -136,7 +136,7 @@ Jamoke's goal is to save his sister and put an end to the cult's machinations. H
 > [!quote] Quote
 > "Their beer brings joy even in the darkest times, a testament to their skill and dedication. It is a rare pleasure indeed." - Lord Ander
 
-The Lost Hops is a secret underground smuggling operation that poses as a group of traveling brewers. Their goal is to steal from the rich and provide contraband items for the poor. Led by Helena, an expert in subterfuge and stealth, they are based in Düsternest.
+The Lost Hops is a secret underground smuggling operation that poses as a group of traveling brewers. Their goal is to steal from the rich and provide contraband items for the poor. Led by Helena, an expert in subterfuge and stealth, they are based in [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]].
 
 The organization is divided into two groups led by Mom and Dad, totaling 40 members. Members undergo a ritual called the Name, which erases their memories of their past identities, allowing them to fully embrace their new lives within The Lost Hops.
 
