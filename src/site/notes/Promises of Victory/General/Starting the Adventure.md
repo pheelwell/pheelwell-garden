@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/starting-the-adventure/","title":"Starting the Adventure","noteIcon":"Meta","created":"2023-01-25T02:26:52.791+01:00","updated":"2023-03-30T13:04:48.335+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/starting-the-adventure/","title":"Starting the Adventure","noteIcon":"Meta","created":"2023-01-25T02:26:52.791+01:00","updated":"2023-04-10T21:46:00.605+02:00"}
 ---
 
 >[!WARNING] THIS IS STILL WIP
@@ -17,7 +17,7 @@ There are Multiple Points of Control on 5 "Warfronts" in [[Promises of Victory/W
 #### Western Warfront
 
 - Melmorwitch
-- [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]
+- [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
 - Falk
 - Arathi Forrests (not including Sturmklau)
 - Lichtachte
@@ -39,8 +39,8 @@ There are Multiple Points of Control on 5 "Warfronts" in [[Promises of Victory/W
 #### South Warfront
 
 - Melmorwitch
-- [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]
-- Gandmühl
+- [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
+- [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]]
 - Defiler's Den
 
 Read:
