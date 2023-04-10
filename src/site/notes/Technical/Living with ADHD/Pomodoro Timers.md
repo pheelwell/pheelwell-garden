@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/pomodoro-timers/","noteIcon":"Technical","created":"2023-04-10T12:46:46.216+02:00","updated":"2023-04-10T15:01:36.093+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/pomodoro-timers/","noteIcon":"Psycho","created":"2023-04-10T12:46:46.216+02:00","updated":"2023-04-10T23:53:59.689+02:00"}
 ---
 
-#[[Technical/Living with ADHD/Living with ADHD\|Living with ADHD]] 
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique involves breaking work into short, focused intervals (usually 25 minutes) called "Pomodoros," followed by a brief break (typically 5 minutes). This cycle is repeated until the task is completed.
 
 For individuals with ADHD, using Pomodoro timers can be incredibly helpful for maintaining focus and preventing burnout. However, it's essential to adjust the intervals to fit your personal needs and preferences. For example, you might find that working for 15 minutes followed by a 10-minute break works best for you, or even extending the work interval when you're feeling particularly focused.
