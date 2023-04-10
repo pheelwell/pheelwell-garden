@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/falk/","title":"Falk","noteIcon":"Settlement","created":"2023-01-25T02:26:53.376+01:00","updated":"2023-03-31T00:06:35.554+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/falk/falk/","title":"Falk","noteIcon":"Settlement","created":"2023-01-25T02:26:53.376+01:00","updated":"2023-04-10T21:39:40.335+02:00"}
 ---
 
 
-Falk is a small, remote town nestled in the south of Basin's Forest, west of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]. It was initially established as a logging community but has since grown to include a diverse population of hunters, craftsmen, and even some undead members known as the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]. The town's economy primarily depends on logging and hunting, with occasional trade from passing merchants. Falk is also known for its weekly competitions that attract travelers from far and wide.
+Falk is a small, remote town nestled in the south of Basin's Forest, west of [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]. It was initially established as a logging community but has since grown to include a diverse population of hunters, craftsmen, and even some undead members known as the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]. The town's economy primarily depends on logging and hunting, with occasional trade from passing merchants. Falk is also known for its weekly competitions that attract travelers from far and wide.
 
 ![Pasted image 20230331000035.png](/img/user/resources/Pictures/Pasted%20image%2020230331000035.png)
 ## Notable Locations:
