@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"2023-03-27T00:08:32.913+02:00","updated":"2023-04-02T22:26:47.479+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/semloh-kolrehs/","noteIcon":"NPC","created":"2023-03-27T00:08:32.913+02:00","updated":"2023-04-10T21:45:50.399+02:00"}
 ---
 
 ![Pasted image 20230330014338.png](/img/user/resources/Pictures/Pasted%20image%2020230330014338.png)
@@ -29,7 +29,7 @@ During his journey, Semloh may cross paths with other adventurers who share simi
 
 ## Encounters and Adventure Hooks
 
-- In the city of [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]], Semloh confronts a burning building where he believes his mother is trapped. The flames are caused by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]], an enemy he encountered earlier in his journey. Players can choose to aid Semloh in his quest to save his mother or face the consequences of their inaction.
+- In the city of [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]], Semloh confronts a burning building where he believes his mother is trapped. The flames are caused by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]], an enemy he encountered earlier in his journey. Players can choose to aid Semloh in his quest to save his mother or face the consequences of their inaction.
 
 - While investigating a haunted location, Semloh and the party encounter a group of [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Researchers\|LPF]] operatives conducting experiments on the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]]. The adventurers can choose to confront the researchers or join forces with them for their own benefit.
 
