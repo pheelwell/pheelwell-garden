@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-04-09T00:27:18.730+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-04-10T21:48:39.747+02:00"}
 ---
 
 
@@ -39,8 +39,8 @@ Characters have intermingled Backstorys:
 - The party wants to hunt a dragon with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]]
 - Alongside [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]], professional dragon hunter [[Promises of Victory/Worldbuilding/Factions/DEHTA/Agraxis\|Agraxis]] joins them
 
-## Chapter 2: A Stop at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]]
-- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] where they learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
+## Chapter 2: A Stop at [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
+- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] where they learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 
 ## Chapter 3: The [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
 - The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]], and he tells the party to keep it safe, since it is a powerful artifact
@@ -64,13 +64,13 @@ Characters have intermingled Backstorys:
 - [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]] gets ambushed by [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Darkspear Trolls\|Darkspear Trolls]], who suspect him of murdering his father
 - [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]] convinces Shadow Hunters that he isn't the culprit, and they give a hint that [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] are trying to find [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] in the south of Basin
 
-## Chapter 8: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]]'s Return and Tragedy in [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]]
-- On their way to [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]], they get ambushed by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]] who is turned into a hunter now hunting for human flesh by the Shadowhammer riding corrupted dragon
-- In [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]], [[Promises of Victory/Adventuring/Player Characters/Semloh Kolrehs\|Semloh Kolrehs]] fails to rescue his mother from flames caused by their encounter with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]]
+## Chapter 8: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]]'s Return and Tragedy in [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]]
+- On their way to [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]], they get ambushed by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]] who is turned into a hunter now hunting for human flesh by the Shadowhammer riding corrupted dragon
+- In [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]], [[Promises of Victory/Adventuring/Player Characters/Semloh Kolrehs\|Semloh Kolrehs]] fails to rescue his mother from flames caused by their encounter with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]]
 - Semloh carries his mother into the forest where he sees a person in bright light telling him everything will be alright
 
 ## Chapter 9: [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] and [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] Cathedral Heist
-- In [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]], they meet [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Izen\|Izen]] who tries to get in contact with [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]]
+- In [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]], they meet [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Izen\|Izen]] who tries to get in contact with [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]]
 - The party gets robbed by [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Daughters (burglars crew)\|The Daughters (burglars crew)]] and are abducted to [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] Headquarters. 
 - [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] invite them to a competition of robbing the Cathedral of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] 
 
