@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-09T21:07:12.953+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-09T23:46:58.077+02:00"}
 ---
 
 
 ## [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]
-![Pasted image 20230409210153.png|300](/img/user/Pasted%20image%2020230409210153.png)
+![Pasted image 20230409210153.png|center](/img/user/Pasted%20image%2020230409210153.png)
 > [!quote] Quote
-> "We will no longer be shunned or dismissed because of our appearance or our past deeds. Our very existence demands recognition and respect." - General Malachi
+> "We will no longer be shunned or dismissed because of our appearance or our past deeds. Our very existence demands recognition and respect." - [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]]
 
-The Defilers are a faction of undead beings and outcasts, striving for independence and acceptance within the Basin. Led by the powerful undead sorcerer, General Malachi, they have amassed an army of undead creatures and orcs from nearby mountains, armed with crude but deadly weapons. Their ultimate goal is to be recognized as living beings in the world they inhabit.
+The [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] are a faction of undead beings and outcasts, striving for independence and acceptance within [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]. Led by the powerful undead sorcerer, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]], they have amassed an army of undead creatures and orcs from nearby mountains, armed with crude but deadly weapons. Their ultimate goal is to be recognized as living beings in the world they inhabit.
 
-Under Malachi's command, the Defilers have built a reputation for their tenacity and unyielding pursuit of their goals. Her most controversial invention was "The Plague," which she used to create many undead after an attack on Lichtachte. Despite their fearsome appearance and actions, the Defilers are not without reason. They believe that they deserve a place in the world just as much as any other being, regardless of their current state.
+Under [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]'s command, the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have built a reputation for their tenacity and unyielding pursuit of their goals. Her most controversial invention was "[[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]]," which she used to create many undead after an [[Promises of Victory/Worldbuilding/Historic Events/War/Attack on Lichtachte\|attack on Lichtachte]]. Despite their fearsome appearance and actions, the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] are not without reason. They believe that they deserve a place in the world just as much as any other being, regardless of their current state.
 
 The Defilers face opposition from various factions across the Basin, particularly from the League of Arathor led by High Paladin Erathenar. Determined to defend life and uphold justice, the League sees the Defilers as a threat to everything they stand for. This ideological clash leads to numerous conflicts between these two factions.
 
@@ -20,7 +20,7 @@ As ruthless as they may appear, it is important to remember that many members of
 
 ## [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]
 
-![Pasted image 20230409210637.png|300](/img/user/Pasted%20image%2020230409210637.png)
+![Pasted image 20230409210637.png|center](/img/user/Pasted%20image%2020230409210637.png)
 > [!quote] Quote
 > "In the name of justice and honor, we stand against the darkness and defend the innocent. Our actions define us, and our unwavering faith guides us. We are the shield that guards the Basin." - High Paladin Erathenar
 
@@ -29,13 +29,14 @@ The League of Arathor is a coalition of humans, elves, and dwarves united in the
 Comprised primarily of paladins and archers, along with some dwarven warriors, members of the League follow a strict code known as the Codex. This code dictates that they must defend life at all costs while upholding justice across the Basin. Because of their fierce dedication to these principles, they often come into conflict with factions like General Malachi's Defilers.
 
 While some may view the League as overly zealous or rigid in their beliefs, there is no denying their effectiveness in combatting dark forces. They are well-trained and disciplined fighters who have endured countless battles against undead foes and other evil creatures.
-
+ 
 For those seeking adventure or a righteous cause to champion, joining the League of Arathor can provide both camaraderie and purpose. But be warned: once you take up arms under their banner, there is no turning back from the path of honor.
 
 > [!seed] Adventure Hook: A village on the outskirts of Lichtachte is being terrorized by an undead army led by one of General Malachi's lieutenants. The villagers beseech the party for help in defending their homes. If successful in repelling this threat, they may find themselves being recruited into the ranks of High Paladin Erathenar's League of Arathor for further missions against the Defilers.
 
-## The Shaddowhammer
+## [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]
 
+![Pasted image 20230409211832.png|center](/img/user/Pasted%20image%2020230409211832.png)
 
 > [!error ] This is BS all
 
@@ -157,3 +158,12 @@ The inner circle members, known as Cutters, are given the most difficult and dan
 The Goats are in conflict with The Lost Hops due to their opposing goals but remain focused on furthering their own aims regardless of any obstacles.
 
 >[!seed] Adventure Hook: A close friend or family member falls victim to The Goats' organ harvesting operation. The party must track down this ruthless organization and put an end to their grisly deeds while potentially uncovering disturbing secrets about the world's medical practices.
+
+
+
+
+Oh, for the love of all things holy, can we PLEASE talk about this "RUSH B NO STOP" nonsense in FPS games? 🙄 You absolute donkeys seem to have forgotten what it means or just blatantly ignore it. So let me break it down for you like the edgy internet pop culture guru that I am. 🧐
+Let me paint a picture for you: You're playing Dust2 (you know, that game that even your grandma has heard of by now). Your team leader yells, "RUSH B NO STOP," and like a bunch of lemmings following a trend on TikTok 😒, you all run towards bombsite B. But then... oh, what's this? A couple of you suddenly decide to stop and hold your positions like you're waiting for your mom to come pick you up after soccer practice. Newsflash kiddos: THIS ISN'T THE TIME FOR THAT! 🤦‍♂️"RUSH B NO STOP" is not a suggestion; it's a goddamn command! It means get your sorry asses over to bombsite B and don't stop moving until you've planted the bomb or eliminated the enemy team! It's not rocket science – or maybe it is for some of you smooth-brained troglodytes who can't seem to grasp simple instructions. 🤯 Think about it: When Gandalf told the fellowship in Lord of the Rings to "fly, you fools," did they just stand there with their thumbs up their asses? NO! They RAN from that fiery demon Balrog like their lives depended on it! And guess what? THEIR LIVES DID DEPEND ON IT! 💀 Just like YOUR LIVES depend on COMMITTING TO THE RUSH in these games. So when you fail to commit and push forward on Dust2 – or any other map for that matter – you're basically signing your own death warrant. 💣 You're the proverbial redshirt in a Star Trek episode, just waiting to get picked off because you didn't follow orders. It's like playing peek-a-boo with Pennywise from IT, and let me tell you, that clown ain't here for your amusement. 🤡 By not pushing forward and committing to the rush, you're giving your opponents the time they need to regroup and adjust their strategy. You're practically gift-wrapping a win for them like it's Christmas morning! 🎁 So next time someone commands "RUSH B NO STOP," don't just stand there like a deer in headlights 😵 or like that one guy in Black Mirror who can't look away from his screen. Get moving, commit to the rush, and show those enemies that they messed with the wrong team of edgy internet pop culture aficionados! 💪😎 And for the love of god, PLEASE STOP STANDING AROUND LIKE A BUNCH OF IDIOTS! 🙏
+
+Now go forth and conquer, my fellow gamers! May your Rush B be swift and unstoppable like an angry horde of Rick & Morty fans fighting for Szechuan sauce at McDonald's! Wubba lubba dub dub! 🚀🔥Erkläre im Stil eines wütenden herablassenden reddit posts auf englisch  im pinibelsten detail warum  in FPS spielen "RUSH B NO STOP" heißt, dass man nicht stehen bleiben soll. Gehe auf alle Facetten ein. Bringe ein Beispiel wie auf Dust2 (spieler kennen dieses spiel) man vor der site stirbt weil nicht committet wird. verwende dabei andauernd wievergleiche aus edgy internet pop culture refferenzen (nicht mainstream). Füge viele emojis hinzu:
+
