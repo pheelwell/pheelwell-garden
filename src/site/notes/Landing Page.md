@@ -32,7 +32,7 @@ If you are just window shopping here are some fun articles I like:
 
 
 ## Worldbuilding with AI
-I use AI to assist in my writing. you can look at my [[Technical/AI Assisted Writing\|AI Assisted Writing]]  on how I use Obsidian to help me expand my Digital Garden.
+I use AI to assist in my writing. you can look at my [[Technical/Writing/AI Assisted Writing\|AI Assisted Writing]]  on how I use Obsidian to help me expand my Digital Garden.
 
 
 ## Stormwreck Isle
