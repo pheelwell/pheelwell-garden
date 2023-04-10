@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/micro-commitments/","noteIcon":"Technical","created":"2023-04-10T12:56:27.272+02:00","updated":"2023-04-10T13:32:17.547+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/micro-commitments/","noteIcon":"Psycho","created":"2023-04-10T12:56:27.272+02:00","updated":"2023-04-10T23:54:05.439+02:00"}
 ---
 
-#ADHD 
 Micro commitments are small, manageable tasks that you can commit to completing in order to build momentum and eventually tackle larger tasks. For individuals with ADHD, getting started on a task can be incredibly challenging due to feelings of overwhelm or lack of motivation. By breaking down larger tasks into smaller micro commitments, you can make it easier to take that first step and begin making progress on your goals.
 
 - [ ] **Choose a big task or goal**: Pick something you've had trouble starting or moving forward with.
