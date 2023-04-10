@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-10T23:48:23.722+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-11T00:00:04.253+02:00"}
 ---
 
 This project explores the use of embeddings to analyze and organize a collection of notes. The process involves generating embeddings for the notes, finding the closest embeddings to a given input text, and visualizing the generated embeddings.
@@ -52,6 +52,8 @@ The output was appended by "Give a list of the most important Secerts of the Cam
 ## Python Scripts:
 
 This project provides a set of Python scripts that help in generating, finding closest, and visualizing embeddings for a collection of notes. These scripts are particularly useful for processing and analyzing large sets of text data, such as notes or articles.
+
+The Scripts can be found here: https://github.com/pheelwell/pheelwell-garden/tree/master/research_scripts
 
 ### 1. `generate_embeddings.py`
 
