@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/silent-river/","title":"Silent River","noteIcon":"Region","created":"2023-01-25T02:26:53.458+01:00","updated":"2023-03-29T21:40:02.844+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/silent-river/","title":"Silent River","noteIcon":"Region","created":"2023-01-25T02:26:53.458+01:00","updated":"2023-04-10T21:39:40.147+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@ This Giant River Flows through the entire Basin and is the main source of water.
 
 # Flow
 This river flows through [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] from north-west to south-east. It passes [[Promises of Victory/Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]] in the north-west flowing south-east it then divides near to [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] flowing on both sides of the elevated highlands of [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]].
-At the hight of [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] in the south-east it comes back together flowing east for a bit. After that it flows down south where it leaves [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and north up to [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]]. 
+At the hight of [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] in the south-east it comes back together flowing east for a bit. After that it flows down south where it leaves [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] and north up to [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]]. 
 
 # Importance
 The river is of immense importance for the people in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. It is a source of life and prosperity, providing them with water for crops, livestock, and drinking. It also serves as a natural border and protects them from unwanted intruders. The river is also the main source of transportation in this part of the world. Boats are used to transport people and goods along its length, while bridges allow easier access to different parts of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]].
