@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/zercil-berwood/","title":"Zercil Berwood","noteIcon":"SideNPC","created":"2023-01-25T02:26:53.847+01:00","updated":"2023-04-10T21:47:32.643+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/zercil-berwood/","title":"Zercil Berwood","noteIcon":"SideNPC","created":"2023-01-25T02:26:53.847+01:00","updated":"2023-04-10T23:50:44.593+02:00"}
 ---
 
-type: SideNPC
 
 **Elf - Tourist Guide**
 
