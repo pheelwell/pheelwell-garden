@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-09T00:27:34.583+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/tasks-for-the-group/","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:14:11.964+01:00","updated":"2023-04-10T21:46:46.405+02:00"}
 ---
 
 
@@ -40,16 +40,16 @@
 
 ## [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]]
 - [ ] Uncover the true identity of [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]]
-- [ ] Find out about [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]], including what happened to Tarwin's wife and daughter
+- [ ] Find out about [[Gandmuel\|Gandmuel]], including what happened to Tarwin's wife and daughter
 - [ ] Discover why [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]] was falsely accused of murder
-- [ ] Follow Tarwin's journey from [[Promises of Victory/Worldbuilding/Regions/🏰Gandmühl/Gandmühl\|Gandmühl]] to [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] and uncover what he learned along the way
+- [ ] Follow Tarwin's journey from [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]] to [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] and uncover what he learned along the way
 - [ ] Locate the documents created by Tarwin in [[Promises of Victory/Adventuring/Player Characters/Ransden\|Ransden]] that serve as a reminder of his tragedy and courage 
 
 ## Lost Hops
  - [ ] Find out about the goals of  [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]]
 - [ ] Uncover their leaders, [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Helena\|Helena]], [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Mom\|Mom]], and [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Dad\|Dad]] 
 - [ ] Discover the mysterious [[Promises of Victory/Worldbuilding/Factions/Lost Hops/Ritual of Name\|Ritual of Name]] 
-- [ ] Understand the connection of [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] to [[Promises of Victory/Worldbuilding/Regions/🏰Düsternest/Düsternest\|Düsternest]] 
+- [ ] Understand the connection of [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] to [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] 
 - [ ] Investigate their brewing and smuggling operations 
 - [ ] Learn more about the groups [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Sons (burglars crew)\|The Sons (burglars crew)]] and [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Daughters (burglars crew)\|The Daughters (burglars crew)]]
 - [ ] Discover why they are enemies of [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
