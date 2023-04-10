@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-04-07T13:25:39.940+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-04-10T00:00:30.581+02:00"}
 ---
 
 # Introduction
@@ -67,6 +67,8 @@ Those are the Plot Threads the Players can optionally solve:
 
 ## Origin of Naruun
 [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] is the key of resolving the secret of Naruuns real identify, by investigating the Hag and the  [[Promises of Victory/Worldbuilding/Regions/Todo/Fulfiller's Market\|Fulfiller's Market]] the players can uncover the true nature of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] as the old god of false promises. By learning his true identity, they can devise a plan to expose him and his manipulations to the people of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], weakening his power and influence over them.
+
+![Pasted image 20230410000029.png](/img/user/Pasted%20image%2020230410000029.png)
 
 Through their investigation (Visiting the  [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and the [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]]), the party can discover that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] has been feeding on the despair and unfulfilled desires of the people in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], using their suffering to increase his power. The continuous war, fueled by the properties of [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], has provided Naruun with an endless supply of misery.
 
