@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/change-your-environment/","noteIcon":"Technical","created":"2023-04-10T12:57:37.302+02:00","updated":"2023-04-10T14:59:01.040+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/change-your-environment/","noteIcon":"Psycho","created":"2023-04-10T12:57:37.302+02:00","updated":"2023-04-10T23:54:21.566+02:00"}
 ---
 
-
-#ADHD 
 One of the most effective ways to improve productivity for individuals with ADHD is to change your environment. This can help keep your brain engaged and interested, making it easier to focus on tasks at hand. Some ideas for changing your environment include:
 
 - [ ] *New location, new focus*: Don't just work at home – switch it up with a coffee shop or library. New places can help your brain feel more motivated!

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/make-tasks-into-a-game/","noteIcon":"Technical","created":"2023-04-10T12:59:03.847+02:00","updated":"2023-04-10T13:32:17.285+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/make-tasks-into-a-game/","noteIcon":"Psycho","created":"2023-04-10T12:59:03.847+02:00","updated":"2023-04-10T23:54:06.440+02:00"}
 ---
 
-#ADHD 
 Turning tasks into a game can add an element of fun and motivation to otherwise mundane or overwhelming activities. This strategy is especially helpful for those with ADHD, as it provides novelty and interest, which are key factors in maintaining focus and motivation. Here are some ways you can make tasks into a game:
 
 1. **Reverse Order**: Try completing tasks or answering questions in reverse order. This adds a layer of challenge and keeps your brain engaged with the task at hand.

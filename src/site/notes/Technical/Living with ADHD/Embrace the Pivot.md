@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/embrace-the-pivot/","noteIcon":"Technical","created":"2023-04-10T12:45:12.396+02:00","updated":"2023-04-10T14:58:58.173+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/embrace-the-pivot/","noteIcon":"Psycho","created":"2023-04-10T12:45:12.396+02:00","updated":"2023-04-10T23:54:18.262+02:00"}
 ---
 
-#ADHD 
 Understanding that your productivity system will eventually fail is crucial for individuals with ADHD. Instead of feeling discouraged, embrace the pivot and be prepared to adapt to a new system when needed. This way, you can avoid self-blame and frustration.
 
 To embrace the pivot:

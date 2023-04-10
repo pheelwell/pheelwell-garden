@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/use-time-based-goals/","noteIcon":"Technical","created":"2023-04-10T13:00:36.607+02:00","updated":"2023-04-10T13:32:20.508+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/use-time-based-goals/","noteIcon":"Psycho","created":"2023-04-10T13:00:36.607+02:00","updated":"2023-04-10T23:54:02.544+02:00"}
 ---
 
-#ADHD 
 Setting time-based goals is an effective strategy for individuals with ADHD to improve productivity. Instead of focusing on specific outcomes or the completion of a task, the focus is shifted to how long you will work on it. This approach offers several benefits:
 
 1. **Reduces overwhelm**: Focusing on a specific amount of time spent working on a task can make it feel more manageable and less daunting.
