@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/look-for-side-quests/","noteIcon":"Technical","created":"2023-04-10T12:48:14.418+02:00","updated":"2023-04-10T13:32:16.743+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/look-for-side-quests/","noteIcon":"Psycho","created":"2023-04-10T12:48:14.418+02:00","updated":"2023-04-10T23:54:08.810+02:00"}
 ---
 
-#ADHD 
 Looking for some side quests to help you stay motivated and make progress on your main project? Here's a cool way to get started:
 
 - [ ] Break down your main project into smaller, manageable tasks. This makes it easier to find awesome side quests!
