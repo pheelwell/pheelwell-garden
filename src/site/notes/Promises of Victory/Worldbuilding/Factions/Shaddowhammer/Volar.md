@@ -7,7 +7,7 @@ As the leader of the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/
 
 Volar is oblivious to the truth and is being deceived by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. He is blinded by his grief and doesn't see the consequences of his actions. The members are just blindly following him, not knowing what they're doing is wrong.
 
-![Pasted image 20230407234347.png](/img/user/Pasted%20image%2020230407234347.png)
+![Pasted image 20230407234347.png](/img/user/resources/Pictures/Pasted%20image%2020230407234347.png)
 # Volars Past
 Volar was once a great paladin called [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]], in service of the ongoing War and holder of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Shaddowbane\|Shaddowbane]] a set of artifact Armor. He had a Wife in the Enemies territory but this didn't hold him back to come visit them in his downtime. Sadly, his daughter was murdered.
 He was devastated by this and his wife soon died of a broken heart. Volar blamed himself for not being there and swore to never let anything like this happen again.
