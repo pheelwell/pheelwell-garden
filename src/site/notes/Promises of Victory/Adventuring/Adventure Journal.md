@@ -42,7 +42,7 @@ Characters have intermingled Backstorys:
 ## Chapter 2: A Stop at [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
 - The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] where they learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 
-## Chapter 3: The [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
+## Chapter 3: The [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
 - The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]], and he tells the party to keep it safe, since it is a powerful artifact
 
 ## Chapter 4: Conflict at [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills
