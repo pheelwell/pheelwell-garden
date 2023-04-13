@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/the-turnback-ritual-arc/the-turnback-ritual-arc/","title":"Final Sacrifice","noteIcon":"Arc","created":"2023-01-25T02:26:52.978+01:00","updated":"2023-04-13T23:54:23.723+02:00"}
+---
+
+
+## The Turnback Ritual
+For the last 20 Years [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] are building an Arcane Machine out of [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] that they think will lead to the resurrection of all fallen People in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. The [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]] has been hiding the many shipments of [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] towards the Ritual Site. 
+When all Artifacts are brought to their respective Forges and the Seals are broken.  The [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]] ritual will begin, leading to the release of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], the old god of false promises. [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] Ones, believing they will revive every lost soul in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], will unknowingly bring about [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s return and potential domination over the world.
+As the ritual commences, a colossal [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] contraption built by the Cult beneath the city of [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]] will start to channel the gathered soul' energy into each of the three forges. 
+It takes one week for the Prison of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] to break.   
+The party must race against time to not only prevent [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s escape but also find a way to destroy or contain him for good.
