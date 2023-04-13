@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/final-sacrifice/","title":"Final Sacrifice","noteIcon":"Arc","created":"2023-01-25T02:26:52.978+01:00","updated":"2023-04-07T13:29:48.358+02:00"}
----
-
-In this part of the Story the [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] will try to finish their Ritual below [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]] because they think it will revive everyone Lost in the War.
-For this [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] build a giant [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] contraption under city of [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]. [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]] coordinates the transport of the [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] under the pretext of making weapons for the war.  
