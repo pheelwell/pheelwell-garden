@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-11T00:17:21.616+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-04-13T20:14:42.274+02:00"}
 ---
 
 This project explores the use of embeddings to analyze and organize a collection of notes. The process involves generating embeddings for the notes, finding the closest embeddings to a given input text, and visualizing the generated embeddings.
@@ -29,19 +29,19 @@ Visualizations of clustered embeddings revealed some interesting patterns:
 The following images showcase some visualizations from this research:
 
 1. Clustering for embeddings for each seperate heading with filenames attached:
-![Pasted image 20230410220445.png](/img/user/Pasted%20image%2020230410220445.png)
+![Pasted image 20230410220445.png](/img/user/resources/Pictures/Pasted%20image%2020230410220445.png)
 2. Clustered paragraph embeddings without filenames:
-![Pasted image 20230411001417.png](/img/user/Pasted%20image%2020230411001417.png)
+![Pasted image 20230411001417.png](/img/user/resources/Pictures/Pasted%20image%2020230411001417.png)
 3. Weird Vector from empty File, Embeddings done on whole files:
-![Pasted image 20230410222154.png](/img/user/Pasted%20image%2020230410222154.png)
+![Pasted image 20230410222154.png](/img/user/resources/Pictures/Pasted%20image%2020230410222154.png)
 4. Improved clustering after removing empty files and enforcing a 100-character minimum:
-![Pasted image 20230410222510.png](/img/user/Pasted%20image%2020230410222510.png)
+![Pasted image 20230410222510.png](/img/user/resources/Pictures/Pasted%20image%2020230410222510.png)
 5. Zoomed-in view showing a cluster of research articles:
-![Pasted image 20230410222553.png](/img/user/Pasted%20image%2020230410222553.png)
+![Pasted image 20230410222553.png](/img/user/resources/Pictures/Pasted%20image%2020230410222553.png)
 6. Zoomed-in view showing a cluster of documentation:
-![Pasted image 20230410222621.png](/img/user/Pasted%20image%2020230410222621.png)
+![Pasted image 20230410222621.png](/img/user/resources/Pictures/Pasted%20image%2020230410222621.png)
 7. Only Fantasy Prompts:
- ![Pasted image 20230411001703.png](/img/user/Pasted%20image%2020230411001703.png)
+ ![Pasted image 20230411001703.png](/img/user/resources/Pictures/Pasted%20image%2020230411001703.png)
 In conclusion, this research demonstrates the potential of using embeddings to analyze and organize notes, revealing patterns and relationships that can be further explored or leveraged for practical applications.
 
 ## Example Usage:
@@ -55,7 +55,7 @@ The output was appended by "Give a list of the most important Secerts of the Cam
 
 This project provides a set of Python scripts that help in generating, finding closest, and visualizing embeddings for a collection of notes. These scripts are particularly useful for processing and analyzing large sets of text data, such as notes or articles.
 
-The Scripts can be found here: https://github.com/pheelwell/pheelwell-garden/tree/master/research_scripts
+The Scripts can be found [here](https://github.com/pheelwell/pheelwell-garden/tree/master/research_scripts): 
 
 ### 1. `generate_embeddings.py`
 
