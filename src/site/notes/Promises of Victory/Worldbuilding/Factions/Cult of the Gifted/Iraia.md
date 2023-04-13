@@ -6,7 +6,7 @@
 Iraia is a founding member of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], a visionary leader who guides her followers with wisdom and foresight. She has an unwavering belief in the power of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones and their ability to change the world for the better.
 
 > [!TIP] Quick Reference
-> ![Pasted image 20230409190632.png|300](/img/user/Pasted%20image%2020230409190632.png) 
+> ![Pasted image 20230409190632.png|300](/img/user/resources/Pictures/Pasted%20image%2020230409190632.png) 
 > **Iraia** _Human Leader_ 
 > Founding member and visionary leader of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 >- **Motivation**: Destiny, guidance, protection
