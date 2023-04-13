@@ -4,7 +4,7 @@
 
 
 ## [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]
-![Pasted image 20230409210153.png|center](/img/user/Pasted%20image%2020230409210153.png)
+![Pasted image 20230409210153.png|center](/img/user/resources/Pictures/Pasted%20image%2020230409210153.png)
 > [!quote] Quote
 > "We will no longer be shunned or dismissed because of our appearance or our past deeds. Our very existence demands recognition and respect." - [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]]
 
@@ -20,7 +20,7 @@ As ruthless as they may appear, it is important to remember that many members of
 
 ## [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]
 
-![Pasted image 20230409210637.png|center](/img/user/Pasted%20image%2020230409210637.png)
+![Pasted image 20230409210637.png|center](/img/user/resources/Pictures/Pasted%20image%2020230409210637.png)
 > [!quote] Quote
 > "In the name of justice and honor, we stand against the darkness and defend the innocent. Our actions define us, and our unwavering faith guides us. We are the shield that guards the Basin." - High Paladin Erathenar
 
@@ -36,7 +36,7 @@ For those seeking adventure or a righteous cause to champion, joining the League
 
 ## [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]
 
-![Pasted image 20230409211832.png|center](/img/user/Pasted%20image%2020230409211832.png)
+![Pasted image 20230409211832.png|center](/img/user/resources/Pictures/Pasted%20image%2020230409211832.png)
 
 > [!error ] This is BS all
 
