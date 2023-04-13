@@ -57,7 +57,7 @@ Dr. Phalando has spent most of his life in [[Promises of Victory/Worldbuilding/R
 # Role in the campaign
 Dr. Phalando serves as a knowledgeable resource for the players as they explore [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] and its surrounding area. He may provide them with information about local history, magical artifacts, or even hints about the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]] if he deems them trustworthy.
 
-He could also become involved in a quest involving the [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]], where he might warn the players about its dangers and plead with them not to let it reach the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]].
+He could also become involved in a quest involving the [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]], where he might warn the players about its dangers and plead with them not to let it reach the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]].
 
 # Roleplaying
 When roleplaying Dr. Phalando, emphasize his intelligence and eccentricity. He may appear distracted or absent-minded during conversations but is always eager to share his knowledge when prompted. While he can be paranoid and secretive about certain topics, especially regarding the [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]], he is generally friendly and helpful towards those who seek his aid.
