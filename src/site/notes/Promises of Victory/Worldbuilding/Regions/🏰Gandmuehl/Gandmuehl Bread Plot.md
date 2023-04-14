@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandmuehl-bread-plot/","title":"Gandmühl Bread Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.783+01:00","updated":"2023-04-10T21:38:09.486+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandmuehl-bread-plot/","title":"Gandmühl Bread Plot","noteIcon":"Plot","created":"2023-01-25T02:26:53.783+01:00","updated":"2023-04-14T00:10:46.768+02:00"}
 ---
 
 
-The Gandmühler bread is a type of bread made in [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl\|Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl]]. It is made with a special type of flour that can only be found in the area. Ontop of that it is marketed to have a "special ingredient" only the Baker knows about.
+The Gandmühler bread is a type of bread made in [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]]. It is made with a special type of flour that can only be found in the area. Ontop of that it is marketed to have a "special ingredient" only the Baker knows about.
 
 ### The secret behind the bread
 
