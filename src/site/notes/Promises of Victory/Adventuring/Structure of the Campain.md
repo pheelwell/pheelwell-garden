@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-04-13T23:59:21.015+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-04-14T00:13:29.304+02:00"}
 ---
 
 
@@ -114,9 +114,7 @@ As the ritual commences, a colossal [[Promises of Victory/Worldbuilding/Things/S
 It takes one week for the Prison of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] to break.   
 The party must race against time to not only prevent [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s escape but also find a way to destroy or contain him for good.
 
-
 </div></div>
-
 
 
 # Optional Threads
@@ -131,16 +129,18 @@ Those are the Plot Threads the Players can optionally solve:
 > - Uncover Naruuns Identity
 > - Uncover Fulfillers true identity
 
+
 ## Origin of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
-[[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] is the key of resolving the secret of Naruuns real identify, by investigating the Hag and the  [[Promises of Victory/Worldbuilding/Regions/Todo/Fulfiller's Market\|Fulfiller's Market]] the players can uncover the true nature of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] as the old god of false promises. By learning his true identity, they can devise a plan to expose him and his manipulations to the people of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], weakening his power and influence over them.
+
+**Key Figures**
+- [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
+- [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]]
+
+**Locations**
+[[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]]
 
 ![Pasted image 20230410000029.png](/img/user/resources/Pictures/Pasted%20image%2020230410000029.png)
 
-Through their investigation (Visiting the  [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and the [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]]), the party can discover that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] has been feeding on the despair and unfulfilled desires of the people in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], using their suffering to increase his power. The continuous war, fueled by the properties of [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], has provided [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] with an endless supply of misery.
-
-Armed with this knowledge, the party can seek allies among both the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]], uniting them against a common enemy. By exposing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s deception and manipulation, they can rally their forces against him and work together to find a way to destroy or contain him for good.
-
-As they work together, new alliances will form between former enemies, leading to a more peaceful and united future for [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. However, they must remain vigilant against any remaining followers of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] who continue to spread his false promises.
 
 ## Origin of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]
 
@@ -151,7 +151,7 @@ The [[Promises of Victory/Worldbuilding/Factions/LPF/League of Paranormal Resear
 This led to him being seduced by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|the Fulfiller]], a hag that wants to revive [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
 
 She promises him [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] will be able to revive his daughter, but in reality he only leads to the freeing of the old God.
-[[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] starts with joining [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]] and [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]] to found the [[Promises of Victory/Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]] 
+[[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] starts with joining [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]] and [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]] to found the [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
 
 The Party can learn, that [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] is actually blinded by his grief and maybe can stop him by confronting him with the truth.
 
@@ -164,7 +164,7 @@ All over the lands of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The
 
 In short, who controls the [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] supplies, has the upper hand in the Battle for [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. Because of that, for both sides, Controlling the [[Promises of Victory/Worldbuilding/Regions/Todo/Mines of Torrar\|Mines of Torrar]], [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]] and [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]] is the Key to Wining the war.
 
-In reality [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] is the remans of the nerves of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and the power bolstering properties wear off at the most Ciritcal Moment.
+In Reality [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] is the remans of the nerves of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and the power bolstering properties wear off at the most Critical Moment.
 This leads to the endless war going back and fourth. With one party pushing right to the enemy's gate, but then loosing by a sudden turn of events.
 
 The party can learn, that the [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]] is the reason for this unending loop, that they can use to end the conflict once and for all.
