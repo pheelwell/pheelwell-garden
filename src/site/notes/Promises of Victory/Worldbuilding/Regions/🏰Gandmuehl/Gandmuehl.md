@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandmuehl/","title":"Gandmühl","noteIcon":"Settlement","created":"2023-01-25T02:26:53.801+01:00","updated":"2023-04-13T23:58:37.996+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/gandmuehl/gandmuehl/","title":"Gandmühl","noteIcon":"Settlement","created":"2023-01-25T02:26:53.801+01:00","updated":"2023-04-14T00:11:47.395+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@ The two groups name themselfs "The Chuckers" and "The Reformers" witch has led t
 
 ## Geography
 
-[[Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl\|Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl]] is located next to a river in a forest. The town is surrounded by fields and forrest.
+[[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]] is located next to a river in a forest. The town is surrounded by fields and forrest.
 The Chuckers (The people who want to keep the town's focus on forestry) live on the east side of the town, while The Reformers (those who want to expand tourism) live on the west side.
 
 ## Plot Threads
@@ -26,7 +26,7 @@ The Chuckers (The people who want to keep the town's focus on forestry) live on 
 | **Artifact of Life**            | The Druid of the Stormclaws gives the recommendation to close the Bakery, the player can use this to get a direction to the Stormclaw City.                                                                                     |
 | **Souls of the Dead**           | The murder of the child of TODO was committed by Lambrecht with poison of the Forsaken to try to get in contact with the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]]. The party can learn that the LPFs goes very far to conduct their research.\*\*              |
 | **The Resurrection of Nar’run** | From the lumberjacks they can also learn that [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]] is collecting a special type of wood that has “magic masking” capabilities                                                                                        |
-| [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl\|Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl]] Bread                       | [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl Bread Plot\|Gandmuehl Bread Plot]]: Learn that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] gave bad advice                                                                                                                                                                                                                                 |
+| [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]] Bread                       | [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl Bread Plot\|Gandmuehl Bread Plot]]: Learn that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] gave bad advice                                                                                                                                                                                                                                 |
 
 
 [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Adventuring in Gandmuehl\|Adventuring in Gandmuehl]]
@@ -38,7 +38,7 @@ The harbor is also divided between the two factions in town. The Chuckers use it
 
 ### Travel to [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]]
 
-The party can take a boat from [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl\|Promises of Victory/Worldbuilding/Factions/League of Arathor/Gandmuehl]] to [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]]. The trip takes about three days.
+The party can take a boat from [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]] to [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]]. The trip takes about three days.
 
 ## The Lumbermills
 
