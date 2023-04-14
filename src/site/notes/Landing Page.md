@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-13T20:49:22.876+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-14T22:23:59.367+02:00"}
 ---
 
 # Hi🌱
@@ -13,7 +13,7 @@ Perhaps someday this verdant paradise will evolve into a full-fledged Adventure 
 To get started, here is a list of my projects:
 
 ## Promises of Victory
-![Pasted image 20230329230847.png](/img/user/resources/Pictures/Pasted%20image%2020230329230847.png)
+![resources/Pictures/decoration/pov_overview.png](/img/user/resources/Pictures/decoration/pov_overview.png)
  In the war-ravaged land of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
 
 > [!warning] If you want to play this Campain. GO AWAY! There are heavy spoilers in those Documents. A Safe Introduction is still TODO
