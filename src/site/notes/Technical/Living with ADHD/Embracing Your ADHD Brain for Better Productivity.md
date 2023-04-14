@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/living-with-adhd/embracing-your-adhd-brain-for-better-productivity/","noteIcon":"Psycho","created":"2023-04-10T00:16:34.034+02:00","updated":"2023-04-10T23:54:15.741+02:00"}
+{"dg-publish":true,"permalink":"/technical/living-with-adhd/embracing-your-adhd-brain-for-better-productivity/","noteIcon":"Psycho","created":"2023-04-10T00:16:34.034+02:00","updated":"2023-04-14T22:56:25.293+02:00"}
 ---
+
 
 >[!info] This is AI generated content
 > This is a AI written summary of this video https://www.youtube.com/watch?v=JsT3KPYJFl4
