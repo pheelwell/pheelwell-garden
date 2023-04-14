@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-14T22:23:59.367+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-14T22:43:53.267+02:00"}
 ---
 
 # Hi🌱
 Welcome to the flourishing realm of my Digital Garden, a place where ideas bloom and thoughts intertwine. Here, I've laid out all my notes for you to wander through and explore like a true garden adventurer.
 While fair warning - this haven may eventually succumb to the sands of time, as many of my projects often do. In this garden oasis, you'll find notes crafted primarily for my own musings, so if you stumble upon an out-of-context thought or an incomplete concept - I apologize in advance. 
 Perhaps someday this verdant paradise will evolve into a full-fledged Adventure Module, but for now, it remains a sanctuary for the wild growth of ideas and dreams. So come on in and roam freely through the creative landscapes of my Digital Garden!
-
 
 
 
@@ -29,17 +28,14 @@ If you are just window shopping here are some fun articles I like:
 - [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]]
 - [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
 
-
-
 ## Worldbuilding with AI
+![hand_create.png](/img/user/resources/Pictures/decoration/hand_create.png)
 I use AI to assist in my writing. you can look at my [[Technical/AI Assisted Writing/AI Assisted Writing\|AI Assisted Writing]]  on how I use Obsidian to help me expand my Digital Garden.
 
-
 ## Stormwreck Isle
-![Pasted image 20230329225428.png](/img/user/resources/Pictures/Pasted%20image%2020230329225428.png)
+![Stormwreck_overview.png](/img/user/resources/Pictures/decoration/Stormwreck_overview.png)
 Notes on a campaign I am a player in.
 My PC: [[Stormwreck Isle/Kix\|Kix]]
-
 
 ## Last Updated Articles: 
 ``` dataview
@@ -50,7 +46,7 @@ table
 from ""
 where dg-publish = true
 sort file.mtime desc
-limit 15
+limit 14
 ```
 
 ## Largest Articles
