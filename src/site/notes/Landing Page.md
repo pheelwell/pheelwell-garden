@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-14T22:56:57.669+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-14T23:00:46.071+02:00"}
 ---
 
 # Hi🌱
