@@ -288,9 +288,35 @@ img::before {
 }
 
 
-h1, h2 {
+h1 {
   text-align: center;
 }
+
+
+
+// remove the left line from markdown-embed
+.markdown-embed {
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+    margin: 0;
+    padding: var(--embed-padding);
+}
+
+
+// give header more space
+h1 {
+  margin: 50px 0 60px 0 !important;
+}
+
+// give header more space
+h2 {
+  margin: 20px 0 40px 0 !important;
+}
+
+.line line { fill: green} 
+
 
 //allign timestamps div to the center (not text-align)
 .timestamps {
