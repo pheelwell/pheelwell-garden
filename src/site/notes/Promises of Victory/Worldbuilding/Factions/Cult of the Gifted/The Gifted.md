@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-gifted/","title":"The Gifted","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-09T20:30:11.912+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-gifted/","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-15T21:49:13.271+02:00"}
 ---
 
 
 The Gifted are a religious grouping that has spread throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]], gathering followers and growing in power. They worship [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] as the God of Death, whom they believe can resurrect and grant wishes to those who serve him faithfully. The grouping is primarily made up of people who have lost someone important in their lives, seeking solace and hope in [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s promises. As more join their ranks, they continue to gain influence and power throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]].
 
 > [!TIP] Quick Reference
-> ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
+> ![Pasted image 20230415212902.png|300](/img/user/resources/Pictures/Pasted%20image%2020230415212902.png)
 > **The Gifted** 
 >  A religious organization that worships [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], seeking resurrection and wishes in exchange for devotion.
 >- **Ideals**: Faith, Hope, Sacrifice
@@ -102,4 +102,163 @@ In their pursuit for answers, some members of the LPF have infiltrated The Gifte
 
 > [!quote] Quote
 > "The Gifted may hold the key to unlocking the true nature of Nosem energy, and perhaps even a way to stop Naruun. We must learn all we can from them, even if it means risking our lives." - A member of the LPF infiltrating The Gifted.
+
+# NPCs
+
+## Iraia
+
+Iraia is one of the highest-ranking members and leaders of the Gifted, alongside Edard Combell. She is a powerful seer and healer who receives visions directly from Naruun, guiding the faction's activities and decisions.
+
+> [!personality] Personality
+> Iraia is empathetic and compassionate, often extending a comforting hand to those who have experienced loss. However, she is also deeply devoted to Naruun and will not hesitate to take drastic measures in order to fulfill his wishes.
+
+> [!goal] Goal
+> Iraia's primary goal is to complete the Turnback ritual, believing it will bring back lost loved ones and restore balance in the Basin.
+
+## Edard Combell
+
+Edard Combell is another high-ranking leader within the Gifted. He works closely with Iraia, carrying out her visions and providing strategic guidance for their followers.
+
+> [!personality] Personality
+> Edard is charismatic and persuasive, able to rally people around him with ease. He genuinely believes in the promises of Naruun but can sometimes be blinded by his own ambitions.
+
+> [!goal] Goal
+> Like Iraia, Edard seeks to complete the Turnback ritual. However, he also harbors personal ambitions for power within the faction and beyond.
+
+## Rhaegar Shaddowhammer
+
+Rhaegar Shaddowhammer is the leader of the offshoot faction known as The Shaddowhammer. He was once a member of The Gifted but split off due to ideological differences regarding Ilsensine's influence on their goals.
+
+> [!personality] Personality
+> Rhaegar is ruthless and cunning, willing to do whatever it takes to achieve his goals. Despite his darker nature, he still holds a deep respect for The Gifted and their shared devotion to Naruun.
+
+> [!goal] Goal
+> Rhaegar's primary goal is to harness the power of Ilsensine to complete the Turnback ritual and resurrect his lost family, regardless of the cost.
+
+## Dr. Elara Tavish
+
+Dr. Elara Tavish is a member of the League of Paranormal Researchers who has infiltrated The Gifted. She is conducting secret experiments on Nosem energy, hoping to discover a connection between it and the powers wielded by The Gifted.
+
+> [!personality] Personality
+> Dr. Tavish is intelligent and resourceful, driven by her curiosity about the nature of Nosem energy and its potential applications. She can be secretive and guarded, especially when it comes to her true intentions within The Gifted.
+
+> [!goal] Goal
+> Dr. Tavish's primary goal is to uncover the truth behind Nosem energy and its connection with The Gifted, potentially using this knowledge to stop Naruun's plans for destruction.
+
+# Locations
+
+## Silken Sanctuary
+
+The Silken Sanctuary is the hidden headquarters of The Gifted, located near Maerhof. It serves as a place for members to gather, worship Naruun, and conduct their secretive rituals in privacy.
+
+> [!description] Description
+> The Silken Sanctuary appears as an unassuming building from the outside but reveals a beautifully crafted interior adorned with silk tapestries depicting scenes of resurrection and Naruun's benevolence. Hidden chambers within provide space for rituals and sacrifices away from prying eyes.
+
+## Edschmied
+
+Edschmied is an underground city beneath Maerhof where the apparatus for the Turnback ritual is being constructed by members of The Gifted. It is heavily guarded and access to it is highly restricted.
+
+> [!description] Description
+> Edschmied appears as an ancient city carved into the stone, with winding tunnels and chambers filled with strange machinery and arcane symbols. The air is thick with the scent of incense and the hum of magical energy, as members work tirelessly to complete their grand plan.
+
+## Maerhof
+
+Maerhof is a bustling city in the Basin, serving as a hub for trade, commerce, and religion. The Gifted has established a strong presence here, attracting many followers and sympathizers.
+
+> [!description] Description
+> Maerhof is a lively city with diverse architecture reflecting its history and various inhabitants. Temples to numerous gods stand alongside marketplaces and homes, while secret meetings of The Gifted occur in hidden corners and quiet alleys.
+
+
+Iraia is a founding member of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], a visionary leader who guides her followers with wisdom and foresight. She has an unwavering belief in the power of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones and their ability to change the world for the better.
+
+> [!TIP] Quick Reference
+> ![Pasted image 20230409190632.png|300](/img/user/resources/Pictures/Pasted%20image%2020230409190632.png) 
+> **Iraia** _Human Leader_ 
+> Founding member and visionary leader of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
+>- **Motivation**: Destiny, guidance, protection
+>- **Ideals**: Loyalty, devotion, faith
+>- **Bonds**: [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]], [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
+>- **Flaws**: Hides the truth about her visions' accuracy
+> ____
+>- **Roleplaying Tips**: Emphasize charisma and strong will; portray as a motherly figure to followers.
+>-  **Quirk**: Can sense when someone is gifted before they realize it themselves.
+
+## Appearance
+Iraia is a tall, slender woman with long, flowing dark hair that reaches her waist. Her eyes are a striking, almost unnerving shade of deep blue that seems to pierce through those she gazes upon. She has an air of grace and elegance about her, and her movements are fluid and measured. Her face is angular, with high cheekbones and a strong jawline, giving her an ethereal beauty. She typically wears long flowing robes in shades of deep purple, silver, and black – colors associated with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s divine power. Intricate embroidery adorns the edges of her garments, depicting symbols and glyphs sacred to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]. Around her neck hangs a large amulet bearing the symbol of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] – a constant reminder of her devotion to the god.
+
+> [!quote] Quote
+> "We are the chosen ones, gifted with powers beyond comprehension. Together, we will reshape this world in our image and fulfill the destiny laid before us by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]." - Iraia
+
+### Motivations
+Iraia is driven by her unwavering belief in the destiny of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones and their ability to change the world for the better. She seeks to guide and protect them as they fulfill their divine purpose.
+
+### Ideals
+Iraia values loyalty, devotion, and faith above all else. She believes that by following [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s guidance, she can bring about a golden age for [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones.
+
+### Bonds
+- Founding member of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
+- Deep bond with [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]]
+- Strong connection with [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]
+- As one of the founding members, Iraia is deeply invested in their success and will stop at nothing to protect them from harm. She often takes on a motherly role within the group, offering guidance and support when needed.
+
+### Flaws
+Iraia is aware that not all of her visions are true but chooses to keep this knowledge hidden from her followers. She believes that their faith in the visions is crucial for their cause's success.
+
+### Quirk
+She has an uncanny knack for sensing when someone is gifted, even before they realize it themselves. She uses this ability to recruit new members for [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]].
+
+### Roleplaying Tips
+
+- Emphasize Iraia's charisma and strong will when portraying her.
+- Use Iraia's convictions to create a sense of urgency in interactions with the players.
+- Portray her as a motherly figure to her followers, offering guidance and support.
+
+## Backstory
+Iraia has been receiving visions from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] since she was a child. These visions led her to create [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] along with [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]]. She has a mysterious past that she doesn't share with anyone, and some believe she was once part of a powerful noble family who disowned her when her powers manifested.
+
+## Role in the campaign
+Iraia serves as a visionary leader and guide for [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], inspiring loyalty and devotion from those who follow her. Her unwavering belief in their cause can inspire the players to take on seemingly impossible challenges or make difficult choices for the greater good.
+
+> [!tip] GM Tip, Hint, Important
+> Use Iraia's convictions and charisma to create a sense of urgency and importance in the players' interactions with [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]. Her unwavering belief in their cause can inspire the players to take on seemingly impossible challenges or make difficult choices for the greater good.
+
+> [!seed] Seed, Adventure Hook
+> Rumors of a powerful artifact that could break [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s prison reach Iraia's ears, and she becomes obsessed with finding it. The players must help her locate the artifact before it falls into the wrong hands or decide if they should stand against her quest, fearing the consequences of freeing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
+
+- Iraia can be found in [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]]
+- Iraia has dedicated her life to serving [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and unlocking the full potential of her gift. She believes that by following his guidance, she can bring about a golden age for [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the gifted]] ones.
+- Iraia is known to have a unique connection with nature and animals. She often uses this bond to help her locate new gifted individuals or gather information from the natural world.
+- Iraia has a mysterious past that she doesn't share with anyone. Some believe she was once part of a powerful noble family who disowned her when her powers manifested.
+- Iraia possesses a rare gift of healing that she uses to help her followers recover from injuries or illness. This ability only strengthens the belief in her divine connection to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
+  
+> [!seed] Seed, Adventure Hook
+> Some members within [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] begin to doubt Iraia's visions after one fails to come true. This leads to internal strife within the group that could potentially fracture their unity or even lead them into dangerous situations.
+
+> [!secret]- 
+> Iraia is aware that not all of her visions are true, but she chooses to keep this knowledge hidden from her followers. She believes that their faith in the visions is crucial for their cause's success.
+
+## Relations
+- Iraia's relationship with [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]] goes beyond merely leading [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] together. They share a deep bond of trust and loyalty that stems from their shared experiences fighting for their cause.
+- Iraia has a strong connection with [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]], who joined her and [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]] in founding the Cult of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the Gifted]] Ones. Together, they work tirelessly to build a better future for their followers.
+
+## Trivia
+- Iraia is known to have a unique connection with nature and animals.
+- She possesses a rare gift of healing that she uses to help her followers recover from injuries or illness.
+
+Write about [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Edard Combell\|Edard Combell]]:
+## Edard Combell
+
+Edard Combell is a co-founder and influential leader in [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], working closely with Iraia to guide their followers and achieve their goals. He is a skilled strategist and powerful mage, using his abilities to further the cause of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]].
+
+> [!TIP] Quick Reference
+> ![Pasted image 20230409190632.png|300](/img/user/resources/Pictures/Pasted%20image%2020230409190632.png) 
+> **Edard Combell** _Human Leader_ 
+> Co-founder and influential leader of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]
+>- **Motivation**: Ambition, power, resurrection
+>- **Ideals**: Devotion, determination, loyalty
+>- **Bonds**: [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]], [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
+>- **Flaws**: Can be blinded by ambition, manipulative
+> ____
+>- **Roleplaying Tips**: Portray as ambitious but loyal to The Gifted; emphasize strategic thinking.
+>-  **Quirk**: Has a tendency to speak in cryptic riddles or metaphors.
 
