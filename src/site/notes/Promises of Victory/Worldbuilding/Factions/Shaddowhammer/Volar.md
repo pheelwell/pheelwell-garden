@@ -6,7 +6,7 @@
 As the leader of the [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]], Volar was once a paladin, that lost his child in the war, he thinks, he can resurrect his child if he fulfills a ritual demanding the souls of many people. What he doesn't know is that it will free the evil god [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and take his life in the process.
 
 Volar is oblivious to the truth and is being deceived by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. He is blinded by his grief and doesn't see the consequences of his actions. The members are just blindly following him, not knowing what they're doing is wrong.
-![Pasted image 20230414230014.png](/img/user/Pasted%20image%2020230414230014.png)
+![Pasted image 20230414230014.png](/img/user/resources/Pictures/Pasted%20image%2020230414230014.png)
 
 # Volars Past
 Volar was once a great paladin called [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]], in service of the ongoing War and holder of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Shaddowbane\|Shaddowbane]] a set of artifact Armor. He had a Wife in the Enemies territory but this didn't hold him back to come visit them in his downtime. Sadly, his daughter was murdered.
