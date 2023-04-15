@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/silken-sanctuary/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-09T20:39:47.396+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/silken-sanctuary/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-15T22:56:34.793+02:00"}
 ---
 
 Deep within the vibrant and mysterious woods south of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]], a hidden sanctuary shrouded in illusion awaits those who possess extraordinary gifts. As the unsuspecting traveler passes by, they remain oblivious to the secret world that lies just beyond their reach.
@@ -41,6 +41,7 @@ The Silken Sanctuary was founded by [[Promises of Victory/Worldbuilding/Factions
 5. An insidious force begins targeting members of the Cult one by one, threatening not only their lives but also unraveling the very fabric that holds this secretive society together.
 
 ## Campaign Connections:
+
 > [!seed] Adventure Hook
 > An important artifact or tome is rumored to be hidden within the [[Promises of Victory/Worldbuilding/Regions/Todo/🏰 Last Hope/Endless Caves Archive\|Endless Caves Archive]], potentially holding vital information related to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] or [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] energy. The party must navigate the treacherous caves and overcome guardians to retrieve it.
 
@@ -52,3 +53,51 @@ Located south of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerh
 - [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]] hides the fact that not all her visions are true from her followers.
 - She has an uncanny knack for sensing when someone is gifted.
 - [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]]'s mysterious past possibly connects her to a powerful noble family who disowned her when her powers manifested
+
+> [!seed]- Job Board: Opportunities at the Silken Sanctuary
+> 1. **Lost Artifact Recovery**
+>   * Description: An ancient artifact has been lost in the dense forest surrounding the Silken Sanctuary. The artifact is of great importance to The Gifted and must be retrieved.
+>   * Contact NPC: Iraia
+>  * Reward: *Access to the Chamber of Visions for a personal vision.*
+>
+>2. **Undead Extermination**
+>   * Description: Undead creatures have been spotted near the entrance to the Silken Sanctuary, and they pose a threat to our members. Exterminate these creatures before they can cause any harm.
+>   * Contact NPC: Edard Combell
+>   * Reward: *A powerful protective amulet from Naruun.*
+>
+>3. **Scouting Potential Allies**
+>   * Description: Allies are needed for our cause. Locate and scout potential allies in neighboring towns who may be willing to join The Gifted.
+>   * Contact NPC: Council of Elders
+>   * Reward: *A potion that grants temporary invisibility.*
+>
+>4. **Ancient Text Translation**
+>   * Description: We have recently discovered ancient texts within the Endless Caves Archive that require translation. Scholars with knowledge of ancient languages are needed.
+>   * Contact NPC: Keeper of the Endless Caves Archive
+>   * Reward: *Access to exclusive knowledge from our archives.*
+>
+>5. **Crystal Cavern Expedition**
+>    * Description: A new section of the Crystal Cavern has been revealed, and we need adventurers to explore it for any signs of valuable resources or artifacts.
+>    * Contact NPC: Head Miner
+>    * Reward: *_A share of any valuable resources found._
+>
+>6. **Sabotaging Rival Cults**
+>    * Description: Rival cults seek to undermine our goals with their blasphemous beliefs about Naruun. Sabotage their efforts and spread misinformation about their activities.
+>    * Contact NPC: Spymaster
+>    * Reward: *A talisman that grants protection from rival cults' magic.*
+>
+>7. **Recruiting New Members**
+>    * Description: The Gifted is always searching for new members to join our cause. Seek out potential candidates and persuade them to join our ranks.
+>    * Contact NPC: Recruitment Officer
+>    * Reward: *A magical item that enhances charisma.*
+>
+>8. **Defending the Forge of Life**
+>    * Description: The Forge of Life is a sacred site within the Silken Sanctuary, and we have received word that it may soon be under attack by enemies. Defend the forge at all costs.
+>    * Contact NPC: Council of Elders
+>    * Reward: *_A powerful weapon forged from the Forge of Life._
+>
+>9. **Securing Rare Ingredients**
+>    * Description: Our alchemists require rare ingredients for their experiments, which can only be found in dangerous locations. Brave adventurers needed to retrieve these items.
+>    * Contact NPC: Head Alchemist
+>    * Reward: *_Access to powerful potions and elixirs._
+
+
