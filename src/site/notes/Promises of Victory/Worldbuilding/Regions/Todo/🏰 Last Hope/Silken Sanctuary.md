@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/silken-sanctuary/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-15T22:56:34.793+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/silken-sanctuary/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-15T22:57:01.436+02:00"}
 ---
 
 Deep within the vibrant and mysterious woods south of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]], a hidden sanctuary shrouded in illusion awaits those who possess extraordinary gifts. As the unsuspecting traveler passes by, they remain oblivious to the secret world that lies just beyond their reach.
