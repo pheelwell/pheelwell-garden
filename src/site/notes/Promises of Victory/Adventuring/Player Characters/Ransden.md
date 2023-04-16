@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"2023-01-25T02:26:54.386+01:00","updated":"2023-04-02T22:56:55.030+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/ransden/","title":"Ransden","noteIcon":"NPC","created":"2023-01-25T02:26:54.386+01:00","updated":"2023-04-16T21:21:13.044+02:00"}
 ---
 
 ![ransden.jpg](/img/user/resources/Pictures/ransden.jpg)
@@ -9,7 +9,6 @@ Ransden was once a priest with a wife and two children in the service of the god
 
 [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
 [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Helene Arcfall\|Helene Arcfall]]
-
 [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Raiden Arcfall\|Raiden Arcfall]]
 [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Ralyen Arcfall\|Ralyen Arcfall]]
 [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Herbert Ragebone\|Herbert Ragebone]]
