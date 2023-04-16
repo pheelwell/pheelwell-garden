@@ -15,13 +15,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
-    
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
     {%else%}
       {%include "components/filetree.njk"%}
     {% endif %}
-
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
@@ -93,5 +91,15 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+        {%include "components/comments.njk" %}
+    </div>
+    <script type="application/json" class="js-hypothesis-config">
+    {
+    "showHighlights": false,
+    "theme": "clean",
+    "openSidebar": false,
+    }
+    </script>
+    <script async src="https://hypothes.is/embed.js"></script>
   </body>
 </html>

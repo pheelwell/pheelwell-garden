@@ -71,7 +71,7 @@ ul > li:nth-child(even)::before {
     transform: none;
     border-radius: 4px;
     margin-top: 50px;
-    max-width: 700px;
+    max-width: 850px;
     margin: auto;
     border-radius: 0;
     border-top: 2px solid var(--background-secondary);
@@ -257,7 +257,7 @@ body {
   --graph-main: var(--h6-color);
 }
 
-.content {
+.content, .comments {
   max-width: 850px;
 }
 
@@ -304,6 +304,10 @@ h1 {
     padding: var(--embed-padding);
 }
 
+// the theme sets blend mode to lighten;, dont set for img in callouts::after
+.callout-content * img {
+  mix-blend-mode: normal !important;
+}
 
 // give header more space
 h1 {
@@ -322,4 +326,28 @@ h2 {
 .timestamps {
   display: flex;
   justify-content: center;
+}
+
+.comments {
+  margin: 80px auto;
+}
+
+/* Utterances styling */
+
+.timeline-comment.current-user .comment-header {
+  background-color: #182030;
+}
+
+.timeline-comment .comment-footer {
+  border-top: 1px solid var(--background-secondary);
+}
+
+.timeline-comment .new-comment-header {
+  background-color: #df0e0e !important;
+  border-bottom: 1px solid #1fabda !important;
+}
+
+.timeline-comment .comment {
+  background-color: #0522fd !important;
+  border: 0px;
 }
