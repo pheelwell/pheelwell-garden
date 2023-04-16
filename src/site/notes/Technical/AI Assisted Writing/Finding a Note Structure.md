@@ -1,80 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/finding-a-note-structure/","noteIcon":"","created":"2023-04-16T12:27:23.731+02:00","updated":"2023-04-16T13:30:41.731+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/finding-a-note-structure/","noteIcon":"","created":"2023-04-16T12:27:23.731+02:00","updated":"2023-04-16T14:22:14.075+02:00"}
 ---
 
-
-When I write about a Characters the Following I want to format it in a way to get the most important information for the reader in front.
-Why does the Reader read the article?
--> Curiosity (engage reader)
--> Quick lookup (fast information)
--> Inspiration (What could i do with this Character)
--> Context (Who is this Character?)
--> Preperation for Session (Details)
-	-> How do I Roleplay?
-	-> What are the Details about this Character?
-
-This leads to a meta structure of the Articles:
-*Introduction*
-- Engaging Introduction to subject -> Curiosity
-- Sidebar with Quick Refference for Quick Lookup
-- Role in the Campain -> Meta Explenation about the Char
-*Lore Section*
-- History or Backstory
-- Relations
-- Other things Interesting about the Subject 
-*Roleplaying Section*
-- Appearance
-- Guide for Roleplaying as/in/with the Subject
-- For Characters:
-	- Ideals
-	- Bonds
-	- Flaws
-	- Quirks -> something memorable
-
-## NPCs
-First things that come to mind are NPCs.
-This is the template I use: 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-# TEMPLATE
-
-Start with a flavor text (for example a simple scene) that hooks in the reader, give a first impression (don't reveal secrets) 
-## Overview
-two pragraphs with most imporant facts about the Faction
-> [!TIP] Quick Refference
-> ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
-> **Insert Name** _Race Class_ 
->  One sentence description
->- **Motivation**: in, single, keywords
->- **Ideals**: in, single, keywords
->- **Bonds**: in, single, keywords
->- **Flaws**: in, single, keywords
->----
->- **Roleplaying Tips**: Things to be reminded while roleplaying
->-  **Quirk**: something memorable
-## Appearance
-Description of the look and feel of the character and how to roleplay them.
-### Motivations
-### Ideals
-### Bonds
-### Flaws
-### Quirk
-### Roleplaying
-## Backstory
-## Role in the campaign
-## Relations
-## Trivia
-Add everything that doesn't fit the other headings here
-
-
-
-</div></div>
-
-
-Rewrite the Text in a informative Article writing about a generic Structure of Notes for a Zettelkasten Style Adventure Module and then give a example of NPCs. write in Markdown.
 
 # Finding a Note Structure for Adventure Modules
 
@@ -92,7 +19,7 @@ The reader might be looking for:
 
 ## Meta Structure of Articles
 
-Based on these reader needs, we suggest dividing your note structure into three main sections:
+Based on these reader needs, my  suggestion is dividing your note structure into three main sections:
 
 ### Introduction
 
@@ -174,3 +101,15 @@ Role in Campaign:
 ```
 
 With this structure in place, you'll be able to create informative and engaging notes for your adventure module while ensuring that readers can quickly find the information they need.
+
+A Example Implementation of this structure is: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
+
+
+## Improvements
+This is just a collection of my thoughts. This is a list of Improvements I could make:
+- [ ] Offering alternative formats or layouts for different types of NPCs (e.g., major vs. minor characters) to cater to varying levels of detail and complexity.
+- [ ] Including optional sections or subsections that address unique aspects of certain NPCs, such as special abilities, equipment, or unique story arcs.
+- [x] Encouraging writers to provide examples or anecdotes from their own campaigns to help readers imagine how the NPC might be used in practice.
+
+Overall, continuously refining and iterating on the note structure based on feedback from readers and personal experience will lead to more effective and engaging adventure modules.
+
