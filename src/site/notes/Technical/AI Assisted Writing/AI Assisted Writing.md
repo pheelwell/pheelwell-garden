@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/ai-assisted-writing/","noteIcon":"Technical","created":"2023-04-07T21:54:08.254+02:00","updated":"2023-04-10T23:44:12.333+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/ai-assisted-writing/","noteIcon":"Technical","created":"2023-04-07T21:54:08.254+02:00","updated":"2023-04-16T12:39:24.515+02:00"}
 ---
 
 
@@ -8,6 +8,7 @@ In today's fast-paced world, staying organized and efficient is crucial for writ
 # Overview:
 
 - [[Technical/AI Assisted Writing/Custom Callouts\|Custom Callouts]]
+- [[Technical/AI Assisted Writing/Finding a Note Structure\|Finding a Note Structure]]
 - [[Technical/AI Assisted Writing/Generating Content with GPT\|Generating Content with GPT]]
 - [[Technical/AI Assisted Writing/Important Secrets of the Campain\|Important Secrets of the Campain]]
 - [[Technical/AI Assisted Writing/Organizing Knowledge with Zettelkasten\|Organizing Knowledge with Zettelkasten]]
