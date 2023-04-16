@@ -351,3 +351,9 @@ h2 {
   background-color: #0522fd !important;
   border: 0px;
 }
+
+
+/* fix floating of hypothesis */
+.markdown-preview-view {
+  position: static !important;
+}
