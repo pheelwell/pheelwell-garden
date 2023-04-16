@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-07T13:25:40.185+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-16T12:18:10.586+02:00"}
 ---
+
 
 The Fulfiller is an old Hag who lived since before the imprisonment of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]]. She lives from feeding bad emotions, similar to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]]. Since [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] the very existance and acting of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] provided the Fulfiller with many dreams beeing shattered, she sympathises with the old god and wants to free him again, so that he can start feeding off of the bad emotions of people again.
 
 > [!TIP] Quick Reference
-> ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
+> ![Pasted image 20230416120252.png|300](/img/user/Pasted%20image%2020230416120252.png)
 > **The Fulfiller** _Ancient Hag_ 
 >  A manipulative hag who feeds off bad emotions and causes despair through false promises.
 >- **Motivation**: Feed on bad emotions, free [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
@@ -49,6 +50,8 @@ To ensure her own survival in the meantime, she established a traveling market w
 
 ## Role in the campaign
 The Fulfiller can serve as a villain or an obstacle for the player characters. They may encounter her traveling market and be tempted by her offers, only to discover later on that they've been tricked into terrible misfortune. Alternatively, they may be tasked with stopping her schemes or even freeing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] from his prison.
+
+## Net of the 
 
 ## Relations
 - [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]: The Fulfiller sympathizes with this imprisoned old god who shares her love for feeding on bad emotions.
