@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-25T00:38:55.973+02:00"}
+{"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"],"noteIcon":"Meta","created":"2023-03-29T18:12:33.199+02:00","updated":"2023-04-25T00:55:33.925+02:00"}
 ---
 
-# Hi🌱
+## Hi🌱
 Welcome to the flourishing realm of my Digital Garden, a place where ideas bloom and thoughts intertwine. Here, I've laid out all my notes for you to wander through and explore like a true garden adventurer.
 While fair warning - this haven may eventually succumb to the sands of time, as many of my projects often do. In this garden oasis, you'll find notes crafted primarily for my own musings, so if you stumble upon an out-of-context thought or an incomplete concept - I apologize in advance. 
 Perhaps someday this verdant paradise will evolve into a full-fledged Adventure Module, but for now, it remains a sanctuary for the wild growth of ideas and dreams. So come on in and roam freely through the creative landscapes of my Digital Garden!
@@ -10,7 +10,6 @@ Perhaps someday this verdant paradise will evolve into a full-fledged Adventure 
 
 
 To get started, here is a list of my projects:
-
 
 # Promises of Victory
 ![resources/Pictures/decoration/pov_overview.png](/img/user/resources/Pictures/decoration/pov_overview.png)
