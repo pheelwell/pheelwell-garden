@@ -59,9 +59,18 @@ ul > li:nth-child(even)::before {
 }
 
 @media only screen and (min-width: 900px) and (max-width: 1900px) {
+  .callout[data-callout="tip"] > .callout-content {
+    //transform to 2 columns
+    column-count: 2;
+    column-gap: 20px;
+    height: 100%;
+    
+  }
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1900px) {
   .callout[data-callout="tip"] {
-    width: 50%; /* Set the width of the callout div to 40% */
-    float: right; /* Position the callout div absolutely */
+    
   }
 }
 
