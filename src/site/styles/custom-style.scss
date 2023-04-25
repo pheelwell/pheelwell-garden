@@ -291,8 +291,11 @@ body {
 /*************************************************************
         H1
 **************************************************************/
-h1 {
+
+section > h1 {
   text-align: center;
+  margin: -75px 0px 32px 0px !important;
+  animation: ticket 20s lineardirection;
 }
 
 // emoji to the header, but smol
@@ -307,6 +310,7 @@ h2 ~ h1 {
 
 // give header more space
 header > h1 {
+  text-align: center;
   margin: 50px 0 60px 0 !important;
   //set font size
   font-size: 3.5em !important;
@@ -359,16 +363,20 @@ body {
 //put a grey background on the sections that have a h1 or h2 child
 section:has(> h1),
 .backlinks {
+  margin: 100px 0px 0px 0px !important;
+  padding-top: 20px;
+  padding-bottom: 10px;
   background-color: var(--background-primary);
   //shadow
-  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.377);
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.277);
   //border
   border: 1px solid var(--background-secondary);
-  border-radius: 7px;
-  //remove top margin
-  margin-top: 50px;
+  border-radius: 3px;
 }
 
+section > img {
+  margin-top: -20px !important;
+}
 
 /*************************************************************
         EMBEDS
@@ -430,7 +438,7 @@ section:has(> h1),
 
 .filetree-sidebar,
 .navbar {
-  background-color: var(--background-primary);
+  background-color: var(--background-secondary);
   //shadow
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
   //border
@@ -449,10 +457,9 @@ section > ul,
 section > ol,
 section > blockquote,
 section > div {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
-
 
 //when the p of the content has a image, remove the padding of the p
 .cm-s-obsidian > p > img {
