@@ -20,8 +20,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+  
   let markdownLib = markdownIt({
-    breaks: true,
+    breaks: false,
     html: true,
   })
     .use(require("markdown-it-anchor"), {
@@ -104,7 +105,6 @@ module.exports = function (eleventyConfig) {
         // Other languages
         return origFenceRule(tokens, idx, options, env, slf);
       };
-
       const defaultImageRule =
         md.renderer.rules.image ||
         function (tokens, idx, options, env, self) {
@@ -123,8 +123,10 @@ module.exports = function (eleventyConfig) {
           }
         }
 
-        return defaultImageRule(tokens, idx, options, env, self);
+        return `</p>${defaultImageRule(tokens, idx, options, env, self)}<p>`;
       };
+
+      
 
       const defaultLinkRule =
         md.renderer.rules.link_open ||
@@ -150,7 +152,11 @@ module.exports = function (eleventyConfig) {
         return defaultLinkRule(tokens, idx, options, env, self);
       };
     })
-    .use(userMarkdownSetup);
+    .use(userMarkdownSetup)
+    .use(require('markdown-it-header-sections')); 
+
+  // Add the markdown-it-wrap plugin and configure it to wrap headings with <div> tags
+
 
   eleventyConfig.setLibrary("md", markdownLib);
 
@@ -187,7 +193,10 @@ module.exports = function (eleventyConfig) {
           if (frontMatter.data.permalink) {
             permalink = frontMatter.data.permalink;
           }
-          if (frontMatter.data.tags && frontMatter.data.tags.indexOf("gardenEntry") != -1) {
+          if (
+            frontMatter.data.tags &&
+            frontMatter.data.tags.indexOf("gardenEntry") != -1
+          ) {
             permalink = "/";
           }
           if (frontMatter.data.noteIcon) {
@@ -254,7 +263,7 @@ module.exports = function (eleventyConfig) {
         let calloutType = "";
         let isCollapsable;
         let isCollapsed;
-        const calloutMeta = /\[!([\w-]*)\](\+|\-){0,1}(\s?.*)/;;
+        const calloutMeta = /\[!([\w-]*)\](\+|\-){0,1}(\s?.*)/;
         if (!content.match(calloutMeta)) {
           continue;
         }
@@ -322,12 +331,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss, {
     posthtmlRenderOptions: {
       closingSingleTag: "slash",
-      singleTags: ["link"]
-    }  
+      singleTags: ["link"],
+    },
   });
 
-  eleventyConfig.addFilter("dateToZulu", function(date){
-    if(!date) return "";
+  eleventyConfig.addFilter("dateToZulu", function (date) {
+    if (!date) return "";
     return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
   });
   eleventyConfig.addFilter("jsonify", function (variable) {

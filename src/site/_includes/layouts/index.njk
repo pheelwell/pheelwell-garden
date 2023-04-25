@@ -24,10 +24,8 @@
       <main class="content cm-s-obsidian">
         <header>
         {% if settings.dgShowInlineTitle === true %}
-          <div></div>
           <h1>{{ noteTitle  }}</h1>
         {% endif %}
-
         <div class="header-meta">
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
@@ -61,7 +59,6 @@
         {% for imp in dynamics.index.afterContent %}
           {% include imp %}
         {% endfor %}
-
       </main>
     </div>
     <div class="footer">
