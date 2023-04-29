@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"2023-01-25T02:26:53.466+01:00","updated":"2023-04-30T00:17:23.598+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"2023-01-25T02:26:53.466+01:00","updated":"2023-04-30T00:19:52.427+02:00"}
 ---
 
 
-> [!READ] *Whispers of the Basin*
-> As the sun dips behind the jagged peaks of the Ivagur Mountains, casting long shadows over the Basin, a lone traveler makes their way along a well-trodden road. The Silent River flows gently around the hill upon which Edschmied stands watch, its waters glinting like silver in the fading light. In this secluded and diverse region, countless stories and secrets are waiting to be uncovered by those brave enough to venture forth.
+As the sun dips behind the jagged peaks of the Ivagur Mountains, casting long shadows over the Basin, a lone traveler makes their way along a well-trodden road. The Silent River flows gently around the hill upon which Edschmied stands watch, its waters glinting like silver in the fading light. In this secluded and diverse region, countless stories and secrets are waiting to be uncovered by those brave enough to venture forth.
 
 Nestled within the formidable [[Ivagur Peaks\|Ivagur Peaks]], lies a mysterious and diverse region known as The Basin. Divided by the shimmering waters of the Silent River, this land offers adventurers endless opportunities for exploration and intrigue. At its heart lies Edschmied, perched atop a hill and surrounded by breathtaking landscapes that range from dry barrens in the northeast to dense forests in the southwest.
 
