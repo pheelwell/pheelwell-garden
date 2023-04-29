@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/finding-a-note-structure/","noteIcon":"","created":"2023-04-16T12:27:23.731+02:00","updated":"2023-04-16T14:22:14.075+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/finding-a-note-structure/","noteIcon":"","created":"2023-04-16T12:27:23.731+02:00","updated":"2023-04-30T00:20:23.093+02:00"}
 ---
 
 
@@ -48,56 +48,50 @@ Based on these reader needs, my  suggestion is dividing your note structure into
 Using this structure, let's create an example template for notes about NPCs:
 
 ```markdown
+*Prompt: Start with a flavor text (for example a simple scene) that hooks in the reader, give a abstract impression of the characters essence (don't reveal secrets, don't simply describe, be creative and abstract)*
 
-## Introduction
-*Prompt: Write a engaging introduction about the NPC.*
-
+# Sumary
+*Prompt: Write a engaging introduction about the NPC. *
+ 
 Role in Campaign: 
 *Prompt: describe how the NPC fits in the campain and how it propells the story.*
-
 > [!TIP] Quick Refference
 > ![Placeholder.png| 300](/img/user/resources/Pictures/Placeholder.png) 
 > **Insert Name** _Race Class_ 
 >  One sentence description
->- **Motivation**: in, single, keywords
->- **Ideals**: in, single, keywords
->- **Bonds**: in, single, keywords
->- **Flaws**: in, single, keywords
-> ----
->- **Roleplaying Tips**: Things to be reminded while roleplaying
->-  **Quirk**: something memorable
-
-## Lore
-### Backstory
+>- **Primary goals**: in, single, keywords
+>- **Relations**: in, single, keywords
+>- **Secret Knowledge**: in, single, keywords
+> ___
+>- **Personality Traits**: in, single, keywords
+>- **Quirk**: something memorable
+>- **Roleplaying**: Things to be reminded while roleplaying
+# Lore
+## Backstory
 *Prompt: Write a text about the background information.*
-
-### Relations
+## Relations
 *Prompt: Describe The NPC's relationships with other characters or factions in a list.*
-
-### Prompt: Other Interesting Aspects (replace with fitting Headings )
+## Prompt: Other Interesting Aspects (replace with fitting Headings )
 *Prompt: Maybe the NPC has other aspects that are important to highlight. (at least add one)*
-
-## Roleplaying
-### Appearance
+# Roleplaying
+## Appearance
 *Prompt: Describe The NPC's physical appearance and mannerisms.*
-
-### Roleplaying Guide
+## Roleplaying Guide
 *Prompt:Offer a guide to the most important aspects about roleplaying the NPC.*
-
-#### Ideals
-*Prompt: Write one or two paragraphs about the Ideals of the NPC and how to show them to the PCs*
-
-#### Bonds
-*Prompt: Write one or two paragraphs about the Bonds of the NPC and how to show them to the PCs*
-
-#### Flaws
-*Prompt: Write one or two paragraphs about the Flaws of the NPC and how to show them to the PCs*
-
-#### Quirks
+## Personality Traits
+*Prompt: write about the personality and traits of the Character*
+*Prompt: Write at least two paragraphs about the Ideals,Bonds and Flaws of the NPC and how to show them to the PCs*
+# Goals and Motivations
+*Prompt: Write at least two paragraphs about the Bonds of the NPC and how to show them to the PCs*
+### Quirks
 *Mention a memorable trait that sets them apart from others.*
+# Trivia
+*Prompt: Put a List of things here that didn't fit into the above sections and might not be as important*
 
-## Trivia
-*Prompt: Put a List of things here that didn't fit into the above sections and might not be as important*  
+# Summary
+- in bulletpoints about the character
+- include everything except the roleplaying Guide
+- keep the information compact and use few words
 ```
 
 With this structure in place, you'll be able to create informative and engaging notes for your adventure module while ensuring that readers can quickly find the information they need.
