@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/the-turnback-ritual-arc/the-turnback-ritual-arc/","title":"Final Sacrifice","noteIcon":"Arc","created":"2023-01-25T02:26:52.978+01:00","updated":"2023-04-14T20:28:27.119+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/the-turnback-ritual-arc/the-turnback-ritual-arc/","title":"Final Sacrifice","noteIcon":"Arc","created":"2023-01-25T02:26:52.978+01:00","updated":"2023-04-21T21:50:10.359+02:00"}
 ---
 
 
