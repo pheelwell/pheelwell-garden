@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/jamoke/","noteIcon":"NPC","created":"2023-01-25T02:26:54.377+01:00","updated":"2023-04-16T21:20:48.734+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/player-characters/jamoke/","noteIcon":"NPC","created":"2023-01-25T02:26:54.377+01:00","updated":"2023-04-16T21:50:22.298+02:00"}
 ---
 
 This Rogue was born as the son of a High Voodoo Priest of his tribe in the Isles. He was always fascinated by Surviving in the Wild and Hunting. He always felt pressured of his legacy, to step in the shoes of his father, who was the main devotee of the Loa of death. This led to him having a strained relationship with his family. When he was of age, he left his tribe and home in search of adventure.
@@ -30,17 +30,17 @@ Jamoke's goal is to save his sister from [[Promises of Victory/Worldbuilding/Fac
 - Jamokes Rival gave him information that he can get more information at the Horde Camps
 
 
-# Seperation
+# Generated
 
-A hooded figure crouches in the shadows, tracking his prey. This is Jamoke, a skilled rogue who has dedicated his life to finding his missing sister and stopping the Shaddowhammer cult from achieving their dark goals.
+A hooded figure crouches in the shadows, tracking his prey. This is Jamoke, a skilled rogue who has dedicated his life to finding his missing sister and stopping [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] cult from achieving their dark goals.
 
-Jamoke was born as the son of a High Voodoo Priest in his tribe of the Isles, where he was fascinated by surviving in the wild and hunting. Feeling pressured to follow in his father's footsteps, Jamoke left his tribe and home behind to seek adventure. His journey led him to The Basin, where he worked as a hunter and skinner before joining a group of adventurers. Unfortunately, an old rival framed him for his father's death, causing Jamoke to leave the group and become distrusted by his tribe. It was during this time that he learned that his sister, Jaloren, had gone missing. The loa of death revealed her involvement with the Shaddowhammer cult's rituals. Believing Jaloren was being mind-controlled by the cult, Jamoke has been searching for her ever since.
+Jamoke was born as the son of a High Voodoo Priest in his tribe of the Isles, where he was fascinated by surviving in the wild and hunting. Feeling pressured to follow in his father's footsteps, Jamoke left his tribe and home behind to seek adventure. His journey led him to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], where he worked as a hunter and skinner before joining a group of adventurers. Unfortunately, an old rival framed him for his father's death, causing Jamoke to leave the group and become distrusted by his tribe. It was during this time that he learned that his sister, [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]], had gone missing. The loa of death revealed her involvement with [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] cult's rituals. Believing [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] was being mind-controlled by the cult, Jamoke has been searching for her ever since.
 
 
 > [!TIP] Quick Reference
 > ![WhatsApp Image 2020-01-15 at 22.27.33.jpeg| 300](/img/user/resources/Pictures/WhatsApp%20Image%202020-01-15%20at%2022.27.33.jpeg) 
-> **Jamoke** _Race Rogue (Shadow Hunter Subclass)_ 
-> Skilled rogue on a quest to save his sister and stop Shaddowhammer.
+> **Jamoke** _Race Rogue ([[Promises of Victory/Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] Subclass)_ 
+> Skilled rogue on a quest to save his sister and stop [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]].
 >- **Motivation**: Save Sister, Stop Cult
 >- **Ideals**: Honor, Determination
 >- **Bonds**: Sister, Tribe
@@ -51,46 +51,45 @@ Jamoke was born as the son of a High Voodoo Priest in his tribe of the Isles, wh
 
 
 ## Role in Campaign:
-Jamoke's goal is to save Jaloren from the Shaddowhammer cult by convincing her that they are using her for their own nefarious purposes. As a Shadow Hunter subclass character, he has some secrets related to his sister and her involvement with the cult. Clues to her whereabouts include a gemstone left by Jaloren that can be used for tracking her down, reconnecting with the Loas for guidance on her location, and seeking information from Horde Camps as suggested by Jamoke's rival.
+Jamoke's goal is to save [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] from [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] cult by convincing her that they are using her for their own nefarious purposes. As a [[Promises of Victory/Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] subclass character, he has some secrets related to his sister and her involvement with the cult. Clues to her whereabouts include a gemstone left by [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] that can be used for tracking her down, reconnecting with the Loas for guidance on her location, and seeking information from Horde Camps as suggested by Jamoke's rival.
 
 ## Lore
 ### Backstory
-Born as the son of a High Voodoo Priest in his tribe in the Isles, Jamoke was fascinated by surviving in the wild and hunting. He left his tribe and home to seek adventure and eventually found himself in The Basin. After working as a hunter and skinner, he joined a group of adventurers but was framed for his father's death by an old rival. He has been searching for his sister Jaloren ever since.
+Born as the son of a High Voodoo Priest in his tribe in the Isles, Jamoke was fascinated by surviving in the wild and hunting. He left his tribe and home to seek adventure and eventually found himself in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. 
+
+Jamoke's strained relationship with his family stemmed from the pressure he felt to follow in his father's footsteps as a High Voodoo Priest and devotee of the Loa of death. This pressure pushed him to leave his tribe and home in search of adventure, eventually leading him to [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]].
+
+After working as a hunter and skinner, he joined a group of adventurers but was framed for his father's death by an old rival. He has been searching for his sister [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] ever since.
+While Jamoke managed to clear his name after being framed for his father's death, the distrust from his tribe remains, making it difficult for him to seek their help in finding [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] and stopping [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] cult.
+
 
 ### Relations
-- Sister: Jaloren (missing, involved with Shaddowhammer cult)
-- Father: High Voodoo Priest (deceased)
+- Sister: [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] (missing, involved with [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] cult)
+- Father: High Voodoo Priest (deceased, main devotee of the Loa of death)
 - Old Rival: Framed Jamoke for father's death
-
-### Secrets
-> [!secret]- Jamoke
-> - Jamoke is actually a prince, but he does not reveal this to others.
-
-> [!secret]- Jaloren 
->- Jaloren willingly joined the Shaddowhammer cult after being brainwashed and killed their father.
->- Jaloren is planning to use the cult's ritual to resurrect their father.
-
 
 ## Roleplaying
 ### Appearance
 Jamoke is a tall, muscular figure with dark skin and piercing eyes. He constantly wears a hooded cloak to conceal his face and carries an assortment of weapons at his side. His movements are fluid and silent, like that of a predator stalking its prey.
 
 ### Roleplaying Guide
-When roleplaying Jamoke, focus on his determination to save Jaloren while maintaining an air of mystery about his true identity. Keep conversations centered around the Shaddowhammer cult or clues related to finding Jaloren.
+When roleplaying Jamoke, focus on his determination to save [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] while maintaining an air of mystery about his true identity. Keep conversations centered around [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] cult or clues related to finding [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]].
+Also keep in mind his difficult relationship with his family and tribe due to the pressure he felt growing up. This can inform some of his choices, especially when it comes to decisions that have a direct impact on his tribe or reconnecting with the Loas for guidance on locating [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]].
+As Jamoke is secretly a prince, he may occasionally display knowledge or skills that would be unusual for someone of his rogue background. This could lead to suspicion or curiosity from other characters if not carefully concealed.
 
 #### Ideals
-Jamoke values honor and determination above all else. He will stop at nothing to save his sister and stop the Shaddowhammer cult, even if it means risking his own life. Show these ideals through his actions and decisions throughout the campaign.
+Jamoke values honor and determination above all else. He will stop at nothing to save his sister and stop [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|the Shaddowhammer]] cult, even if it means risking his own life. Show these ideals through his actions and decisions throughout the campaign.
 
 #### Bonds
-Jamoke's strongest bond is with his sister Jaloren, whom he is determined to save. Emphasize this bond by having him constantly search for clues or information about her whereabouts. His tribal heritage is also important to him, although he feels disconnected from them due to the distrust they have for him.
+Jamoke's strongest bond is with his sister [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]], whom he is determined to save. Emphasize this bond by having him constantly search for clues or information about her whereabouts. His tribal heritage is also important to him, although he feels disconnected from them due to the distrust they have for him.
 
 #### Flaws
-Jamoke's obsessive nature can be both a strength and a weakness. He may become tunnel-visioned in his pursuit of Jaloren, leading him to make rash decisions or overlook important details. Additionally, as a distrusted figure in his tribe, he may struggle to gain their support in his mission.
+Jamoke's obsessive nature can be both a strength and a weakness. He may become tunnel-visioned in his pursuit of [[Promises of Victory/Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]], leading him to make rash decisions or overlook important details. Additionally, as a distrusted figure in his tribe, he may struggle to gain their support in his mission.
 
 #### Quirks
 A memorable trait of Jamoke is his insistence on always wearing a hooded cloak to conceal his face. This can make him appear mysterious and enigmatic while also hinting at the secrets he keeps hidden beneath the surface.
 
 ## Trivia
 - Jamoke has a collection of trinkets and talismans related to hunting and tracking.
-- He is skilled at skinning animals and collecting hides, which he learned during his time in The Basin.
+- He is skilled at skinning animals and collecting hides, which he learned during his time in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]].
 - Despite leaving his tribe behind, Jamoke still holds onto some of their traditions and customs, incorporating them into his daily life.
