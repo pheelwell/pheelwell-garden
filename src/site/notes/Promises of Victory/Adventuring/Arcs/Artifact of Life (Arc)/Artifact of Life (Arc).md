@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/artifact-of-life-arc/artifact-of-life-arc/","title":"Artifact of Life","noteIcon":"Arc","created":"2023-01-25T02:26:52.963+01:00","updated":"2023-04-13T23:58:38.027+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/artifact-of-life-arc/artifact-of-life-arc/","title":"Artifact of Life","noteIcon":"Arc","created":"2023-01-25T02:26:52.963+01:00","updated":"2023-04-21T21:49:46.404+02:00"}
 ---
 
 ## Artifact of Life
