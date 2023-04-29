@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/artifact-of-light-arc/artifact-of-light-arc/","title":"Artifact of Light","noteIcon":"Arc","created":"2023-01-25T02:26:52.971+01:00","updated":"2023-04-13T23:54:43.727+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/artifact-of-light-arc/artifact-of-light-arc/","title":"Artifact of Light","noteIcon":"Arc","created":"2023-01-25T02:26:52.971+01:00","updated":"2023-04-21T22:16:10.408+02:00"}
 ---
 
 ## Artifact of Light
@@ -18,9 +18,19 @@ The players **plan a heist** on the cathedral of Lichachte to **claim [[Promises
 - Artifact is secretly stored in [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] in the Cathedral of light
 - Artifact is carried to [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]] to Hatch a Dragon Egg. (Together with Heart of Forrest + Lesser Chaos magic, no titan no death) This Ritual is a Theory by [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|the Gifted]] this will not work
 - [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|Lost Hops]] in [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] roll a recruitment test and want the party to Rob the artifact vault
-- [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] Already have a powerfull [[Promises of Victory/Adventuring/Arcs/Artifact of Light (Arc)/Artifact of Light (Arc)\|Artifact of Light (Arc)]], Stolen by Volair 
+- [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] Already have a powerful [[Promises of Victory/Adventuring/Arcs/Artifact of Light (Arc)/Artifact of Light (Arc)\|Artifact of Light (Arc)]], Stolen by Volar 
 
 
 # [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Light\|Forge of Light]]
 Excavation in [[Promises of Victory/Worldbuilding/Regions/Todo/Mines of Torrar\|Mines of Torrar]]
 [[Promises of Victory/Adventuring/Arcs/Artifact of Light (Arc)/Artifact of Light (Arc)\|Artifact of Light (Arc)]]
+
+
+
+
+I am writing a DnD Adventure.
+I want to structure my campain with Arcs Plots and Scenes.
+What should I add in the description of the Arc?
+give a Template Outline for a markdown description of a adventure Arc.
+
+https://5e.tools/adventure.html#kftgv,0,rival%20crew%20motivations,0
