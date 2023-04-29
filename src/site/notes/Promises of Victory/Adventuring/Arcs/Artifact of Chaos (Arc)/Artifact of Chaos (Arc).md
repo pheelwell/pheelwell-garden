@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/artifact-of-chaos-arc/artifact-of-chaos-arc/","title":"Artifact of Chaos","noteIcon":"Arc","created":"2023-01-25T02:26:52.955+01:00","updated":"2023-04-13T23:49:53.279+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/arcs/artifact-of-chaos-arc/artifact-of-chaos-arc/","title":"Artifact of Chaos","noteIcon":"Arc","created":"2023-01-25T02:26:52.955+01:00","updated":"2023-04-21T21:49:30.989+02:00"}
 ---
 
 ## Artifact of Chaos (Arc)
