@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/darkspear-trolls/jaloren/","noteIcon":"NPC","created":"2023-03-26T22:52:14.121+02:00","updated":"2023-03-29T21:20:49.288+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/darkspear-trolls/jaloren/","noteIcon":"NPC","created":"2023-03-26T22:52:14.121+02:00","updated":"2023-04-17T20:11:22.494+02:00"}
 ---
 
 Jaloren is a princess from the  [[Promises of Victory/Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]], known for her beauty and intelligence. She is the sister of [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]], a warrior who has been searching for her ever since she went missing under mysterious circumstances. Unknown to [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]], Jaloren has become a member of the Rituals of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]], a dark cult that uses powerful magic to manipulate and control others.
@@ -9,3 +9,9 @@ The Cult of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shadd
 As part of her duties within the cult, Jaloren was responsible for assassinating her own father when he came close to uncovering their activities. Consumed by guilt and manipulated by the cult's promises, she now seeks to use their dark magic to resurrect him.
 
 In order to find and save his sister, [[Promises of Victory/Adventuring/Player Characters/Jamoke\|Jamoke]] has been using a gemstone that Jaloren left behind as a means of tracking her location.
+
+> [!secret]- Jaloren 
+>- Jaloren willingly joined the Shaddowhammer cult after being brainwashed and killed their father.
+>- Jaloren is planning to use the cult's ritual to resurrect their father.
+>- One of the Cult members unknowingly modified Jaloren's memory to let her see a mass resurrection.
+>- The Cult uses Jaloren to gather the Soul Energy of Victims for their Ritual.
