@@ -1,6 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"2023-01-25T02:26:53.466+01:00","updated":"2023-03-30T22:55:01.504+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"2023-01-25T02:26:53.466+01:00","updated":"2023-04-30T00:17:23.598+02:00"}
 ---
+
+
+> [!READ] *Whispers of the Basin*
+> As the sun dips behind the jagged peaks of the Ivagur Mountains, casting long shadows over the Basin, a lone traveler makes their way along a well-trodden road. The Silent River flows gently around the hill upon which Edschmied stands watch, its waters glinting like silver in the fading light. In this secluded and diverse region, countless stories and secrets are waiting to be uncovered by those brave enough to venture forth.
+
+Nestled within the formidable [[Ivagur Peaks\|Ivagur Peaks]], lies a mysterious and diverse region known as The Basin. Divided by the shimmering waters of the Silent River, this land offers adventurers endless opportunities for exploration and intrigue. At its heart lies Edschmied, perched atop a hill and surrounded by breathtaking landscapes that range from dry barrens in the northeast to dense forests in the southwest.
+
+# Notable Settlements:
+- [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]: A central settlement built atop a hill overlooking The Basin.
+- [[Promises of Victory/Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]]: A city known as the capital of Defilers located in northwest.
+- [[Defiler's Den\|Defiler's Den]]: An infamous location situated in southeast where Silent River flows out of The Basin.
+- [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]]: A settlement residing north of Lichtachte.
+- [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]: An important western settlement that connects to Prosnen within Deep Forrest.
+
+
+> [!TIP] Quick Reference
+> - Region: The Basin
+> - Notable Settlements: Edschmied, Trollbans Hold, Defiler's Den, Maerhof, Lichtachte
+> - Features: Mines of Torrar, Herbstbog, Deep Forrest, Düsternest
+> - Climate: Oceanic with dry barrens in northeast and dense forest in southwest
+> - Politics: Independent settlements with trade relations
 
 
 ```leaflet
@@ -16,15 +37,31 @@ unit: days
 scale: 0.1
 ```
 
-[[Promises of Victory/Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]] north of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]]
-[[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]] lays north of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]
-[[Promises of Victory/Worldbuilding/Regions/Todo/🏰Prosnen/Prosnen\|Prosnen]] is in the [[Deep Forrest\|Deep Forrest]] and 1 day of travel away from  [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]]
-[[Promises of Victory/Worldbuilding/Regions/Todo/Faern\|Faern]] lays east to [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] and connects Lichtachte to the [[Promises of Victory/Worldbuilding/Regions/Silent River\|Silent River]] 
-  
 
-The Basin is a region of diversity and wonder, where mighty cities stand tall and small towns nestle in the valleys below. From this land has come courage, loyalty, and strength - powerful forces that bind together its people in times of great joy and sorrow. The Basin is a place to call home, and its inhabitants will never forget the courage they must show to protect it.
-The Basin is a vast region of rolling hills and verdant forests, stretching from the southern tip of the [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]] to the western reaches of [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]. Once, it was home to many thriving settlements and bustling cities, each with their own distinct culture. But now, all that remains are ruins and broken dreams. For five long years, a war has raged across The Basin, ravaging the land and claiming countless lives. The war began when the malicious [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] crossed into The Basin, driven by their dark ambition to seize control of the land. Led by their fearsome leader, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]], the Defilers marched across the region with an unquenchable thirst for destruction, leaving a trail of death and despair in their wake. In response, the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] gathered its forces to defend The Basin against these invaders, yet they were met with overwhelming strength.
+# Geography and Climate:
+The landscape of The Basin is predominantly composed of hills, meadows, and grasslands. With a mild climate that varies from oceanic near Edschmied to dry barrens in the northeast and dense forests dominating its southwest region. Travelers can follow two main land routes that run alongside either side of Silent River's split – providing access to notable locations throughout.
 
-Though many have perished in battle, a new hope has arisen. It is whispered that a lost artifact lies hidden somewhere in The Basin - an ancient talisman with powerful magics that could restore balance to The Basin and bring peace back to its people. Many brave adventurers have set out on a quest to find this relic and bring hope back to The Basin. But it remains to be seen whether they will succeed or fail - for the Defilers remain vigilant and ever-watchful, determined to keep their grip upon the land that is rightfully theirs.
+# Flora and Fauna:
+The forests within The Basin are home to a diverse range of flora and fauna. Deciduous and evergreen trees, such as oak and maple, create a lush canopy under which smaller plants and flowers thrive. The bark of these trees is rough and textured, providing a home for insects and small animals.
 
-In these times of darkness, only courage and faith will lead us through - for it is through courage that we will find peace in The Basin once more.  Let us remember the valiant heroes who have come before us and in their memory, seek to restore the balance that was once here. Let us hope, and trust in the power of courage and faith, that we may find a way to defeat evil in its own land.  But even more so, it is through faith that we may gain the strength and courage to keep going in our search for the lost talisman and return peace to The Basin.
+Deer are a common sight, often seen grazing in meadows or drinking from babbling brooks. Foxes are another prevalent species, known for their cunning and resourcefulness as they hunt for small rodents or scavenge for food. Other animals include squirrels, rabbits, badgers, while the skies are filled with birds of all kinds – from colorful songbirds to majestic birds of prey like eagles and hawks.
+
+In the deeper parts of the forest, more dangerous creatures lurk – presenting a challenge to even the most seasoned adventurers.
+
+# Culture and Religion:
+The Basin serves as a cultural melting pot due to its secluded nature. A large portion of its citizens are undead as a result of [[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]], with most residing in the southeast region. The main religion practiced here is the worship of [[Promises of Victory/Worldbuilding/Regions/Arathor\|Arathor]], but there has been a rise in popularity for [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] who follow [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
+
+# Politics and Economy:
+The politics within The Basin are mainly shaped by the ongoing war between the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] and the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]. Meanwhile, much of the economy is controlled by [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]. Edschmied is renowned for its weaponsmithing while Mines of Torrar provide an ample supply of valuable [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]].
+
+# History and Origin:
+For a comprehensive account on important regional historic events, reference the [[Promises of Victory/General/Historic Events\|Historic Events]] article. As for The Basin's origin itself – it is rumored that ancient forces or even gods themselves shaped this unique land by carving it out from surrounding areas.
+
+> [!seed] Seed: Adventure Hook
+> Delve into the mysteries of The Basin, uncovering secrets and hidden truths about its origins – all while navigating the dangerous terrain and encountering unique creatures that call this region home.
+
+> [!quote] Quote
+> "The secrets of The Basin are whispered like the wind through the trees, waiting for those who dare to listen."
+
+>[!secret]- 
+>Tunnels of the Basin: There is a hidden underground network connecting key locations throughout The Basin, known only to a select few.
