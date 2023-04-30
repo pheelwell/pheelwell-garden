@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-gifted/","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-15T21:49:13.271+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cult-of-the-gifted/the-gifted/","noteIcon":"Faction","created":"2023-01-25T02:26:53.897+01:00","updated":"2023-04-30T10:49:17.835+02:00"}
 ---
 
 
@@ -163,7 +163,7 @@ Edschmied is an underground city beneath Maerhof where the apparatus for the Tur
 
 ## Maerhof
 
-Maerhof is a bustling city in the Basin, serving as a hub for trade, commerce, and religion. The Gifted has established a strong presence here, attracting many followers and sympathizers.
+Maerhof is a bustling city in [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]], serving as a hub for trade, commerce, and religion. The Gifted has established a strong presence here, attracting many followers and sympathizers.
 
 > [!description] Description
 > Maerhof is a lively city with diverse architecture reflecting its history and various inhabitants. Temples to numerous gods stand alongside marketplaces and homes, while secret meetings of The Gifted occur in hidden corners and quiet alleys.
