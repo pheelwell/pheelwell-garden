@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-16T13:01:14.162+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-30T10:49:16.941+02:00"}
 ---
 
 
@@ -54,7 +54,7 @@ Despair is another ideal that drives the Fulfiller's actions. She revels in the 
 
 #### Bonds
 
-Naruun is a significant bond for the Fulfiller due to their shared love for feeding on bad emotions. Sympathizing with his plight as an imprisoned god, she has worked tirelessly towards his release by manipulating various factions within The Basin. By freeing Naruun, the Fulfiller hopes to create even more despair and chaos that she can feed on while also forming a powerful alliance with a god who shares her twisted ideals.
+Naruun is a significant bond for the Fulfiller due to their shared love for feeding on bad emotions. Sympathizing with his plight as an imprisoned god, she has worked tirelessly towards his release by manipulating various factions within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. By freeing Naruun, the Fulfiller hopes to create even more despair and chaos that she can feed on while also forming a powerful alliance with a god who shares her twisted ideals.
 
 #### Flaws
 
