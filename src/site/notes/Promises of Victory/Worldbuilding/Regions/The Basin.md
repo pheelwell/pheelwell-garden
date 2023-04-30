@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"2023-01-25T02:26:53.466+01:00","updated":"2023-04-30T00:19:52.427+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/the-basin/","title":"The Basin","hideInGraph":true,"noteIcon":"Region","created":"2023-01-25T02:26:53.466+01:00","updated":"2023-04-30T10:48:13.209+02:00"}
 ---
 
 
 As the sun dips behind the jagged peaks of the Ivagur Mountains, casting long shadows over the Basin, a lone traveler makes their way along a well-trodden road. The Silent River flows gently around the hill upon which Edschmied stands watch, its waters glinting like silver in the fading light. In this secluded and diverse region, countless stories and secrets are waiting to be uncovered by those brave enough to venture forth.
 
 Nestled within the formidable [[Ivagur Peaks\|Ivagur Peaks]], lies a mysterious and diverse region known as The Basin. Divided by the shimmering waters of the Silent River, this land offers adventurers endless opportunities for exploration and intrigue. At its heart lies Edschmied, perched atop a hill and surrounded by breathtaking landscapes that range from dry barrens in the northeast to dense forests in the southwest.
-
+![Pasted image 20230430104811.png](/img/user/Pasted%20image%2020230430104811.png)
 # Notable Settlements:
 - [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]: A central settlement built atop a hill overlooking The Basin.
 - [[Promises of Victory/Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]]: A city known as the capital of Defilers located in northwest.
