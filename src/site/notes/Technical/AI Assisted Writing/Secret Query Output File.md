@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/secret-query-output-file/","noteIcon":"Technical","created":"2023-04-10T23:10:08.220+02:00","updated":"2023-04-13T23:58:38.011+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/secret-query-output-file/","noteIcon":"Technical","created":"2023-04-10T23:10:08.220+02:00","updated":"2023-04-30T10:49:13.172+02:00"}
 ---
 
 [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin.md]]
@@ -21,7 +21,7 @@ scale: 0.1
 [[Promises of Victory/Worldbuilding/Regions/Todo/Faern\|Faern]] lays east to [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] and connects Lichtachte to the [[Promises of Victory/Worldbuilding/Regions/Silent River\|Silent River]] 
 
 
-The Basin is a region of diversity and wonder, where mighty cities stand tall and small towns nestle in the valleys below. From this land has come courage, loyalty, and strength - powerful forces that bind together its people in times of great joy and sorrow. The Basin is a place to call home, and its inhabitants will never forget the courage they must show to protect it.
+[[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] is a region of diversity and wonder, where mighty cities stand tall and small towns nestle in the valleys below. From this land has come courage, loyalty, and strength - powerful forces that bind together its people in times of great joy and sorrow. [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] is a place to call home, and its inhabitants will never forget the courage they must show to protect it.
 The Basin is a vast region of rolling hills and verdant forests, stretching from the southern tip of the [[Promises of Victory/Worldbuilding/Regions/🏰Herbstbog/Herbstbog\|Herbstbog]] to the western reaches of [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]. Once, it was home to many thriving settlements and bustling cities, each with their own distinct culture. But now, all that remains are ruins and broken dreams. For five long years, a war has raged across The Basin, ravaging the land and claiming countless lives. The war began when the malicious [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] crossed into The Basin, driven by their dark ambition to seize control of the land. Led by their fearsome leader, [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]], the Defilers marched across the region with an unquenchable thirst for destruction, leaving a trail of death and despair in their wake. In response, the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] gathered its forces to defend The Basin against these invaders, yet they were met with overwhelming strength.
 
 
