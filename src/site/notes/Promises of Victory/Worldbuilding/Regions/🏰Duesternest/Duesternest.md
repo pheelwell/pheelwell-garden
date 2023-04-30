@@ -17,7 +17,7 @@ The city is ruled by a Lord, with a small council of artisans to advise him. The
 The Lord of [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] is [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]], who is a fair and just ruler. He is known for being very supportive of the arts, and for his love of good food and drink.
 
 ### Look and feel
-Describe Düsternests connection to [[2. Worldbuilding/2. Regions/🏰Falk/Falk\|Falk]]: 
+Describe Düsternests connection to [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]: 
 
 ### Citizens
 
