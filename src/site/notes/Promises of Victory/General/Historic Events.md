@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/general/historic-events/","title":"Historic Events","noteIcon":"History","created":"2023-01-25T02:26:52.759+01:00","updated":"2023-04-07T13:25:40.008+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/general/historic-events/","title":"Historic Events","noteIcon":"History","created":"2023-01-25T02:26:52.759+01:00","updated":"2023-04-30T10:49:04.945+02:00"}
 ---
 
 
@@ -204,10 +204,10 @@ In the year 3039, the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defi
 # Naruun Related History
 While the war is going on, [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] , [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] , [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] and [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] also have a History:
 Ancient Events: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] was sealed away by forces of nature
-Year 3012: Naruun influence rises in the Basin
+Year 3012: Naruun influence rises in [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]
 Year 3024: [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] is founded
 Year 3031: [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] is formed by cult leader Volar
-Year 3038: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] arrives in the Basin, spreading its influence 
+Year 3038: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] arrives in [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]], spreading its influence 
 
 # Volars History
 [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]s History: 
