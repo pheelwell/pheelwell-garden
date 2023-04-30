@@ -43,7 +43,7 @@ Characters have intermingled Backstorys:
 - The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]] where they learn about [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[Promises of Victory/Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 
 ## Chapter 3: The [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
-- The party stops at [[2. Worldbuilding/2. Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]], and he tells the party to keep it safe, since it is a powerful artifact
+- The party stops at [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] to deliver a package to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Dr Phalando\|Dr Phalando]] who refuses to take it. The item seems to be the [[Promises of Victory/Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]], and he tells the party to keep it safe, since it is a powerful artifact
 
 ## Chapter 4: Conflict at [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills
 - The Party visits the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills where they notice local woodworkers getting attacked by elves using sleep spells
@@ -74,7 +74,7 @@ Characters have intermingled Backstorys:
 - The party gets robbed by [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Daughters (burglars crew)\|The Daughters (burglars crew)]] and are abducted to [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] Headquarters. 
 - [[Promises of Victory/Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] invite them to a competition of robbing the Cathedral of [[Promises of Victory/Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] 
 
-## Chapter 10: [[2. Worldbuilding/2. Regions/🏰Falk/Falk\|Falk]] Ambush
+## Chapter 10: [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]] Ambush
 - The party travels further to [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] Lumbermills and takes a rest halfway in the forest
 - They get ambushed by the same abominations that mind controlled them back in [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]]
 
