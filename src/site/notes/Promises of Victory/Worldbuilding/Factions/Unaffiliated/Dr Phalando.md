@@ -29,7 +29,7 @@ Throughout his life, Dr. Phalando has dedicated himself to studying arcane lore 
 Dr. Phalando's relationships are shaped by his secret and his pursuits. His connections include:
 - [[Promises of Victory/Worldbuilding/Factions/DEHTA/Broll Bearmantle\|Broll Bearmantle]]: An old friend who knows about Dr. Phalando's secret and shares a mutual respect for each other's knowledge and abilities.
 - [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Gargula\|Gargula]]: A quirky old lady who sells magical trinkets in Falk, with whom Dr. Phalando has fallen deeply in love.
-- Townsfolk of [[2. Worldbuilding/2. Regions/🏰Falk/Falk\|Falk]]: Generally well-regarded by Falk's residents, they appreciate his intelligence and assistance, despite not fully understanding his eccentric behavior or secretive nature.
+- Townsfolk of [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]: Generally well-regarded by Falk's residents, they appreciate his intelligence and assistance, despite not fully understanding his eccentric behavior or secretive nature.
 - [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]: The undead faction of Falk is aware of Dr. Phalando but remains uninvolved with him directly, although this could change if the Forge of Chaos secret is revealed.
 
 ### Secret Investigation
