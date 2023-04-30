@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/edschmied/edschmied/","title":"Edschmied","noteIcon":"Settlement","created":"2023-01-25T02:26:53.718+01:00","updated":"2023-03-29T21:36:38.138+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/edschmied/edschmied/","title":"Edschmied","noteIcon":"Settlement","created":"2023-01-25T02:26:53.718+01:00","updated":"2023-04-30T12:06:31.786+02:00"}
 ---
 
 
@@ -28,11 +28,4 @@ Most prominent are the smithing guilds of the [[Promises of Victory/Worldbuildin
 ### History
 
 Echschmied was founded by the dwarf guilds. They created a safe haven for other dwarfs that were persecuted. The city quickly grew in size and became a important center for craftmansship.
-
-### Secrets
-
-
-
-- [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Adventuring in Edschmied\|Adventuring in Edschmied]]
-
 
