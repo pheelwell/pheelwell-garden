@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-10T21:49:19.897+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-30T10:49:03.196+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@ The [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] a
 
 Under [[Promises of Victory/Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]'s command, the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have built a reputation for their tenacity and unyielding pursuit of their goals. Her most controversial invention was "[[Promises of Victory/Worldbuilding/Things/The Plague\|The Plague]]," which she used to create many undead after an [[Promises of Victory/Worldbuilding/Historic Events/War/Attack on Lichtachte\|attack on Lichtachte]]. Despite their fearsome appearance and actions, the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] are not without reason. They believe that they deserve a place in the world just as much as any other being, regardless of their current state.
 
-The Defilers face opposition from various factions across the Basin, particularly from the League of Arathor led by High Paladin Erathenar. Determined to defend life and uphold justice, the League sees the Defilers as a threat to everything they stand for. This ideological clash leads to numerous conflicts between these two factions.
+The Defilers face opposition from various factions across [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]], particularly from the League of Arathor led by High Paladin Erathenar. Determined to defend life and uphold justice, the League sees the Defilers as a threat to everything they stand for. This ideological clash leads to numerous conflicts between these two factions.
 
 As ruthless as they may appear, it is important to remember that many members of the Defiler faction are individuals who have suffered persecution or tragedy in their past lives. Some may even be seeking redemption or a chance at a new existence free from judgment and discrimination.
 
@@ -22,11 +22,11 @@ As ruthless as they may appear, it is important to remember that many members of
 
 ![Pasted image 20230409210637.png|center](/img/user/resources/Pictures/Pasted%20image%2020230409210637.png)
 > [!quote] Quote
-> "In the name of justice and honor, we stand against the darkness and defend the innocent. Our actions define us, and our unwavering faith guides us. We are the shield that guards the Basin." - High Paladin Erathenar
+> "In the name of justice and honor, we stand against the darkness and defend the innocent. Our actions define us, and our unwavering faith guides us. We are the shield that guards [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]." - High Paladin Erathenar
 
 The League of Arathor is a coalition of humans, elves, and dwarves united in their fight against evil forces such as the Defilers. Led by High Paladin Erathenar from Trollbans Hold, they have earned respect throughout Lichtachte and beyond for their bravery, righteousness, and devotion to protecting life.
 
-Comprised primarily of paladins and archers, along with some dwarven warriors, members of the League follow a strict code known as the Codex. This code dictates that they must defend life at all costs while upholding justice across the Basin. Because of their fierce dedication to these principles, they often come into conflict with factions like General Malachi's Defilers.
+Comprised primarily of paladins and archers, along with some dwarven warriors, members of the League follow a strict code known as the Codex. This code dictates that they must defend life at all costs while upholding justice across [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]. Because of their fierce dedication to these principles, they often come into conflict with factions like General Malachi's Defilers.
 
 While some may view the League as overly zealous or rigid in their beliefs, there is no denying their effectiveness in combatting dark forces. They are well-trained and disciplined fighters who have endured countless battles against undead foes and other evil creatures.
  
@@ -48,11 +48,11 @@ The Shaddowhammer is a secretive and dangerous cult with sinister motives. Led b
 
 Based in the shadowy city of Shadowspire located above Naruun's prison, they perform dark rituals and sacrifices to please their malevolent deity. Their ultimate goal is to free Naruun from his prison so he can spread his influence across the world.
 
-To achieve this end, they have developed a magical bomb capable of causing widespread destruction as a means to offer a massive sacrifice to their god. This act threatens not only countless innocent lives but also risks unleashing an ancient evil upon the Basin.
+To achieve this end, they have developed a magical bomb capable of causing widespread destruction as a means to offer a massive sacrifice to their god. This act threatens not only countless innocent lives but also risks unleashing an ancient evil upon [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]].
 
 Many members of The Shaddowhammer are lost souls searching for purpose or seeking revenge on those who have wronged them. They believe that through serving Naruun, they will be rewarded with eternal life or granted other desires such as bringing back lost loved ones from death.
 
-> [!seed] Adventure Hook: The party uncovers information about a plot by The Shaddowhammer to unleash their devastating magical bomb on a major city in the Basin. They must race against time to infiltrate Shadowspire and prevent this catastrophe from occurring while battling fanatical cultists along the way.
+> [!seed] Adventure Hook: The party uncovers information about a plot by The Shaddowhammer to unleash their devastating magical bomb on a major city in [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]. They must race against time to infiltrate Shadowspire and prevent this catastrophe from occurring while battling fanatical cultists along the way.
 
 ## The Gifted
 
@@ -62,11 +62,11 @@ Many members of The Shaddowhammer are lost souls searching for purpose or seekin
 > [!quote] Quote
 > "Naruun offers us solace in our darkest moments and hope for a brighter future. Through our sacrifices, we prove our devotion, and in turn, we are granted the power to shape our destinies." - Unknown Commoner
 
-The Cult of the Gifted is a group of individuals who worship Naruun. Many of its members have experienced great loss or tragedy in their lives and seek solace through their faith in Naruun. The cult has been gaining power as more people join their ranks, and they have dispatched preachers throughout the Basin to spread their message.
+The Cult of the Gifted is a group of individuals who worship Naruun. Many of its members have experienced great loss or tragedy in their lives and seek solace through their faith in Naruun. The cult has been gaining power as more people join their ranks, and they have dispatched preachers throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] to spread their message.
 
 Cult acolytes wear bright white robes with purple stitching as a symbol of their devotion. Their magic often resembles dust and exhibits moth-like behavior. The Cult of the Gifted believes that by sacrificing innocents or offering valuable possessions to Naruun, they will be rewarded with eternal life, supernatural powers, or even the resurrection of lost loved ones.
 
-Their ultimate goal is to please Naruun enough for him to fulfill their wishes and grant them power over life and death. As their influence spreads and more people are drawn into their web of deception, the danger they pose to the Basin grows ever greater.
+Their ultimate goal is to please Naruun enough for him to fulfill their wishes and grant them power over life and death. As their influence spreads and more people are drawn into their web of deception, the danger they pose to [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] grows ever greater.
 
 > [!seed] Adventure Hook: A close friend or family member of one of the party members has gone missing after attending a meeting held by The Cult of the Gifted. The party must investigate this disappearance and uncover the dark secrets hidden within this seemingly benevolent organization.
 
@@ -92,7 +92,7 @@ The Moonfair is a unique carnival run by misfits, orphans, and outcasts who have
 
 The Moonfair's financial dealings are managed by a group of gremlins who keep track of gifts given to the market. The fair currently owes the gremlins an ever-increasing debt of 50388.3 gold, with a 5% increase every month.
 
-[[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]], a greedy goblin and former member of The Moonfair, travels the Basin as a con artist. He is determined to buy the fair for himself and exploit it for profit.
+[[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]], a greedy goblin and former member of The Moonfair, travels [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] as a con artist. He is determined to buy the fair for himself and exploit it for profit.
 
 >[!seed] Adventure Hook: While visiting The Moonfair, the party learns about its growing debt problem and must find a way to help save it from falling into [[Promises of Victory/Adventuring/Player Characters/Skelter\|Skelter]]'s greedy hands. They might search for treasure or take on high-paying jobs to raise funds or negotiate new terms with the gremlins.
 
@@ -106,7 +106,7 @@ The Moonfair's financial dealings are managed by a group of gremlins who keep tr
 
 The Triad is an enigmatic organization that operates from the shadows, seeking power and influence over others through manipulation and subterfuge. Led by Izen, their methods are as secretive as their true motives are unknown.
 
-While little is known about The Triad's ultimate goals or their reasons for seeking power, it's clear they have eyes everywhere across the Basin. They are known to employ spies and assassins in order to gather intelligence on potential threats or opportunities.
+While little is known about The Triad's ultimate goals or their reasons for seeking power, it's clear they have eyes everywhere across [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]. They are known to employ spies and assassins in order to gather intelligence on potential threats or opportunities.
 
 &gt; [!seed] Adventure Hook: The party discovers they've inadvertently become entangled in the machinations of The Triad. With their lives and reputations on the line, they must navigate a web of lies and intrigue to uncover the truth behind The Triad's plans and put an end to their schemes.
 
@@ -118,7 +118,7 @@ While little is known about The Triad's ultimate goals or their reasons for seek
 The LPF is a secret organization dedicated to researching paranormal phenomena, supernatural occurrences, and unexplained events. Its members are experts in various fields who work together using academic research to get behind the truth of their fields of interest.
 
 
-> [!seed] Adventure Hook: The party is contacted by a member of the LPF who believes they have stumbled upon evidence of a powerful supernatural force at work in the Basin. They must help the researcher investigate this phenomenon before it grows too powerful or dangerous to contain.
+> [!seed] Adventure Hook: The party is contacted by a member of the LPF who believes they have stumbled upon evidence of a powerful supernatural force at work in [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]. They must help the researcher investigate this phenomenon before it grows too powerful or dangerous to contain.
 
 ## Darkspear Trolls
 
