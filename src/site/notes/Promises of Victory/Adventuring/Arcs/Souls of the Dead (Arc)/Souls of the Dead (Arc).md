@@ -14,5 +14,5 @@ The player dip their toes into the border of the afterlife and investigate **the
 
 
 # [[Promises of Victory/Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]]
-Under Dr Phalandos House in [[2. Worldbuilding/2. Regions/🏰Falk/Falk\|Falk]]
+Under Dr Phalandos House in [[Promises of Victory/Worldbuilding/Regions/🏰Falk/Falk\|Falk]]
 [[Promises of Victory/Adventuring/Arcs/Artifact of Chaos (Arc)/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
