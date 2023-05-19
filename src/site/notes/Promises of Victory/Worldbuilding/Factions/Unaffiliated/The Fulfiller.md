@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-04-30T10:49:16.941+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/unaffiliated/the-fulfiller/","title":"The Fulfiller","noteIcon":"NPC","created":"2023-01-25T02:26:54.000+01:00","updated":"2023-05-12T20:10:36.311+02:00"}
 ---
 
 
 The Fulfiller is an old Hag who lived since before the imprisonment of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]]. She lives from feeding bad emotions, similar to [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]]. Since [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] the very existance and acting of [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|Naruun]] provided the Fulfiller with many dreams beeing shattered, she sympathises with the old god and wants to free him again, so that he can start feeding off of the bad emotions of people again.
 
 > [!TIP] Quick Reference
-> ![Pasted image 20230416120252.png|300](/img/user/Pasted%20image%2020230416120252.png)
+> ![Pasted image 20230416120252.png|300](/img/user/resources/Pictures/Pasted%20image%2020230416120252.png)
 > **The Fulfiller** _Ancient Hag_ 
 >  A manipulative hag who feeds off bad emotions and causes despair through false promises.
 >- **Motivation**: Feed on bad emotions, free [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]
@@ -44,7 +44,7 @@ When roleplaying as the Fulfiller, keep in mind that she is always looking for w
 #### Motivations
 The Fulfiller's primary motivation is to feed on the bad emotions and despair of others, which she achieves through making false promises and causing intense changes in fate. She relishes in people's suffering, using her keen understanding of their desires to manipulate them into making deals that will ultimately lead to their downfall. By causing these intense changes in fate, she not only feeds on the negative emotions but also increases her power and influence.
 
-Additionally, the Fulfiller seeks to free Naruun, an imprisoned old god who shares her love for feeding on bad emotions. Through her machinations, she has aligned herself with groups such as The Gifted and the Shaddowhammer Clan in pursuit of this goal. By releasing Naruun from his prison, she hopes to create even more despair and chaos for her own satisfaction while simultaneously gaining favor with a powerful ally.
+Additionally, the Fulfiller seeks to free Naruun, an imprisoned old god who shares her love for feeding on bad emotions. Through her machinations, she has aligned herself with groups such as The Gifted and the Shaddowhammer Clan in pursuit of this goal. By releasing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] from his prison, she hopes to create even more despair and chaos for her own satisfaction while simultaneously gaining favor with a powerful ally.
 
 #### Ideals
 
@@ -54,7 +54,7 @@ Despair is another ideal that drives the Fulfiller's actions. She revels in the 
 
 #### Bonds
 
-Naruun is a significant bond for the Fulfiller due to their shared love for feeding on bad emotions. Sympathizing with his plight as an imprisoned god, she has worked tirelessly towards his release by manipulating various factions within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. By freeing Naruun, the Fulfiller hopes to create even more despair and chaos that she can feed on while also forming a powerful alliance with a god who shares her twisted ideals.
+Naruun is a significant bond for the Fulfiller due to their shared love for feeding on bad emotions. Sympathizing with his plight as an imprisoned god, she has worked tirelessly towards his release by manipulating various factions within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. By freeing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], the Fulfiller hopes to create even more despair and chaos that she can feed on while also forming a powerful alliance with a god who shares her twisted ideals.
 
 #### Flaws
 
