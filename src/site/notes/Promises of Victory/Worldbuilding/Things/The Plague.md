@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/things/the-plague/","title":"The Plague","noteIcon":"Thing","created":"2023-01-25T02:26:53.325+01:00","updated":"2023-04-30T10:49:21.242+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/things/the-plague/","title":"The Plague","noteIcon":"Thing","created":"2023-01-25T02:26:53.325+01:00","updated":"2023-05-12T20:10:46.258+02:00"}
 ---
 
 
@@ -28,11 +28,11 @@ The energy from the virus then found the soul in its journey and reattached it t
 As the risen dead adjusted to being alive again, they felt confused and angry. They did not understand what had happened to them or why they were back in their bodies. It took weeks for them to regain their memories and for them to adjust to being alive again. 
 
 ### Memories Returned 
-Finally, after weeks of struggling with confusion and rage, the risen dead's memories began returning to them-- slowly at first but eventually coming back all at once in a rush of emotions and images from before death. With each memory returned came a newfound understanding of what had happened while they were away: Naruun's influence on Malachi's creation of The Plague; Malachi's exile from Lichtachte; The League of Arathor's view on undead; The great divide caused by The Plague throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]; Paladin [[Promises of Victory/Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]'s quest to protect life-- all came back as if no time had passed at all since before death.
+Finally, after weeks of struggling with confusion and rage, the risen dead's memories began returning to them-- slowly at first but eventually coming back all at once in a rush of emotions and images from before death. With each memory returned came a newfound understanding of what had happened while they were away: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s influence on Malachi's creation of The Plague; Malachi's exile from Lichtachte; The League of Arathor's view on undead; The great divide caused by The Plague throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]; Paladin [[Promises of Victory/Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]'s quest to protect life-- all came back as if no time had passed at all since before death.
 
 
 # Aftermath 
-The Plague had caused a great divide within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] as those who had been afflicted with its foulness were viewed by some as monsters or servants of Naruun himself. The League of Arathor saw them as threats that needed to be contained and eliminated for their own safety while those who sympathized with them wanted to give them a chance at redemption.
+The Plague had caused a great divide within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] as those who had been afflicted with its foulness were viewed by some as monsters or servants of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] himself. The League of Arathor saw them as threats that needed to be contained and eliminated for their own safety while those who sympathized with them wanted to give them a chance at redemption.
 
 The Paladin of Lichtachte took it upon themselves to protect people from further threats while researching potential cures or ways to contain what Malachi had unleashed on this world. Unfortunately, no cure was ever found in time and thus The Plague continued its rampage through [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] for centuries more until finally fading into legend or myth.
 
