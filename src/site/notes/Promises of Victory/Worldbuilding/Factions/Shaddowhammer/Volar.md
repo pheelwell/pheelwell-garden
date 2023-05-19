@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/volar/","title":"Volar","noteIcon":"NPC","created":"2023-01-25T02:26:54.260+01:00","updated":"2023-04-14T23:00:19.267+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/shaddowhammer/volar/","title":"Volar","noteIcon":"NPC","created":"2023-01-25T02:26:54.260+01:00","updated":"2023-05-12T20:10:49.102+02:00"}
 ---
 
 
@@ -47,7 +47,7 @@ Volar was once an honorable paladin but has now become desperate and obsessed wi
 Volar feels responsible for the death of his family and has sworn never to let anything like that happen again.
 
 ### Flaws
-Blinded by grief, Volar is easily deceived and manipulated by Naruun.
+Blinded by grief, Volar is easily deceived and manipulated by [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
 
 ### Quirk
 The gifts of Ilsensine have given Volar unique features such as purple tentacles for his lower face and tentacle-like clawed hands.
@@ -56,12 +56,12 @@ The gifts of Ilsensine have given Volar unique features such as purple tentacles
 When roleplaying Volar, emphasize his determination to resurrect his family at any cost, even if it means sacrificing others or crossing moral boundaries.
 
 ## Backstory
-Volar was once Tarwin Althammer, a great paladin who served in the ongoing war wielding Shaddowbane artifact armor. He had a wife in enemy territory whom he would visit during downtime. Tragically, their daughter was murdered; soon after, his wife died from heartbreak. Blaming himself for their deaths, Volar retired as General and started studying resurrection rituals. Naruun used Volar's grief to manipulate him into becoming a pawn for his own release. The Fulfiller planted evidence of the Turnback ritual, which Volar believed would restore his family and everyone who died in the war. In reality, it would only free Naruun from imprisonment.
+Volar was once Tarwin Althammer, a great paladin who served in the ongoing war wielding Shaddowbane artifact armor. He had a wife in enemy territory whom he would visit during downtime. Tragically, their daughter was murdered; soon after, his wife died from heartbreak. Blaming himself for their deaths, Volar retired as General and started studying resurrection rituals. [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] used Volar's grief to manipulate him into becoming a pawn for his own release. The Fulfiller planted evidence of the Turnback ritual, which Volar believed would restore his family and everyone who died in the war. In reality, it would only free [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] from imprisonment.
 
 Volar co-founded The Gifted with the secret goal of fulfilling the Turnback ritual but later separated from them due to their insufficient progress. Harnessing the powers of another Old God, Ilsensine, he founded The Shaddowhammer to complete the ritual at any cost.
 
 ## Role in the campaign
-Volar can serve as an antagonist whose actions are driven by grief and deception. Players may find themselves trying to thwart his attempts at completing the Turnback ritual while also uncovering the truth behind Naruun's manipulation.
+Volar can serve as an antagonist whose actions are driven by grief and deception. Players may find themselves trying to thwart his attempts at completing the Turnback ritual while also uncovering the truth behind [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s manipulation.
 
 ## Relations
 - Born in Trollbans Hold
