@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cold-heaven-dwarfs/cold-heaven-dwarfs/","title":"Cold Heaven Dwarfs","noteIcon":"Faction","created":"2023-01-25T02:26:53.883+01:00","updated":"2023-04-09T10:54:41.045+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/cold-heaven-dwarfs/cold-heaven-dwarfs/","title":"Cold Heaven Dwarfs","noteIcon":"Faction","created":"2023-01-25T02:26:53.883+01:00","updated":"2023-05-12T20:09:59.983+02:00"}
 ---
 
 
@@ -93,7 +93,7 @@ Head of Learning:
 
 ## New Secrets
 
-- The Head of Learning has discovered that Naruun's power is tied to Stoalium and that he may be manipulating events from behind-the-scenes. They are hesitant to share this information due to fear of retribution from Naruun himself.
+- The Head of Learning has discovered that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s power is tied to Stoalium and that he may be manipulating events from behind-the-scenes. They are hesitant to share this information due to fear of retribution from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] himself.
 
 ## New Places, Locations, Regions
 
@@ -101,10 +101,10 @@ Head of Learning:
 
 ## Connections
 
-- The Head of Learning has been in contact with Wallaricus the Wise, seeking his advice on how best to handle the newfound knowledge about Naruun's connection to Stoalium.
+- The Head of Learning has been in contact with Wallaricus the Wise, seeking his advice on how best to handle the newfound knowledge about [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s connection to Stoalium.
 
 > [!info] Info
-> The Head of Learning may become an essential ally in uncovering the truth behind Naruun's manipulation, providing valuable information and resources to aid the players' investigations.
+> The Head of Learning may become an essential ally in uncovering the truth behind [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s manipulation, providing valuable information and resources to aid the players' investigations.
 
 Darkspear Trolls:
 
@@ -115,7 +115,7 @@ Darkspear Trolls:
 
 ## New Secrets
 
-- A faction within the Darkspear Trolls is secretly working with Naruun to further his goals within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. They believe that by aligning themselves with him, they will gain access to powerful magic and knowledge.
+- A faction within the Darkspear Trolls is secretly working with [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] to further his goals within [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. They believe that by aligning themselves with him, they will gain access to powerful magic and knowledge.
 
 ## New Places, Locations, Regions
 
@@ -126,6 +126,6 @@ Darkspear Trolls:
 - Wallaricus the Wise has crossed paths with several Darkspear Trolls during his travels. He is cautious around them but recognizes their potential as allies or enemies depending on their motivations.
 
 > [!warning] Warning
-> Players should be wary when dealing with Darkspear Trolls. Though they may appear as allies on the surface, some may have hidden agendas driven by their allegiance to Naruun.
+> Players should be wary when dealing with Darkspear Trolls. Though they may appear as allies on the surface, some may have hidden agendas driven by their allegiance to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
 
 [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]:
