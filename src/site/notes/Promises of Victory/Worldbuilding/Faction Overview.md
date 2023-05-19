@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-04-30T10:49:03.196+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/faction-overview/","noteIcon":"","created":"2023-04-01T11:49:32.494+02:00","updated":"2023-05-12T20:10:18.714+02:00"}
 ---
 
 
@@ -44,13 +44,13 @@ For those seeking adventure or a righteous cause to champion, joining the League
 > [!quote] Quote
 > "Do not underestimate the power of the darkness that lies within. It calls to us, tempts us with promises of great power and unimaginable rewards. We must embrace it, for only then can we truly grasp our destinies." - Dr Phalando
 
-The Shaddowhammer is a secretive and dangerous cult with sinister motives. Led by the enigmatic Volar, they worship the evil god Naruun, who is sealed away in a prison deep within the Endless Caves. The cultists are divided into three parts: the Inner Circle, Outer Circle, and their Army.
+The Shaddowhammer is a secretive and dangerous cult with sinister motives. Led by the enigmatic Volar, they worship the evil god [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], who is sealed away in a prison deep within the Endless Caves. The cultists are divided into three parts: the Inner Circle, Outer Circle, and their Army.
 
-Based in the shadowy city of Shadowspire located above Naruun's prison, they perform dark rituals and sacrifices to please their malevolent deity. Their ultimate goal is to free Naruun from his prison so he can spread his influence across the world.
+Based in the shadowy city of Shadowspire located above [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s prison, they perform dark rituals and sacrifices to please their malevolent deity. Their ultimate goal is to free [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] from his prison so he can spread his influence across the world.
 
 To achieve this end, they have developed a magical bomb capable of causing widespread destruction as a means to offer a massive sacrifice to their god. This act threatens not only countless innocent lives but also risks unleashing an ancient evil upon [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]].
 
-Many members of The Shaddowhammer are lost souls searching for purpose or seeking revenge on those who have wronged them. They believe that through serving Naruun, they will be rewarded with eternal life or granted other desires such as bringing back lost loved ones from death.
+Many members of The Shaddowhammer are lost souls searching for purpose or seeking revenge on those who have wronged them. They believe that through serving [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], they will be rewarded with eternal life or granted other desires such as bringing back lost loved ones from death.
 
 > [!seed] Adventure Hook: The party uncovers information about a plot by The Shaddowhammer to unleash their devastating magical bomb on a major city in [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]]. They must race against time to infiltrate Shadowspire and prevent this catastrophe from occurring while battling fanatical cultists along the way.
 
@@ -60,13 +60,13 @@ Many members of The Shaddowhammer are lost souls searching for purpose or seekin
 
 
 > [!quote] Quote
-> "Naruun offers us solace in our darkest moments and hope for a brighter future. Through our sacrifices, we prove our devotion, and in turn, we are granted the power to shape our destinies." - Unknown Commoner
+> "[[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] offers us solace in our darkest moments and hope for a brighter future. Through our sacrifices, we prove our devotion, and in turn, we are granted the power to shape our destinies." - Unknown Commoner
 
-The Cult of the Gifted is a group of individuals who worship Naruun. Many of its members have experienced great loss or tragedy in their lives and seek solace through their faith in Naruun. The cult has been gaining power as more people join their ranks, and they have dispatched preachers throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] to spread their message.
+The Cult of the Gifted is a group of individuals who worship [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. Many of its members have experienced great loss or tragedy in their lives and seek solace through their faith in [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. The cult has been gaining power as more people join their ranks, and they have dispatched preachers throughout [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] to spread their message.
 
-Cult acolytes wear bright white robes with purple stitching as a symbol of their devotion. Their magic often resembles dust and exhibits moth-like behavior. The Cult of the Gifted believes that by sacrificing innocents or offering valuable possessions to Naruun, they will be rewarded with eternal life, supernatural powers, or even the resurrection of lost loved ones.
+Cult acolytes wear bright white robes with purple stitching as a symbol of their devotion. Their magic often resembles dust and exhibits moth-like behavior. The Cult of the Gifted believes that by sacrificing innocents or offering valuable possessions to [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], they will be rewarded with eternal life, supernatural powers, or even the resurrection of lost loved ones.
 
-Their ultimate goal is to please Naruun enough for him to fulfill their wishes and grant them power over life and death. As their influence spreads and more people are drawn into their web of deception, the danger they pose to [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] grows ever greater.
+Their ultimate goal is to please [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] enough for him to fulfill their wishes and grant them power over life and death. As their influence spreads and more people are drawn into their web of deception, the danger they pose to [[Promises of Victory/Worldbuilding/Regions/The Basin\|the Basin]] grows ever greater.
 
 > [!seed] Adventure Hook: A close friend or family member of one of the party members has gone missing after attending a meeting held by The Cult of the Gifted. The party must investigate this disappearance and uncover the dark secrets hidden within this seemingly benevolent organization.
 
