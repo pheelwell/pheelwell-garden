@@ -47,4 +47,4 @@ Read:
 [[Promises of Victory/General/Primer\|Primer]]
 [[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
 [[Promises of Victory/General/Historic Events\|Historic Events]]
-[[Mysteries of the Basin\|Mysteries of the Basin]]
+[[Promises of Victory/General/Mysteries of the Basin\|Mysteries of the Basin]]
