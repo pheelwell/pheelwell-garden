@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/silken-sanctuary/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-04-15T22:57:01.436+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/todo/last-hope/silken-sanctuary/","noteIcon":"Settlement","created":"2023-03-26T00:00:44.244+01:00","updated":"2023-05-12T20:10:31.267+02:00"}
 ---
 
 Deep within the vibrant and mysterious woods south of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerhof]], a hidden sanctuary shrouded in illusion awaits those who possess extraordinary gifts. As the unsuspecting traveler passes by, they remain oblivious to the secret world that lies just beyond their reach.
@@ -63,7 +63,7 @@ Located south of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerh
 >2. **Undead Extermination**
 >   * Description: Undead creatures have been spotted near the entrance to the Silken Sanctuary, and they pose a threat to our members. Exterminate these creatures before they can cause any harm.
 >   * Contact NPC: Edard Combell
->   * Reward: *A powerful protective amulet from Naruun.*
+>   * Reward: *A powerful protective amulet from [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].*
 >
 >3. **Scouting Potential Allies**
 >   * Description: Allies are needed for our cause. Locate and scout potential allies in neighboring towns who may be willing to join The Gifted.
@@ -81,7 +81,7 @@ Located south of [[Promises of Victory/Worldbuilding/Regions/Todo/Maerhof\|Maerh
 >    * Reward: *_A share of any valuable resources found._
 >
 >6. **Sabotaging Rival Cults**
->    * Description: Rival cults seek to undermine our goals with their blasphemous beliefs about Naruun. Sabotage their efforts and spread misinformation about their activities.
+>    * Description: Rival cults seek to undermine our goals with their blasphemous beliefs about [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. Sabotage their efforts and spread misinformation about their activities.
 >    * Contact NPC: Spymaster
 >    * Reward: *A talisman that grants protection from rival cults' magic.*
 >
