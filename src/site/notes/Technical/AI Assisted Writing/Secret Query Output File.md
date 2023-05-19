@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/secret-query-output-file/","noteIcon":"Technical","created":"2023-04-10T23:10:08.220+02:00","updated":"2023-04-30T10:49:13.172+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/secret-query-output-file/","noteIcon":"Technical","created":"2023-04-10T23:10:08.220+02:00","updated":"2023-05-12T20:10:29.935+02:00"}
 ---
 
 [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin.md]]
@@ -168,7 +168,7 @@ Read:
 [[Promises of Victory/General/Primer\|Primer]]
 [[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
 [[Promises of Victory/General/Historic Events\|Historic Events]]
-[[Mysteries of the Basin\|Mysteries of the Basin]]
+[[Promises of Victory/General/Mysteries of the Basin\|Mysteries of the Basin]]
 
 
 
@@ -207,7 +207,7 @@ The most prominent use of Stoalium has been in war: both sides in the great War 
 Promises of Victory is a Campain set in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], a Region currently in war, lead by the **[[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]** and the **[[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]]**.
 
 
-In the Background [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] is trying to end the war and fulfill their Ritual of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]] to undo all the harm caused by the war. But to do that they need to bring the Artifacts to 3 different ancient arcane machineries called [[Titan Forges\|Titan Forges]] and fuel them with a vast amount of soul energy.
+In the Background [[Promises of Victory/Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] is trying to end the war and fulfill their Ritual of [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]] to undo all the harm caused by the war. But to do that they need to bring the Artifacts to 3 different ancient arcane machineries called [[Promises of Victory/Adventuring/Arcs/Titan Forges\|Titan Forges]] and fuel them with a vast amount of soul energy.
 
 
 * The [[Promises of Victory/Worldbuilding/Things/Heart of the Forrest\|Heart of the Forrest]], the [[Promises of Victory/Adventuring/Arcs/Artifact of Life (Arc)/Artifact of Life (Arc)\|Artifact of Life (Arc)]] which they try to get by Invading city of [[Promises of Victory/Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]]
@@ -313,10 +313,10 @@ Origin of Naruun
 ![Pasted image 20230410000029.png](/img/user/resources/Pictures/Pasted%20image%2020230410000029.png)
 
 
-Through their investigation (Visiting the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and the [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]]), the party can discover that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] has been feeding on the despair and unfulfilled desires of the people in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], using their suffering to increase his power. The continuous war, fueled by the properties of [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], has provided Naruun with an endless supply of misery.
+Through their investigation (Visiting the [[Promises of Victory/Worldbuilding/Factions/Nosem/Nosem\|Nosem]] and the [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|Fulfiller]]), the party can discover that [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] has been feeding on the despair and unfulfilled desires of the people in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], using their suffering to increase his power. The continuous war, fueled by the properties of [[Promises of Victory/Worldbuilding/Things/Stoalium\|Stoalium]], has provided [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] with an endless supply of misery.
 
 
-Armed with this knowledge, the party can seek allies among both the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]], uniting them against a common enemy. By exposing Naruun's deception and manipulation, they can rally their forces against him and work together to find a way to destroy or contain him for good.
+Armed with this knowledge, the party can seek allies among both the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]], uniting them against a common enemy. By exposing [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s deception and manipulation, they can rally their forces against him and work together to find a way to destroy or contain him for good.
 
 
 As they work together, new alliances will form between former enemies, leading to a more peaceful and united future for [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]. However, they must remain vigilant against any remaining followers of Naruun who continue to spread his false promises.
@@ -393,7 +393,7 @@ The party is recruited by either the League of Arathor or Defilers (depending on
 Rumors circulate about a new threat emerging within The Basin: a mysterious cult called [[Promises of Victory/Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]. The party is hired by concerned citizens or an organization (such as League of Paranormal Researchers) to investigate this cult's motives and activities. As they delve deeper into this investigation, they discover connections between The Shaddowhammer, ancient artifacts, and dangerous rituals that could potentially unleash an unimaginable evil upon the world.
 
 
-By following any of these adventure hooks, your group will be drawn into the intricate web of intrigue, deception, and danger that lies at the heart of Promises of Victory. Will they succeed in preventing the release of Naruun and restoring peace to The Basin, or will they fall victim to the false promises and manipulation that have ensnared so many before them? Only time will tell as they embark on this epic journey.
+By following any of these adventure hooks, your group will be drawn into the intricate web of intrigue, deception, and danger that lies at the heart of Promises of Victory. Will they succeed in preventing the release of [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and restoring peace to The Basin, or will they fall victim to the false promises and manipulation that have ensnared so many before them? Only time will tell as they embark on this epic journey.
 
 
 
