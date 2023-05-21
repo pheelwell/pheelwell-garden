@@ -96,7 +96,7 @@ Role in Campaign:
 
 With this structure in place, you'll be able to create informative and engaging notes for your adventure module while ensuring that readers can quickly find the information they need.
 
-A Example Implementation of this structure is: [[Promises of Victory/Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
+A Example Implementation of this structure is: [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
 
 
 ## Improvements
