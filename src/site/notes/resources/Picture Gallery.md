@@ -10,13 +10,13 @@ Here are some Images generated with [[Midjourney\|Midjourney]]:
 ![a_beer_brewer_thieves_guild_pickpocket_dungeons_and_.png](/img/user/resources/Pictures/a_beer_brewer_thieves_guild_pickpocket_dungeons_and_.png)
 ![a_Cathedral_concept_art_by_Chris_Rallistrending_on_d.png](/img/user/resources/Pictures/a_Cathedral_concept_art_by_Chris_Rallistrending_on_d.png)
 ![a_necromancer_and_his_horde_of_undead_is_attacking_a.png](/img/user/resources/Pictures/a_necromancer_and_his_horde_of_undead_is_attacking_a.png)
-![[addtitle.py]]
+![[addtitle.py\|addtitle.py]]
 ![Airgenassi.png](/img/user/resources/Pictures/Airgenassi.png)
 ![Beer_wagon_on_road_fantasy_concept_art_by_Chris_Rall.png](/img/user/resources/Pictures/Beer_wagon_on_road_fantasy_concept_art_by_Chris_Rall.png)
 ![Corellwell_Old_Priest_deviantart_contest_winner_fantasy_art_con_57071e63-e558-4479-95e4-262d7ced6dca.png](/img/user/resources/Pictures/Corellwell_Old_Priest_deviantart_contest_winner_fantasy_art_con_57071e63-e558-4479-95e4-262d7ced6dca.png)
 ![Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png](/img/user/resources/Pictures/Corellwell_veteran_fantasy_king_large_scar_on_face_fantasy_port_5c7c02cb-1ba9-49a5-b937-ca6848bd7166.png)
 [[Dataview\|Dataview]]
-![[e459e7ad-d8a2-4400-ac12-05c2431dc754_progress_image_100.webp]]
+![[e459e7ad-d8a2-4400-ac12-05c2431dc754_progress_image_100.webp\|e459e7ad-d8a2-4400-ac12-05c2431dc754_progress_image_100.webp]]
 ![edgelord_concept_art_profile.png](/img/user/resources/Pictures/edgelord_concept_art_profile.png)
 ![fantasy_cobbled_street_bright_day_concept_art_by_Chr.png](/img/user/resources/Pictures/fantasy_cobbled_street_bright_day_concept_art_by_Chr.png)
 ![fantasy_dwarf_tavern_keeper_portrait_vengeful_person.png](/img/user/resources/Pictures/fantasy_dwarf_tavern_keeper_portrait_vengeful_person.png)
