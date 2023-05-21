@@ -6,8 +6,8 @@
 
 ## Daylie War Progression
 
-The war in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]] is Progressing every Day.
-There are Multiple Points of Control on 5 "Warfronts" in [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]:
+The war in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] is Progressing every Day.
+There are Multiple Points of Control on 5 "Warfronts" in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]:
 
 #### Northern Warfront
 
@@ -17,7 +17,7 @@ There are Multiple Points of Control on 5 "Warfronts" in [[Promises of Victory/W
 #### Western Warfront
 
 - Melmorwitch
-- [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
+- [[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
 - Falk
 - Arathi Forrests (not including Sturmklau)
 - Lichtachte
@@ -27,7 +27,7 @@ There are Multiple Points of Control on 5 "Warfronts" in [[Promises of Victory/W
 #### Middle Warfront
 
 - Terfing
-- [[Promises of Victory/Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]
+- [[Promises of Victory/🌐Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]
 - Hort
 
 #### Eastern Warfront
@@ -39,12 +39,12 @@ There are Multiple Points of Control on 5 "Warfronts" in [[Promises of Victory/W
 #### South Warfront
 
 - Melmorwitch
-- [[Promises of Victory/Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
-- [[Promises of Victory/Worldbuilding/Regions/🏰Gandmuehl/Gandmuehl\|Gandmuehl]]
+- [[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
+- [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]
 - Defiler's Den
 
 Read:
 [[Promises of Victory/General/Primer\|Primer]]
-[[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
+[[Promises of Victory/🗡️Adventuring/Structure of the Campain\|Structure of the Campain]]
 [[Promises of Victory/General/Historic Events\|Historic Events]]
 [[Promises of Victory/General/Mysteries of the Basin\|Mysteries of the Basin]]
