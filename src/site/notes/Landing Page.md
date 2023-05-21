@@ -14,22 +14,22 @@ To get started, here is a list of my projects:
 
 # Promises of Victory
 ![resources/Pictures/decoration/pov_overview.png](/img/user/resources/Pictures/decoration/pov_overview.png)
- In the war-ravaged land of [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]], the [[Promises of Victory/Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
+ In the war-ravaged land of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], the [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
 
 > [!warning] If you want to play this Campain. GO AWAY! There are heavy spoilers in those Documents. A Safe Introduction is still TODO
 
 Things you could start with:
 - To get hooked: [[Promises of Victory/General/Primer\|Primer]]
-- To get a overview of the Story as a GM [[Promises of Victory/Adventuring/Structure of the Campain\|Structure of the Campain]]
+- To get a overview of the Story as a GM [[Promises of Victory/🗡️Adventuring/Structure of the Campain\|Structure of the Campain]]
 - To get started as a GM: [[Promises of Victory/General/Starting the Adventure\|Starting the Adventure]]
 - To get a sense of the content of the Campain: [[Promises of Victory/General/Note Overview\|Note Overview]]
-- To see what my party has been doing: [[Promises of Victory/Adventuring/Adventure Journal\|Adventure Journal]]
+- To see what my party has been doing: [[Promises of Victory/🗡️Adventuring/Adventure Journal\|Adventure Journal]]
 - Stare at the [[resources/Picture Gallery\|Picture Gallery]]
 
 If you are just window shopping here are some fun articles I like:
-- [[Promises of Victory/Worldbuilding/Regions/The Basin\|The Basin]]
-- [[Promises of Victory/Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]]
-- [[Promises of Victory/Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
+- [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
+- [[Promises of Victory/🌐Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]]
+- [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
 
 
 # Worldbuilding with AI
