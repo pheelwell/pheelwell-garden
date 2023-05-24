@@ -58,7 +58,7 @@ When roleplaying a Cold Heaven Dwarf, focus on their dedication to craftsmanship
 - The leader of the Cold Heaven Dwarfs is said to possess a legendary [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] weapon that has been passed down from generation to generation. The weapon is rumored to hold immense power and is only wielded in times of great need.
 
 [[Promises of Victory/🌐Worldbuilding/Factions/The Triad/Head of Learning\|Head of Learning]]
-[[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Darkspear Trolls\|Darkspear Trolls]]
+[[🌐Skoria/🌐Worldbuilding/Material Plane/Echon/Factions/Darkspear Trolls/Darkspear Trolls\|Darkspear Trolls]]
 [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
 [[Promises of Victory/🌐Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]]
 
@@ -89,7 +89,7 @@ Head of Learning:
 ## New Traits, Facts, or Facets
 
 - The Head of Learning is a skilled diplomat who often acts as an intermediary between various factions within Edschmied.
-- They have developed an extensive network of informants who keep them apprised of events happening throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+- They have developed an extensive network of informants who keep them apprised of events happening throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
 
 ## New Secrets
 
@@ -115,7 +115,7 @@ Darkspear Trolls:
 
 ## New Secrets
 
-- A faction within the Darkspear Trolls is secretly working with [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] to further his goals within [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. They believe that by aligning themselves with him, they will gain access to powerful magic and knowledge.
+- A faction within the Darkspear Trolls is secretly working with [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] to further his goals within [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. They believe that by aligning themselves with him, they will gain access to powerful magic and knowledge.
 
 ## New Places, Locations, Regions
 
