@@ -3,7 +3,7 @@
 ---
 
 
-The Gandmühler bread is a type of bread made in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]. It is made with a special type of flour that can only be found in the area. Ontop of that it is marketed to have a "special ingredient" only the Baker knows about.
+The Gandmühler bread is a type of bread made in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]. It is made with a special type of flour that can only be found in the area. Ontop of that it is marketed to have a "special ingredient" only the Baker knows about.
 
 ### The secret behind the bread
 
@@ -18,12 +18,12 @@ Usualy [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfill
 
 ### Talking to the Baker
 
-The Baker is a woman named [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]]. She wants the bakery to stay open but is being pressured by the druid to close it down. She tells the party that the druid is a old friend of her husband's and that he is just being overprotective. Mid conversation she breaks down and tells the party that she always wanted the best for the town, and now she seemingly doomed everyone.
+The Baker is a woman named [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]]. She wants the bakery to stay open but is being pressured by the druid to close it down. She tells the party that the druid is a old friend of her husband's and that he is just being overprotective. Mid conversation she breaks down and tells the party that she always wanted the best for the town, and now she seemingly doomed everyone.
 The party can try to talk to the druid or the elves, or they can try to talk to other people in town to get more information.
 
 ### Talking to the Druid
 
-The Druid is a man named [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Fer\|Fer]]. He is a old friend of the Baker's husband's and is very concerned about the bakery. He tells the party that the bakery is cursed and that it needs to be closed down for the safety of the town. He also tells the party that the curse is not deadly on its own, but having the bakery open is to dangerous.
+The Druid is a man named [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Fer\|Fer]]. He is a old friend of the Baker's husband's and is very concerned about the bakery. He tells the party that the bakery is cursed and that it needs to be closed down for the safety of the town. He also tells the party that the curse is not deadly on its own, but having the bakery open is to dangerous.
 The party can try to talk to the Baker or the elves, or they can try to talk to other people in town to get more information.
 
 ### Talking to the Elves
@@ -43,9 +43,9 @@ The party can investigate the bakery to see if they can find anything that would
 
 The party can investigate the forest to see if they can find anything that would prove that it is not cursed. They find a hidden cave system that groes the crystals in it.
 
-### Asking [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]] about the origins of the Crystals
+### Asking [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]] about the origins of the Crystals
 
-The party can confront [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]] with their findings and she will tell them that she learned about the crystals from [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]. She will also tell them that she only wanted to help the town and that she didn't know the crystals were cursed.
+The party can confront [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]] with their findings and she will tell them that she learned about the crystals from [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]. She will also tell them that she only wanted to help the town and that she didn't know the crystals were cursed.
 
 ### Destroying the crystals
 
@@ -59,11 +59,11 @@ The party can keep the crystals and use them to make the bread. This will anger 
 
 ### Talking to the Lumberjacks
 
-Asking around the lumberjacks, the party can find out that the wood is sold to [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]]. The Lumberers overheared the mages saying that this type of wood should have “magic masking” capabilities. Whatever that means.
+Asking around the lumberjacks, the party can find out that the wood is sold to [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]]. The Lumberers overheared the mages saying that this type of wood should have “magic masking” capabilities. Whatever that means.
 
 
 ## Aftermath:
 
 ### Confronting [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]
 
-When visiting the Fullfiller to a later ocasion the party can confront [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] about the curse. She will proclaim that she only wanted to help [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]]. She will also tell them that she only makes deals with people who are willing and that she doesn't force anyone into anything.  
+When visiting the Fullfiller to a later ocasion the party can confront [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] about the curse. She will proclaim that she only wanted to help [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandra\|Gandra]]. She will also tell them that she only makes deals with people who are willing and that she doesn't force anyone into anything.  
