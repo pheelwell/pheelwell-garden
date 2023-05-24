@@ -3,7 +3,7 @@
 ---
 
 
-Naruun is the old god of false promises. He was once a powerful deity, but was sealed away by the other forces of nature. He was imprisoned in a titanic prison, but has been manipulating [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]  and other factions of the [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to try and escape. He has been using them to sacrifice people and gather power. He is almost ready to escape, but the party needs to stop him.
+Naruun is the old god of false promises. He was once a powerful deity, but was sealed away by the other forces of nature. He was imprisoned in a titanic prison, but has been manipulating [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]  and other factions of the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to try and escape. He has been using them to sacrifice people and gather power. He is almost ready to escape, but the party needs to stop him.
 
 # Appearance
 In his physical Form Naruun appears as a infinite purple mass of giant tentacles, that burry into the land.
@@ -26,7 +26,7 @@ They would do everything to make their lord happy, even if it meant killing inno
 
 The forces of Nature, Arcane, Chaos, Light and Death gathered their power to create a seal that would hold the old god.
 Naruun was imprisoned in a prison made out of the very fabric of reality. The prison was designed to be inescapable and to hold him for all eternity.
-The Titans built 3 Forges distributed throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], that were used as Focal points of the Life, Death and Chaos Artifacts.
+The Titans built 3 Forges distributed throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], that were used as Focal points of the Life, Death and Chaos Artifacts.
 To power the forges, the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]] channeled energy from the Plane of Death into them.
 After the sealing the Artifacts were spread out and the Titans removed their knowledge of the Forges from History.
 
@@ -37,7 +37,7 @@ If this is done, Naruun will be set free and will start a reign of terror.
 The party needs to stop the cult before they can free Naruun and cause untold destruction. They need to convince [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] of the error of his ways and stop the ritual. Once Naruun is freed, the party will need to deal with the god directly and seal him away again.
 
 # Involvement in the Basins Conflict
-The conflict in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] had been raging on for decades, with no end in sight. Little did the citizens know that a sinister force was at the heart of it all. Naruun was manipulating events from the shadows in order to break free from his prison and wreak havoc upon the land.
+The conflict in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] had been raging on for decades, with no end in sight. Little did the citizens know that a sinister force was at the heart of it all. Naruun was manipulating events from the shadows in order to break free from his prison and wreak havoc upon the land.
 He Instigated:
 - [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] by planting [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] the Idea of [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]]
 - Instigated the first [[Promises of Victory/🌐Worldbuilding/Historic Events/War/Attack on Lichtachte\|Attack on Lichtachte]]
@@ -55,12 +55,12 @@ Their involvement with Naruun's prison is a closely guarded secret, as only a se
 
 # [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]]
 
-[[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] is an otherworldly metal with strange properties. It has been used throughout history by both sides in wars within [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], each seeking an advantage over their enemies. What neither side realizes is that this power comes with a cost: [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] is actually remnants of Naruun's tentacles, granting power but also binding those who wield it to his influence.
+[[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] is an otherworldly metal with strange properties. It has been used throughout history by both sides in wars within [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], each seeking an advantage over their enemies. What neither side realizes is that this power comes with a cost: [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] is actually remnants of Naruun's tentacles, granting power but also binding those who wield it to his influence.
 
 Naruun has been quietly manipulating events from behind-the-scenes via [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]]'s power - most notably during times when one side appears to be winning an important battle - and at each critical moment takes back its power from those who wear it. This has kept the unending war between both sides alive, allowing Naruun to continue gathering strength and inching closer to his ultimate goal of freedom.
 
 # Conclusion
 
-Naruun, the god of false promises, is a malevolent force that seeks to break free from his prison and bring chaos and destruction upon [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] and beyond. Through manipulation, deceit, and the exploitation of the deepest desires of mortals, he has managed to gather a cult following and amass power in his quest for freedom.
+Naruun, the god of false promises, is a malevolent force that seeks to break free from his prison and bring chaos and destruction upon [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] and beyond. Through manipulation, deceit, and the exploitation of the deepest desires of mortals, he has managed to gather a cult following and amass power in his quest for freedom.
 
-It falls upon the heroes of this tale to uncover the truth behind Naruun's schemes, put an end to the war raging within [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], and ultimately confront the old god himself in order to seal him away once more. The fate of countless lives hangs in the balance as they embark upon this perilous journey that will test their courage, strength, and resolve.
+It falls upon the heroes of this tale to uncover the truth behind Naruun's schemes, put an end to the war raging within [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], and ultimately confront the old god himself in order to seal him away once more. The fate of countless lives hangs in the balance as they embark upon this perilous journey that will test their courage, strength, and resolve.
