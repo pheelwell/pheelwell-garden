@@ -54,7 +54,7 @@ Despair is another ideal that drives the Fulfiller's actions. She revels in the 
 
 #### Bonds
 
-Naruun is a significant bond for the Fulfiller due to their shared love for feeding on bad emotions. Sympathizing with his plight as an imprisoned god, she has worked tirelessly towards his release by manipulating various factions within [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. By freeing [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], the Fulfiller hopes to create even more despair and chaos that she can feed on while also forming a powerful alliance with a god who shares her twisted ideals.
+Naruun is a significant bond for the Fulfiller due to their shared love for feeding on bad emotions. Sympathizing with his plight as an imprisoned god, she has worked tirelessly towards his release by manipulating various factions within [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. By freeing [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], the Fulfiller hopes to create even more despair and chaos that she can feed on while also forming a powerful alliance with a god who shares her twisted ideals.
 
 #### Flaws
 
