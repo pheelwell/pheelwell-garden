@@ -3,7 +3,7 @@
 ---
 
 Notes: 
-- Origan is the Last Forrest Dragon in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
+- Origan is the Last Forrest Dragon in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
 - Together with the [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Sturmklau\|Sturmklau]] Druids from  [[Promises of Victory/🌐Worldbuilding/Factions/DEHTA/D.E.H.T.A.\|D.E.H.T.A.]] he tries to hatch the Dragon Eggs  of his Siblings
 
 >[!Tip] Printing the Mini
