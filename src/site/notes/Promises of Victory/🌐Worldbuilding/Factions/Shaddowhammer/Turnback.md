@@ -3,7 +3,7 @@
 ---
 
 
-The Turnback is the Ritual that the [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] wants to complete to bring back everyone that died in the war in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+The Turnback is the Ritual that the [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] wants to complete to bring back everyone that died in the war in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
 In reality it will break [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]s Prison and set him free.
 
 The Turnback was first given to [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]] by [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]]. 
