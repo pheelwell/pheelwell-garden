@@ -3,8 +3,8 @@
 ---
 
 The Shaddowhammer is a extreme offspring of [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]]. They share the same goal as the Cult, but decided to go a extremer and darker path by using the powers of [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Ilsensine\|Ilsensine]], an Eldrich deity. 
-In Secret the Shaddowhammer plans on taking over [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to collect Soul Energy from the slaughtered people. This is only a temporary loss, because once they have enough energy to fuel the [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]], they plan to bring back every lost soul in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
-Parts of the Soul Energy are used as an offering to [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Ilsensine\|Ilsensine]] who in response grants them additional Powers and Abilities. Since the ongoing war in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] has many casualties, the Shaddowhammer directly profits in the ongoing war.
+In Secret the Shaddowhammer plans on taking over [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to collect Soul Energy from the slaughtered people. This is only a temporary loss, because once they have enough energy to fuel the [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]], they plan to bring back every lost soul in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+Parts of the Soul Energy are used as an offering to [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Ilsensine\|Ilsensine]] who in response grants them additional Powers and Abilities. Since the ongoing war in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] has many casualties, the Shaddowhammer directly profits in the ongoing war.
 
 
 ## Structure of the Cult
