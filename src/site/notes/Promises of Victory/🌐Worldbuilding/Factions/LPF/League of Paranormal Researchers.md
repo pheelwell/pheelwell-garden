@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/factions/lpf/league-of-paranormal-researchers/","title":"League of Paranormal Researchers","noteIcon":"Faction","created":"2023-01-25T02:26:54.144+01:00","updated":"2023-04-13T23:05:32.682+02:00"}
 ---
 
-The LPF is a secret organization trying to unshed mysteries all over [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+The LPF is a secret organization trying to unshed mysteries all over [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
 The members of the League of Paranormal Researchers are people who have dedicated their lives to understanding and researching the paranormal. They are a group of scientists, historians, and skeptics who have come together to study the paranormal and try to find rational explanations for the strange and inexplicable things that have been reported.
 The LPF does not believe in the supernatural, but instead believes that there is a natural explanation for everything. They are constantly trying to find rational explanations for the paranormal phenomena that has been reported.
 The LPF is a very secretive organization, as they do not want to risk civilians getting involved in their work. They are careful about who they let into their organization, and only allow those who they trust.
