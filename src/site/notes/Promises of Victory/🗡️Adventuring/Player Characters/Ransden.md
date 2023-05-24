@@ -15,7 +15,7 @@ Ransden was once a priest with a wife and two children in the service of the god
 
 # Tarwin Althammers's notes
 
-A breakthrough at last! Your research for a way to recover your body led you to a collection of writings from [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], which clearly gives you a foothold in your research. It is a collection of a pair of torn leaves. The leaves refer to a clearly dark ritual. The pages are already quite worn. The runes are unfortunately only partially readable, but you have managed to reconstruct the written parts.
+A breakthrough at last! Your research for a way to recover your body led you to a collection of writings from [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], which clearly gives you a foothold in your research. It is a collection of a pair of torn leaves. The leaves refer to a clearly dark ritual. The pages are already quite worn. The runes are unfortunately only partially readable, but you have managed to reconstruct the written parts.
 
 >[...] all being is divided into these six aspects [...]Essence of the Lord of the Burning Legion. Essence of a Savage Deity. Essence of a Disciple of Light [...] bundled by the machinery of the Titans [...] driven by the wailing of thousands and thousands of souls [...] In a place of a deceased deity. [...] the power to bring back those who were lost [...]And say, "Og Ree'thael! maq vrr bo'al Ta'thall za zuq fssh naggwa'fssh fssh vrr Zzof ez H'iwn za ez ssaggh hoq hnajf Gag SSaggh agthu h'iwn Yeq'kafhgyl vaz amun Hnakf ky" [...] 
 
@@ -31,7 +31,7 @@ You could already decipher the following words:
 - SSaggh: to raise
 
 One of the sheets, however, appears to come from a different source and to be written by a certain [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]]. The paper is much newer than the rest of the papers:
->[...] I have already found a place for it, it is directly in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. [...] The writings I read sparked again my hope that I will see Vanetta and Tjorn soon. [...] May the gods continue to guide me [...] only I have to worry about the procurement of materials [...].
+>[...] I have already found a place for it, it is directly in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. [...] The writings I read sparked again my hope that I will see Vanetta and Tjorn soon. [...] May the gods continue to guide me [...] only I have to worry about the procurement of materials [...].
 
 
 # An den Stadttoren von Melorwich
