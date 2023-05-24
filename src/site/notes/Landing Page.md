@@ -14,7 +14,7 @@ To get started, here is a list of my projects:
 
 # Promises of Victory
 ![resources/Pictures/decoration/pov_overview.png](/img/user/resources/Pictures/decoration/pov_overview.png)
- In the war-ravaged land of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], the [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
+ In the war-ravaged land of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], the [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] and the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] have fought for five long years over precious resources and control. As dark forces manipulate events from the shadows, hope for peace seems distant. Embark on a thrilling adventure to uncover hidden intentions, navigate shifting alliances, and strive for lasting peace in this epic tale of courage, wit, and determination.
 
 > [!warning] If you want to play this Campain. GO AWAY! There are heavy spoilers in those Documents. A Safe Introduction is still TODO
 
@@ -27,7 +27,7 @@ Things you could start with:
 - Stare at the [[resources/Picture Gallery\|Picture Gallery]]
 
 If you are just window shopping here are some fun articles I like:
-- [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
+- [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
 - [[Promises of Victory/🌐Worldbuilding/Factions/Düsternest/Lord Ander\|Lord Ander]]
 - [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/Wallaricus the Wise\|Wallaricus the Wise]]
 
