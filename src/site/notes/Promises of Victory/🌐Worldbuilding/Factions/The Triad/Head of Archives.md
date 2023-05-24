@@ -3,7 +3,7 @@
 ---
 
 The Head of Archives is the most secretive member of the Triad.
-They are in charge of all the city's Archives, which, among other things, include the city's magical history and all the research that has been done in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]].
+They are in charge of all the city's Archives, which, among other things, include the city's magical history and all the research that has been done in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]].
 The Head of Archives is only known by the other two members of the Triad and the Head Librarian.
 
 #### Somdir Darsem
