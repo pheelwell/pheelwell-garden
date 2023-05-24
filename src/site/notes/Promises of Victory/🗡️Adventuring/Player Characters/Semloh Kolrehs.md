@@ -29,7 +29,7 @@ During his journey, Semloh may cross paths with other adventurers who share simi
 
 ## Encounters and Adventure Hooks
 
-- In the city of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]], Semloh confronts a burning building where he believes his mother is trapped. The flames are caused by [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]], an enemy he encountered earlier in his journey. Players can choose to aid Semloh in his quest to save his mother or face the consequences of their inaction.
+- In the city of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]], Semloh confronts a burning building where he believes his mother is trapped. The flames are caused by [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Hemmet\|Hemmet]], an enemy he encountered earlier in his journey. Players can choose to aid Semloh in his quest to save his mother or face the consequences of their inaction.
 
 - While investigating a haunted location, Semloh and the party encounter a group of [[Promises of Victory/🌐Worldbuilding/Factions/LPF/League of Paranormal Researchers\|LPF]] operatives conducting experiments on the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]]. The adventurers can choose to confront the researchers or join forces with them for their own benefit.
 
