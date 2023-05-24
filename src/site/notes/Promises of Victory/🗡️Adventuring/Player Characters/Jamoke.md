@@ -3,12 +3,12 @@
 ---
 
 This Rogue was born as the son of a High Voodoo Priest of his tribe in the Isles. He was always fascinated by Surviving in the Wild and Hunting. He always felt pressured of his legacy, to step in the shoes of his father, who was the main devotee of the Loa of death. This led to him having a strained relationship with his family. When he was of age, he left his tribe and home in search of adventure.
-He eventually made his way to [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], where for a brief time he made money by skinning animals and collecting hides. After a few Months he met a group of adventurers. He adventured with them for awhile, until he was ambushed by an old rival. He was framed for the death of his father and was forced to leave the group. He was able to clear his name, but his tribe still distrusts him.
-During his time in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], he also learned that his sister [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] had gone missing. The loa of death told him that his sister was using his magic further the Rituals of [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]. He has been searching for her since, under the assumption she is mindcontrolled by the cult.
+He eventually made his way to [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], where for a brief time he made money by skinning animals and collecting hides. After a few Months he met a group of adventurers. He adventured with them for awhile, until he was ambushed by an old rival. He was framed for the death of his father and was forced to leave the group. He was able to clear his name, but his tribe still distrusts him.
+During his time in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], he also learned that his sister [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] had gone missing. The loa of death told him that his sister was using his magic further the Rituals of [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]]. He has been searching for her since, under the assumption she is mindcontrolled by the cult.
 He has been using his skills as a hunter to try and track her down, but has been unsuccessful so far.
 He is now traveling with the party in the hopes of finding his sister and stopping the  [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]].
 
-He is a [[Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shaddow Hunter]] Subclass
+He is a [[🌐Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shaddow Hunter]] Subclass
 
 ### Secrets
 
@@ -34,12 +34,12 @@ Jamoke's goal is to save his sister from [[Promises of Victory/🌐Worldbuilding
 
 A hooded figure crouches in the shadows, tracking his prey. This is Jamoke, a skilled rogue who has dedicated his life to finding his missing sister and stopping [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] cult from achieving their dark goals.
 
-Jamoke was born as the son of a High Voodoo Priest in his tribe of the Isles, where he was fascinated by surviving in the wild and hunting. Feeling pressured to follow in his father's footsteps, Jamoke left his tribe and home behind to seek adventure. His journey led him to [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], where he worked as a hunter and skinner before joining a group of adventurers. Unfortunately, an old rival framed him for his father's death, causing Jamoke to leave the group and become distrusted by his tribe. It was during this time that he learned that his sister, [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]], had gone missing. The loa of death revealed her involvement with [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] cult's rituals. Believing [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] was being mind-controlled by the cult, Jamoke has been searching for her ever since.
+Jamoke was born as the son of a High Voodoo Priest in his tribe of the Isles, where he was fascinated by surviving in the wild and hunting. Feeling pressured to follow in his father's footsteps, Jamoke left his tribe and home behind to seek adventure. His journey led him to [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], where he worked as a hunter and skinner before joining a group of adventurers. Unfortunately, an old rival framed him for his father's death, causing Jamoke to leave the group and become distrusted by his tribe. It was during this time that he learned that his sister, [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]], had gone missing. The loa of death revealed her involvement with [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] cult's rituals. Believing [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] was being mind-controlled by the cult, Jamoke has been searching for her ever since.
 
 
 > [!TIP] Quick Reference
 > ![WhatsApp Image 2020-01-15 at 22.27.33.jpeg| 300](/img/user/resources/Pictures/WhatsApp%20Image%202020-01-15%20at%2022.27.33.jpeg) 
-> **Jamoke** _Race Rogue ([[Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] Subclass)_ 
+> **Jamoke** _Race Rogue ([[🌐Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] Subclass)_ 
 > Skilled rogue on a quest to save his sister and stop [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]].
 >- **Motivation**: Save Sister, Stop Cult
 >- **Ideals**: Honor, Determination
@@ -51,13 +51,13 @@ Jamoke was born as the son of a High Voodoo Priest in his tribe of the Isles, wh
 
 
 ## Role in Campaign:
-Jamoke's goal is to save [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] from [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] cult by convincing her that they are using her for their own nefarious purposes. As a [[Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] subclass character, he has some secrets related to his sister and her involvement with the cult. Clues to her whereabouts include a gemstone left by [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] that can be used for tracking her down, reconnecting with the Loas for guidance on her location, and seeking information from Horde Camps as suggested by Jamoke's rival.
+Jamoke's goal is to save [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] from [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] cult by convincing her that they are using her for their own nefarious purposes. As a [[🌐Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] subclass character, he has some secrets related to his sister and her involvement with the cult. Clues to her whereabouts include a gemstone left by [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] that can be used for tracking her down, reconnecting with the Loas for guidance on her location, and seeking information from Horde Camps as suggested by Jamoke's rival.
 
 ## Lore
 ### Backstory
-Born as the son of a High Voodoo Priest in his tribe in the Isles, Jamoke was fascinated by surviving in the wild and hunting. He left his tribe and home to seek adventure and eventually found himself in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. 
+Born as the son of a High Voodoo Priest in his tribe in the Isles, Jamoke was fascinated by surviving in the wild and hunting. He left his tribe and home to seek adventure and eventually found himself in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. 
 
-Jamoke's strained relationship with his family stemmed from the pressure he felt to follow in his father's footsteps as a High Voodoo Priest and devotee of the Loa of death. This pressure pushed him to leave his tribe and home in search of adventure, eventually leading him to [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+Jamoke's strained relationship with his family stemmed from the pressure he felt to follow in his father's footsteps as a High Voodoo Priest and devotee of the Loa of death. This pressure pushed him to leave his tribe and home in search of adventure, eventually leading him to [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
 
 After working as a hunter and skinner, he joined a group of adventurers but was framed for his father's death by an old rival. He has been searching for his sister [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] ever since.
 While Jamoke managed to clear his name after being framed for his father's death, the distrust from his tribe remains, making it difficult for him to seek their help in finding [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] and stopping [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] cult.
@@ -91,5 +91,5 @@ A memorable trait of Jamoke is his insistence on always wearing a hooded cloak t
 
 ## Trivia
 - Jamoke has a collection of trinkets and talismans related to hunting and tracking.
-- He is skilled at skinning animals and collecting hides, which he learned during his time in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+- He is skilled at skinning animals and collecting hides, which he learned during his time in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
 - Despite leaving his tribe behind, Jamoke still holds onto some of their traditions and customs, incorporating them into his daily life.
