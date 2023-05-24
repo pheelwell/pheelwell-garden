@@ -86,7 +86,7 @@ Those are the most important facts about the War between the [[Promises of Victo
 
 
 
-The initial attack on [[Promises of Victory/🌐Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] occurred in the year 3014. The attackers were a horde of zombies. The zombies overwhelmed the city's defenses, and many people were killed. To regain the casualties [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] spread her Plague to rescue the citizens. This is what caused the great divide in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. 
+The initial attack on [[Promises of Victory/🌐Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] occurred in the year 3014. The attackers were a horde of zombies. The zombies overwhelmed the city's defenses, and many people were killed. To regain the casualties [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] spread her Plague to rescue the citizens. This is what caused the great divide in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. 
 # Behind the Scenes
 The Zombies were controlled by [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] who instigated the attack with his last bit of power to get [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] to use her Ritual. [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|General Malachi]], instigate, power, Ritual
 
@@ -101,7 +101,7 @@ The Zombies were controlled by [[Promises of Victory/🌐Worldbuilding/Factions/
 
 
 
-[[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] was a necrotic virus that was spread by the necromancer [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]. It caused the recently deceased to rise from the dead as zombies with their souls still affixed to them. [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] caused a great divide in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], with many people seeing the undead as monsters. The [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] to this day sees the undead as the same monsters that killed many of their kin.
+[[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] was a necrotic virus that was spread by the necromancer [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]. It caused the recently deceased to rise from the dead as zombies with their souls still affixed to them. [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] caused a great divide in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], with many people seeing the undead as monsters. The [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] to this day sees the undead as the same monsters that killed many of their kin.
 # Behind the Scenes
 While Researching [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]] was Influenced by [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. She didn't intend [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] to be contagious.
 
@@ -116,7 +116,7 @@ While Researching [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The
 
 
 
-The Cure for [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] was found in the year 3018 by the Paladin [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]. It was a complicated mixture of holy essences. The Cure was distributed to the people of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], and [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] was brought under control. The prevents [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] from going rampage, but didn't revert the already undead.
+The Cure for [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] was found in the year 3018 by the Paladin [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/High Paladin Erathenar\|Erathenar]]. It was a complicated mixture of holy essences. The Cure was distributed to the people of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], and [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] was brought under control. The prevents [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plague]] from going rampage, but didn't revert the already undead.
 
 </div></div>
 
@@ -127,7 +127,7 @@ The Cure for [[Promises of Victory/🌐Worldbuilding/Things/The Plague\|The Plag
 
 
 
-The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] were founded in the year 3023 by the necromancer [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]. She united her Undead breathren in the South of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] and established her territory. The Orcs of the nearby mountains soon joined her, and the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] became a powerful force. 
+The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] were founded in the year 3023 by the necromancer [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/General Malachi\|Malachi]]. She united her Undead breathren in the South of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] and established her territory. The Orcs of the nearby mountains soon joined her, and the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] became a powerful force. 
 
 </div></div>
 
@@ -138,7 +138,7 @@ The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers
 
 
 
-The War began in the year 3024 when the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] attacked multiple cities in the west of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. The [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] was quick to respond, and they pushed the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] back. The war continued for four years, with neither side gaining an advantage. 
+The War began in the year 3024 when the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] attacked multiple cities in the west of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. The [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]] was quick to respond, and they pushed the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] back. The war continued for four years, with neither side gaining an advantage. 
 
 
 </div></div>
@@ -161,7 +161,7 @@ In the year 3028, the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/
 
 
 
-In the year 3031, the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] conquered almost all of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. The League was pushed back to their last stronghold, the city of [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]]. The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] laid siege to the city, but the League's paladins fought bravely, and they were able to hold the city. 
+In the year 3031, the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] conquered almost all of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. The League was pushed back to their last stronghold, the city of [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Trollbans Hold\|Trollbans Hold]]. The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] laid siege to the city, but the League's paladins fought bravely, and they were able to hold the city. 
 
 </div></div>
 
@@ -196,7 +196,7 @@ The war continued for four more years, with neither side gaining an advantage. T
 
 
 
-In the year 3039, the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] made a push to conquer [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. They attacked the city of [[Promises of Victory/🌐Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]], the League's last stronghold. The League's paladins fought bravely, but they were outnumbered and outmatched. The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] conquered the city, and the war came to an end. 
+In the year 3039, the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] made a push to conquer [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. They attacked the city of [[Promises of Victory/🌐Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]], the League's last stronghold. The League's paladins fought bravely, but they were outnumbered and outmatched. The [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] conquered the city, and the war came to an end. 
 
 </div></div>
 
@@ -204,10 +204,10 @@ In the year 3039, the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/
 # [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] Related History
 While the war is going on, [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] , [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] , [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] and [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] also have a History:
 Ancient Events: [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] was sealed away by forces of nature
-Year 3012: [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] influence rises in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
+Year 3012: [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] influence rises in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]
 Year 3024: [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] is founded
 Year 3031: [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] is formed by cult leader Volar
-Year 3038: [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] arrives in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], spreading its influence 
+Year 3038: [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/The Fulfiller\|The Fulfiller]] arrives in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], spreading its influence 
 
 # Volars History
 [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Volar\|Volar]]s History: 
