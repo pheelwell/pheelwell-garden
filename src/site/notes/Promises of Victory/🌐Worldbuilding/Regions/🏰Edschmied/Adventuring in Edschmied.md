@@ -25,8 +25,8 @@
 | 2       | A patrol of soldiers from one of the factions, looking for deserters or spies.                                   |
 | 3       | A group of [[Promises of Victory/🌐Worldbuilding/Factions/Cold Heaven Dwarfs/Cold Heaven Dwarfs\|Cold Heaven Dwarfs]] are hard at work in the smithy, and they invite the PCs to join them for a drink.  |
 | 4       | A group of [[Promises of Victory/🌐Worldbuilding/Factions/Cold Heaven Dwarfs/Cold Heaven Dwarfs\|Cold Heaven Dwarfs]] are having a drinking contest in the tavern, and they invite the PCs to join them. |
-| 5       | Mages from [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]] are testing out a new spell in the streets, and they invite the PCs to help them test it.   |
-| 6       | A mearchant from [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]] is looking for guards to escort his caravan to Edschmied.                             |
+| 5       | Mages from [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]] are testing out a new spell in the streets, and they invite the PCs to help them test it.   |
+| 6       | A mearchant from [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]] is looking for guards to escort his caravan to Edschmied.                             |
 | 7       | A group of [[Promises of Victory/🌐Worldbuilding/Factions/Cold Heaven Dwarfs/Cold Heaven Dwarfs\|Cold Heaven Dwarfs]] are in the middle of a heated argument, and they ask the PCs to arbitrate.         |
 | 8       | A stone giant is causing havoc in the streets, and the PCs are asked to stop it.                                 |
 | 9       | A group of bandits are attempting to rob a merchant, and the PCs are asked to stop them.                         |
