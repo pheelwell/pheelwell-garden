@@ -10,7 +10,7 @@ This is a plot that the players can embark on to learn about the **[[Promises of
 
 #### [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Izen\|Izen]]
 
-When the player made [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Izen\|Izen]] leave **[[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]]** to investigate the Mages he traveled to **[[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]** to further research. He is trying to get into contact with the **[[Promises of Victory/🌐Worldbuilding/Factions/Lost Hops/The Lost Hops\|Lost Hops]]** to work for them and will ask the players to intentionally get robbed. 
+When the player made [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Izen\|Izen]] leave **[[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]]** to investigate the Mages he traveled to **[[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]** to further research. He is trying to get into contact with the **[[Promises of Victory/🌐Worldbuilding/Factions/Lost Hops/The Lost Hops\|Lost Hops]]** to work for them and will ask the players to intentionally get robbed. 
 Izen also asks the party to look for [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Martin\|Martin]], his personal assistant who he didn't have contact to after Martin left of to search for the Lost Hops on his own. 
 ## Secrets
 His assistant [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Martin\|Martin]] actually is the child of a Member of the **[[Promises of Victory/🌐Worldbuilding/Factions/Lost Hops/The Lost Hops\|Lost Hops]]**.
