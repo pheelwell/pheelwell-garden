@@ -3,7 +3,7 @@
 ---
 
 
-The Gifted are a religious grouping that has spread throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], gathering followers and growing in power. They worship [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] as the God of Death, whom they believe can resurrect and grant wishes to those who serve him faithfully. The grouping is primarily made up of people who have lost someone important in their lives, seeking solace and hope in [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s promises. As more join their ranks, they continue to gain influence and power throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
+The Gifted are a religious grouping that has spread throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], gathering followers and growing in power. They worship [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] as the God of Death, whom they believe can resurrect and grant wishes to those who serve him faithfully. The grouping is primarily made up of people who have lost someone important in their lives, seeking solace and hope in [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s promises. As more join their ranks, they continue to gain influence and power throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]].
 
 > [!TIP] Quick Reference
 > ![Pasted image 20230415212902.png|300](/img/user/resources/Pictures/Pasted%20image%2020230415212902.png)
@@ -17,7 +17,7 @@ The Gifted are a religious grouping that has spread throughout [[Skoria/🌐Worl
 >- **Allies**: [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] (offshoot [[resources/fileClass/Faction\|faction]] with similar goals)
 >- **Enemies**: Those who oppose [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] or interfere with their activities.
 >____
->-  **History**: The grouping has been gaining influence and power throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] as more people join it due to grief or loss.
+>-  **History**: The grouping has been gaining influence and power throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] as more people join it due to grief or loss.
 >- **Roleplaying Tips**: Act empathetic and comforting towards those suffering; keep sacrificial rituals hidden from public eye; focus on devotion to [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
 
 ## Appearance
@@ -35,14 +35,14 @@ The Gifted worships [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliate
 
 Members believe that by serving [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] faithfully and making the necessary sacrifices, they will be rewarded with eternal life or the resurrection of their lost loved ones. This powerful belief is what drives many to join the Gifted, seeking solace and hope in [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s promises.
 
-Their ultimate goal is to complete a powerful magical ritual they call the [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]]. They believe this ritual will not only bring back all those who have died in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] but also revert every undead creature back to its original human form. To achieve this, they need to gather enough Soul energy and construct a massive apparatus somewhere in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] that channels [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s power.
+Their ultimate goal is to complete a powerful magical ritual they call the [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]]. They believe this ritual will not only bring back all those who have died in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] but also revert every undead creature back to its original human form. To achieve this, they need to gather enough Soul energy and construct a massive apparatus somewhere in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] that channels [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s power.
 
 >[!secret]- Location of the Ritual
 >The apparatus is located beneath [[Promises of Victory/🌐Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]]
 
 ## Activities
 
-To spread their influence throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], members often travel from place to place, acting as preachers and healers. They offer aid and comfort to those suffering from grief or loss, using their empathetic nature and promises of resurrection to draw new followers into their ranks.
+To spread their influence throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], members often travel from place to place, acting as preachers and healers. They offer aid and comfort to those suffering from grief or loss, using their empathetic nature and promises of resurrection to draw new followers into their ranks.
 
 Their Headquarters [[Promises of Victory/🌐Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]] is located near [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Maerhof\|Maerhof]].
 
@@ -50,7 +50,7 @@ While they present themselves as a non-violent faction focused on healing and re
 
 ## Structure
 
-The Gifted is organized into several tiers, each with its own responsibilities and privileges. At the lowest level are Acolytes who serve as missionaries and healers throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. Above them are Preachers who lead congregations in worship and rituals dedicated to [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
+The Gifted is organized into several tiers, each with its own responsibilities and privileges. At the lowest level are Acolytes who serve as missionaries and healers throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. Above them are Preachers who lead congregations in worship and rituals dedicated to [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]].
 
 Higher-ranking members include Elders who oversee multiple congregations within a region, guiding them in their pursuit of [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s blessings. The inner circle comprises high-ranking priests known as Fulfillers who act as direct intermediaries between [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and his followers, receiving visions and instructions from the god himself.
 
@@ -58,7 +58,7 @@ At the very top are [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the
 
 ## Relationships with Other Factions
 
-The Gifted has a complex relationship with other factions in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. While they are generally seen as a non-violent and benevolent force by many, their secretive nature and hidden rituals have also attracted suspicion and distrust.
+The Gifted has a complex relationship with other factions in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. While they are generally seen as a non-violent and benevolent force by many, their secretive nature and hidden rituals have also attracted suspicion and distrust.
 
 One notable offshoot faction is [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]], who share similar goals with the Gifted but have chosen to follow a darker path. They harness the powers of [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Ilsensine\|Ilsensine]], an Eldritch deity, to achieve their aims, often clashing with members of [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s faithful.
 
@@ -163,7 +163,7 @@ Edschmied is an underground city beneath Maerhof where the apparatus for the Tur
 
 ## Maerhof
 
-Maerhof is a bustling city in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], serving as a hub for trade, commerce, and religion. The Gifted has established a strong presence here, attracting many followers and sympathizers.
+Maerhof is a bustling city in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], serving as a hub for trade, commerce, and religion. The Gifted has established a strong presence here, attracting many followers and sympathizers.
 
 > [!description] Description
 > Maerhof is a lively city with diverse architecture reflecting its history and various inhabitants. Temples to numerous gods stand alongside marketplaces and homes, while secret meetings of The Gifted occur in hidden corners and quiet alleys.
