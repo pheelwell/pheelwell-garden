@@ -19,4 +19,4 @@ Uncle is the other public figure and known as Carl, the owner of the magical sho
 old goblin man in his 70s, short white hair, green eyes, wrinkled skin, small build, wearing a brown robe.
 
 # Shops
-Carl has Shops in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Melmorwich/Melmorwich\|Melmorwich]] [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Maerhof\|Maerhof]] and in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]] allowing the [[Promises of Victory/🌐Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] to quickly between locations.
+Carl has Shops in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Melmorwich/Melmorwich\|Melmorwich]] [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Maerhof\|Maerhof]] and in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]] allowing the [[Promises of Victory/🌐Worldbuilding/Factions/Lost Hops/The Lost Hops\|The Lost Hops]] to quickly between locations.
