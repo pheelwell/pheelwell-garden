@@ -3,5 +3,5 @@
 ---
 
 Lead by [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Grushnak\|Grushnak]].
-Originate from the Mountains surrounding the [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] and felt pushed out by the [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]], so they were at war.
-Want to take Territory in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. Hired by the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] to assist in Battle against [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]
+Originate from the Mountains surrounding the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] and felt pushed out by the [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]], so they were at war.
+Want to take Territory in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. Hired by the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]] to assist in Battle against [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/League of Arathor\|League of Arathor]]
