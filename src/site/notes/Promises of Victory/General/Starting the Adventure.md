@@ -6,8 +6,8 @@
 
 ## Daylie War Progression
 
-The war in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] is Progressing every Day.
-There are Multiple Points of Control on 5 "Warfronts" in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]:
+The war in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] is Progressing every Day.
+There are Multiple Points of Control on 5 "Warfronts" in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]:
 
 #### Northern Warfront
 
@@ -40,7 +40,7 @@ There are Multiple Points of Control on 5 "Warfronts" in [[Skoria/🌐Worldbuild
 
 - Melmorwitch
 - [[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
-- [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]
+- [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]
 - Defiler's Den
 
 Read:
