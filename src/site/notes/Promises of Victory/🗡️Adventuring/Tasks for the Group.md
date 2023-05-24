@@ -42,7 +42,7 @@
 - [ ] Uncover the true identity of [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]]
 - [ ] Find out about [[Gandmuel\|Gandmuel]], including what happened to Tarwin's wife and daughter
 - [ ] Discover why [[Promises of Victory/🌐Worldbuilding/Factions/League of Arathor/Tarwin Althammer\|Tarwin Althammer]] was falsely accused of murder
-- [ ] Follow Tarwin's journey from [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]] to [[Promises of Victory/🗡️Adventuring/Player Characters/Ransden\|Ransden]] and uncover what he learned along the way
+- [ ] Follow Tarwin's journey from [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]] to [[Promises of Victory/🗡️Adventuring/Player Characters/Ransden\|Ransden]] and uncover what he learned along the way
 - [ ] Locate the documents created by Tarwin in [[Promises of Victory/🗡️Adventuring/Player Characters/Ransden\|Ransden]] that serve as a reminder of his tragedy and courage 
 
 ## Lost Hops
@@ -69,7 +69,7 @@
 - [ ] Learn more about [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]’s physical form, visions and his ability to grant people’s deepest desires 
 - [ ] Research into [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]’s peak of power thousends of years ago and into the forges powered by [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]] 
 - [ ] Discover the artifacts necessary to break the prison and prevent [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s escape 
-- [ ] Investigate [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s involvement in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]'s conflict and manipulate events from the shadows to break free
+- [ ] Investigate [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s involvement in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]'s conflict and manipulate events from the shadows to break free
 
 ## [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]]
  - [ ] Find out that [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]] are astral entities guiding spirits with unfulfilled ambitions
@@ -81,6 +81,6 @@
 ## Triad
 - [ ] Find out who is the publicly known head of [[Promises of Victory/🌐Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
 - [ ] Find out who are the other members of [[Promises of Victory/🌐Worldbuilding/Factions/The Triad/The Triad\|The Triad]]
-- [ ] Discover what [[Promises of Victory/🌐Worldbuilding/Factions/The Triad/The Triad\|The Triad]] sells to [[Skoria/🐻Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]] 
+- [ ] Discover what [[Promises of Victory/🌐Worldbuilding/Factions/The Triad/The Triad\|The Triad]] sells to [[🌐Skoria/🐻Bestiary/Subclasses/Cult of the Gifted Ones (Class)\|Cult of the Gifted Ones (Class)]] 
 - [ ] Investigate what the Cult does with [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]]
 
