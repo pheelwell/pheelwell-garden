@@ -29,13 +29,13 @@ Edard values devotion, determination, and loyalty above all else. He believes th
 
 ### Bonds
 
-As the sun sets over [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], the followers of The Gifted gather at Silken Sanctuary. Among them, a tall figure stands out - Edard Combell, co-founder of this enigmatic group. His piercing gaze scans the crowd, searching for any sign of disloyalty. Little do they know that he and Iraia are secretly working towards resurrecting an ancient god.
+As the sun sets over [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], the followers of The Gifted gather at Silken Sanctuary. Among them, a tall figure stands out - Edard Combell, co-founder of this enigmatic group. His piercing gaze scans the crowd, searching for any sign of disloyalty. Little do they know that he and Iraia are secretly working towards resurrecting an ancient god.
 
 ## Overview
 Edard Combell is a co-founder of [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]], a religious group that worships [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], the God of Death. He shares a deep bond with Iraia, another founding member who receives visions from [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]. Together, they lead their followers in secret rituals and sacrifices to help bring about the resurrection of their god and complete the Turnback Ritual.
 
 ## Notable Locations:
-- [[Promises of Victory/🌐Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]]: The headquarters of The Gifted, located near Maerhof in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. This is where Edard Combell and Iraia oversee their followers' activities and conduct secret rituals.
+- [[Promises of Victory/🌐Worldbuilding/Regions/Todo/🏰 Last Hope/Silken Sanctuary\|Silken Sanctuary]]: The headquarters of The Gifted, located near Maerhof in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. This is where Edard Combell and Iraia oversee their followers' activities and conduct secret rituals.
   
 ## Notable Figures:
 - [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/Iraia\|Iraia]]: Co-founder of The Gifted and close ally to Edard Combell; she receives visions from [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and guides their followers.
@@ -57,7 +57,7 @@ Edard Combell is devoted to [[Promises of Victory/🌐Worldbuilding/Factions/Una
 As a leader within The Gifted, Edard Combell may serve as a powerful ally or formidable enemy for adventurers who become entangled in the group's activities. His devotion to [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] and the Turnback Ritual could lead him to seek out powerful artifacts or forge alliances with other factions that share his goals.
 
 ## Geography and Climate:
-The Gifted's headquarters, Silken Sanctuary, is located near Maerhof in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. This area is characterized by its vast plains and temperate climate - ideal conditions for maintaining a low profile while conducting secretive rituals.
+The Gifted's headquarters, Silken Sanctuary, is located near Maerhof in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. This area is characterized by its vast plains and temperate climate - ideal conditions for maintaining a low profile while conducting secretive rituals.
 
 > [!quickref]
 >
