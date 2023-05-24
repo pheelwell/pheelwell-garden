@@ -58,6 +58,6 @@ Wallaricus can serve as a mentor figure for the party, providing guidance and su
 ## Trivia
 
 - Wallaricus is an expert in ancient languages and texts, making him a valuable resource for deciphering mysterious artifacts or uncovering long-lost knowledge.
-- He is known to have connections with various factions throughout [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], which he uses to gather information and forge alliances.
-- Wallaricus has recently discovered an ancient prophecy that may be connected to [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s manipulation of the war within [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. He is seeking more information before revealing his findings.
+- He is known to have connections with various factions throughout [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], which he uses to gather information and forge alliances.
+- Wallaricus has recently discovered an ancient prophecy that may be connected to [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s manipulation of the war within [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. He is seeking more information before revealing his findings.
 - The Library of Echoes: A hidden library within [[Promises of Victory/🌐Worldbuilding/Regions/🏰Lichtachte/Lichtachte\|Lichtachte]] that houses Wallaricus' extensive collection of books, scrolls, and artifacts.
