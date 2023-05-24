@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-05-19T21:39:37.806+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/adventure-journal/","title":"Adventure Journal","hideInGraph":true,"noteIcon":"Meta","created":"2023-03-26T15:39:19.572+02:00","updated":"2023-05-22T00:27:55.751+02:00"}
 ---
 
 
 # Adventuring Party
 The Party consists of:
 [[Promises of Victory/🗡️Adventuring/Player Characters/Jamoke\|Jamoke]]
-**Motivation:** A Troll [[Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] of the [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Echo Isles\|Echo Isles]]. He fled his home to pursue Adventure.  
+**Motivation:** A Troll [[🌐Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]] of the [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Echo Isles\|Promises of Victory/🌐Worldbuilding/Regions/Todo/Echo Isles]]. He fled his home to pursue Adventure.  
 **Story Relevance:** Jamokes Sister [[Promises of Victory/🌐Worldbuilding/Factions/Darkspear Trolls/Jaloren\|Jaloren]] is working for the [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]], she will be used to get the Party to fulfill the Ritual with the  [[Promises of Victory/🌐Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]] in the [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]].  
 
 [[Promises of Victory/🗡️Adventuring/Player Characters/Ransden\|Ransden]]
