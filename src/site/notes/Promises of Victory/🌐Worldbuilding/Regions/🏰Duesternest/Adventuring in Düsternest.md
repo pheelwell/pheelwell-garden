@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/promises-of-victory/worldbuilding/regions/duesternest/adventuring-in-duesternest/","title":"Adventuring in Düsternest","noteIcon":"Meta","created":"2023-01-25T02:26:53.566+01:00","updated":"2023-04-10T21:48:21.451+02:00"}
 ---
 
-# Adventuring in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]
+# Adventuring in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]]
 
 ### Hooks
 
@@ -18,7 +18,7 @@ Optional:
 Flavor:
 
 - The players help a group of artisans create a sculpture for the castle
-- While in a tavern, the players witness a fight between two groups of people. ([[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]] Politics)
+- While in a tavern, the players witness a fight between two groups of people. ([[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Gandmuel/Gandmuehl\|Gandmuehl]] Politics)
 
 ### Encounters
 
@@ -42,7 +42,7 @@ Flavor:
 
 ### Traveling to [[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]
 
-The city can be reached by land or sea. The nearest port is in the city of [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]].
+The city can be reached by land or sea. The nearest port is in the city of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Herbstbog/Herbstbog\|Herbstbog]].
 
 As the Party approaches the City, read the following text:
 
