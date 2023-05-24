@@ -4,7 +4,7 @@
 
 
 ## Souls of the Dead
-The [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] hast been gathering Energy from the fallen soldiers in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to fuel the Ritual. Players can gather aditional energy by visiting the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]].
+The [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] hast been gathering Energy from the fallen soldiers in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to fuel the Ritual. Players can gather aditional energy by visiting the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]].
 
 
 The player dip their toes into the border of the afterlife and investigate **the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]]**, a strange Folk of Atral being, that guide deceased souls through their unfulfilled ambitions.
@@ -14,5 +14,5 @@ The player dip their toes into the border of the afterlife and investigate **the
 
 
 # [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Forge of Chaos\|Forge of Chaos]]
-Under Dr Phalandos House in [[Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Falk/Falk\|Falk]]
+Under Dr Phalandos House in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Falk/Falk\|Falk]]
 [[Promises of Victory/🗡️Adventuring/Arcs/Artifact of Chaos (Arc)/Artifact of Chaos (Arc)\|Artifact of Chaos (Arc)]]
