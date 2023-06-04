@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/picture-gallery/","noteIcon":"Meta","created":"2023-04-07T22:35:08.281+02:00","updated":"2023-04-08T00:53:06.966+02:00"}
+{"dg-publish":true,"permalink":"/resources/picture-gallery/","noteIcon":"Meta","created":"2023-04-07T22:35:08.281+02:00","updated":"2023-05-24T23:10:52.948+02:00"}
 ---
 
 
@@ -63,7 +63,7 @@ Here are some Images generated with [[Midjourney\|Midjourney]]:
 ![Pasted image 20230213000715.png](/img/user/resources/Pictures/Pasted%20image%2020230213000715.png)
 ![Pasted image 20230326232827.png](/img/user/resources/Pictures/Pasted%20image%2020230326232827.png)
 ![Pasted image 20230326232912.png](/img/user/resources/Pictures/Pasted%20image%2020230326232912.png)
-![Pasted image 20230326232951.png](/img/user/resources/Pictures/Pasted%20image%2020230326232951.png)
+![Herbstbog_map.png](/img/user/%F0%9F%8C%90Skoria/Pictures/Herbstbog_map.png)
 ![Pasted image 20230329225428.png](/img/user/resources/Pictures/Pasted%20image%2020230329225428.png)
 ![Pasted image 20230329230847.png](/img/user/resources/Pictures/Pasted%20image%2020230329230847.png)
 ![Pasted image 20230330010841.png](/img/user/resources/Pictures/Pasted%20image%2020230330010841.png)
@@ -71,7 +71,7 @@ Here are some Images generated with [[Midjourney\|Midjourney]]:
 ![Pasted image 20230330012123.png](/img/user/resources/Pictures/Pasted%20image%2020230330012123.png)
 ![Pasted image 20230330012247.png](/img/user/resources/Pictures/Pasted%20image%2020230330012247.png)
 ![Pasted image 20230330134835.png](/img/user/resources/Pictures/Pasted%20image%2020230330134835.png)
-![Pasted image 20230331000035.png](/img/user/resources/Pictures/Pasted%20image%2020230331000035.png)
+![Falk.png](/img/user/%F0%9F%8C%90Skoria/Pictures/Falk.png)
 ![Pasted image 20230405230614.png](/img/user/resources/Pictures/Pasted%20image%2020230405230614.png)
 ![Pasted image 20230405230706.png](/img/user/resources/Pictures/Pasted%20image%2020230405230706.png)
 ![Pasted image 20230405232124.png](/img/user/resources/Pictures/Pasted%20image%2020230405232124.png)
