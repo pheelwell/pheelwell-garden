@@ -27,5 +27,5 @@ As mortal civilizations grew more powerful, conflicts between them increased, le
 # Epoch of Change
 With the barrier between [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]] and the [[🌐Skoria/🌐Worldbuilding/Nether Plane/Nether Plane\|Nether Plane]] in place, divine forces began to find ways to access [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]] again through other means, leading to an increase in mysterious events and encounters with supernatural beings and divinity.
 # Epoch of Unity
-In response to the growing threats from both within and beyond Skoria, different races and kingdoms began forming alliances for mutual protection and cooperation.
+In response to the growing threats from both within and beyond [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]], different races and kingdoms began forming alliances for mutual protection and cooperation.
 
