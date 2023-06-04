@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-type: Meta
+{"dg-publish":true,"permalink":"/skoria/meta/example-site/","noteIcon":"Meta","created":"2023-05-24T22:38:40.002+02:00","updated":"2023-05-24T23:10:58.385+02:00"}
 ---
+
 
 # Example
 This is an example Obsidian note.
