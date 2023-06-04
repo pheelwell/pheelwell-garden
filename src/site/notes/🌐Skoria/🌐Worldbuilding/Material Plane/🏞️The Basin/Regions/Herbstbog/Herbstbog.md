@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skoria/worldbuilding/material-plane/the-basin/regions/herbstbog/herbstbog/","title":"Herbstbog","noteIcon":"Settlement","created":"2023-01-25T02:26:53.385+01:00","updated":"2023-05-19T23:29:45.608+02:00"}
+{"dg-publish":true,"permalink":"/skoria/worldbuilding/material-plane/the-basin/regions/herbstbog/herbstbog/","title":"Herbstbog","noteIcon":"Settlement","created":"2023-01-25T02:26:53.385+01:00","updated":"2023-05-24T23:10:53.573+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 ## Overview
 Herbstbog is a thriving city with a population of around 23,000 inhabitants. It is renowned for its high academic research in magic and bustling water trade. Located next to a branch of the Stillfluss river, it connects the transport route from the [[Promises of Victory/🌐Worldbuilding/Regions/Todo/Mines of Torrar\|Mines of Torrar]] to other cities by water. The city is divided into three main districts: Arcane Top, Gardens, and Harbor.
 
-![Pasted image 20230326232951.png](/img/user/resources/Pictures/Pasted%20image%2020230326232951.png)
+![Herbstbog_map.png](/img/user/%F0%9F%8C%90Skoria/Pictures/Herbstbog_map.png)
 
 
 # Notable Locations:
