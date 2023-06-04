@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-06-04T17:24:54.759+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-06-04T17:29:08.417+02:00"}
 ---
 
 
@@ -106,6 +106,7 @@ unit: days
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/promises-of-victory/adventuring/arcs/artifact-of-chaos-arc/artifact-of-chaos-arc/#artifact-of-chaos-arc" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -117,25 +118,6 @@ Coming into contact with followers of the [[Promises of Victory/🌐Worldbuildin
 The player investigate [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|The Shaddowhammer]] that have taken over the Temple of the Watcher and have started a ritual to open a Gate to the Abyss, to claim the [[Promises of Victory/🌐Worldbuilding/Things/Tear of the Archdevil\|Tear of the Archdevil]].
 
 - Brought by Player (TODO)
-
-</div></div>
-
-
- 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/promises-of-victory/adventuring/arcs/souls-of-the-dead-arc/souls-of-the-dead-arc/#souls-of-the-dead" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Souls of the Dead
-The [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] hast been gathering Energy from the fallen soldiers in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]] to fuel the Ritual. Players can gather aditional energy by visiting the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]].
-
-
-The player dip their toes into the border of the afterlife and investigate **the [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]]**, a strange Folk of Atral being, that guide deceased souls through their unfulfilled ambitions.
-
-- [[Promises of Victory/🌐Worldbuilding/Factions/Nosem/Nosem\|Nosem]] will provide guidance
-- Darkspear Troll is used by [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/The Shaddowhammer\|Shaddowhammer]] to Siphon Souls
-
-
 
 </div></div>
 
