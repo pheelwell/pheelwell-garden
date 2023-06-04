@@ -11,39 +11,42 @@ dg-publish: true
 > [!quote] "The ground trembled as the heat intensified, and in the midst of the inferno, Asmadan's wrathful form emerged."
 
 ## Overview
-Asmadan, the deity of fire and combat, is a vengeful being who takes great pleasure in wreaking havoc upon enemies. Their very presence can ignite an intense inferno, consuming all who dare to oppose them.
+Asmadan, the deity of fire and combat, is a vengeful being who takes great pleasure in wreaking havoc upon enemies. His very presence can ignite an intense inferno, consuming all who dare to oppose them.
 
 > [!TIP] Quick Reference
-> ![[Asmadan.png\| 300]] 
-> **Asmadan** 
->  The Deity of Fire and Combat
+> ![Asmadan.png|300](/img/user/%F0%9F%8C%90Skoria/Pictures/Asmadan.png)
+> 
+The Deity of Fire and Combat
 >- **Domains**: Fire, Combat
->- **Symbols**: Blazing flames, weapons engulfed in fire
->- **Worshipers**: Warriors seeking victory in battle, pyromancers
+>- **Symbols**: Blazing flames, Hammers or Axes engulfed in fire
+>- **Worshipers**: Warriors seeking victory in battle, pyromancers, barbarians
+>  those who seek Aid in Battle or want to explore the endless fires.
 > ____
 >- **Alignment**: Chaotic neutral
->- **Allies**: Deities of destruction and chaos
->- **Enemies**: Deities of peace and order
+>- **Allies**: 
+>- **Enemies**: Umbrial
 >____
->-  **History**: A being born from conflict and destruction.
->- **Roleplaying Tips**: Embrace wrath and vengeance when roleplaying as a follower of Asmadan.
+>
 
 # Religion
 ## Ideals
-Asmadan's teachings revolve around embracing one's inner fury to fuel their power in battle. Followers believe that their rage is a gift from Asmadan that allows them to conquer their foes through sheer force. They also value strength over diplomacy, often favoring brute force over negotiation.
+
+
 
 ## Worshipers
-Warriors seeking victory on the battlefield often turn to Asmadan for guidance. These worshipers believe that by channeling their anger into their combat skills, they can defeat any opponent. Pyromancers also follow Asmadan due to his mastery over fire magic.
+
 
 ## Temples
 Temples dedicated to Asmadan are usually adorned with fiery motifs and symbols depicting weapons engulfed in flames. The interior is often dark and foreboding, with open flames providing the only source of light. Statues of Asmadan can be found in the center of these temples, surrounded by offerings from worshipers seeking his favor.
 
 # Lore
 ## History
-Asmadan's origins are rooted in conflict and destruction. Born from the ashes of countless battles, he embodies the primal rage that fuels warriors in their quest for victory. Over time, Asmadan has become a prominent figure among those who seek to dominate their enemies through raw power.
+Asmadan's origins are rooted in conflict and destruction. Born from the ashes of countless battles, he embodies the primal rage that fuels the fire in the heart of any warrior. Wild at heart, ignited by victory. 
+In the early times Asmadan had the shape of a very sinister and wild beast, wielding a hammer followed by a swath of desolation. In the time of the shattering Asmadan upgraded his wargear, he is wearing a dark Armor and fiery weapons.
+![Asmadan 2.png|300](/img/user/%F0%9F%8C%90Skoria/Pictures/Asmadan%202.png)
 
 ## The Birth of Fire Magic
-It is believed that Asmadan was the first deity to wield fire magic. He shared this newfound power with his followers so they could incinerate their enemies and spread his influence across the land.
+It is believed that Asmadan was the first deity to wield fire magic. He created it through some nodes which were powered by [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Mysteria\|Mysteria]]. The existence of this magic lead many magicians and other magical beeings to practise the flame of [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan\|🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]].
 
 # Roleplaying
 ## Goals and Motivations
@@ -63,8 +66,7 @@ When roleplaying as a follower of Asmadan, embrace your character's wrath and ch
 
 # Trivia
 - Some believe that Asmadan was once a mortal warrior who ascended to godhood after countless victories in battle.
-- It is rumored that Asmadan's most devout followers can summon his fiery avatar to aid them in combat.
-- Some ancient texts claim that the first fire magic spells were taught to mortals by Asmadan himself.### Asmadan
+- Some ancient texts claim that the first fire magic spells were taught to mortals by [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan\|🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] himself.
 - Domain: Fire
 - Associated Element: Combat
 - Virtue: Wrath
