@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-06-04T17:48:20.170+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-06-04T18:18:07.599+02:00"}
 ---
 
 
@@ -21,6 +21,8 @@ Parallel to that it seems a new threat, [[Promises of Victory/🌐Worldbuilding/
 ## Major Plot Threads
 
 Those are the Threads the Player need to solve:
+
+**TODO Becahsue old files crashed Site**
 
 # Optional Threads
 ![Pasted image 20230330012123.png](/img/user/resources/Pictures/Pasted%20image%2020230330012123.png)
