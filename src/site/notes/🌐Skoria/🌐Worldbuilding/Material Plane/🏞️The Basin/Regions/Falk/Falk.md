@@ -1,22 +1,11 @@
 ---
-dg-publish: true
-title: Falk
-type: Settlement
-sum:
-  - Falk is a small town located in Basin's Forest, west of Düsternest
-  - Established as a logging community, now has diverse population including hunters, craftsmen, and undead members called Defilers 
-  - Economy depends on logging and hunting, with occasional trade from passing merchants
-  - Weekly competitions attract travelers from far and wide
-  - Surrounded by dense forest with tall trees and abundant wildlife 
-  - Alliance with Defilers, housing many undead among its population
-  - Neutral in regional conflicts due to remote location and lack of strategic importance 
-  - Notable citizens include Dr. Phalando, an energetic mayor, magical twin elf children, and Gargula (old lady who sells magical trinkets)
-  - Local threats include wild animals like bears and wolves, as well as occasional goblin sightings
+{"dg-publish":true,"permalink":"/skoria/worldbuilding/material-plane/the-basin/regions/falk/falk/","title":"Falk","noteIcon":"Settlement","created":"2023-05-21T22:24:00.043+02:00","updated":"2023-05-24T23:09:16.898+02:00"}
 ---
+
 
 Falk is a small, remote town nestled in the south of Basin's Forest, west of [[Promises of Victory/🌐Worldbuilding/Regions/🏰Duesternest/Duesternest\|Duesternest]]. It was initially established as a logging community but has since grown to include a diverse population of hunters, craftsmen, and even some undead members known as the [[Promises of Victory/🌐Worldbuilding/Factions/Defilers/Defilers\|Defilers]]. The town's economy primarily depends on logging and hunting, with occasional trade from passing merchants. Falk is also known for its weekly competitions that attract travelers from far and wide.
 
-![Pasted image 20230331000035.png](/img/user/resources/Pictures/Pasted%20image%2020230331000035.png)
+![Falk.png](/img/user/%F0%9F%8C%90Skoria/Pictures/Falk.png)
 ## Notable Locations:
 - [[Tavern to the Screaming Banshee\|Tavern to the Screaming Banshee]]: A popular gathering place for locals and visitors alike that magically changes its interior every time someone enters.
 - [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/Regions/Falk/Gargula\|Gargula]]'s Trinket Shop: A mysterious shop owned by an enigmatic old lady who sells magical trinkets and reads omens.
