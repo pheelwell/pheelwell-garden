@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-06-04T17:41:58.720+02:00"}
+{"dg-publish":true,"permalink":"/promises-of-victory/adventuring/structure-of-the-campain/","title":"Structure of the Campain","hideInGraph":true,"noteIcon":"Meta","created":"2023-01-25T02:26:52.799+01:00","updated":"2023-06-04T17:44:30.305+02:00"}
 ---
 
 
@@ -21,21 +21,6 @@ Parallel to that it seems a new threat, [[Promises of Victory/🌐Worldbuilding/
 ## Major Plot Threads
 
 Those are the Threads the Player need to solve:
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/promises-of-victory/adventuring/arcs/the-turnback-ritual-arc/the-turnback-ritual-arc/#the-turnback-ritual" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## The Turnback Ritual
-For the last 20 Years [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] are building an Arcane Machine out of [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] that they think will lead to the resurrection of all fallen People in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]]. The [[Promises of Victory/🌐Worldbuilding/Factions/The Triad/The Triad\|The Triad]] has been hiding the many shipments of [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] towards the Ritual Site. 
-When all Artifacts are brought to their respective Forges and the Seals are broken.  The [[Promises of Victory/🌐Worldbuilding/Factions/Shaddowhammer/Turnback\|Turnback]] ritual will begin, leading to the release of [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]], the old god of false promises. [[Promises of Victory/🌐Worldbuilding/Factions/Cult of the Gifted/The Gifted\|The Gifted]] Ones, believing they will revive every lost soul in [[🌐Skoria/🌐Worldbuilding/Material Plane/🏞️The Basin/The Basin\|The Basin]], will unknowingly bring about [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s return and potential domination over the world.
-As the ritual commences, a colossal [[Promises of Victory/🌐Worldbuilding/Things/Stoalium\|Stoalium]] contraption built by the Cult beneath the city of [[Promises of Victory/🌐Worldbuilding/Regions/🏰Edschmied/Edschmied\|Edschmied]] will start to channel the gathered soul' energy into each of the three forges. 
-It takes one week for the Prison of [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]] to break.   
-The party must race against time to not only prevent [[Promises of Victory/🌐Worldbuilding/Factions/Unaffiliated/Naruun\|Naruun]]'s escape but also find a way to destroy or contain him for good.
-
-</div></div>
-
 
 # Optional Threads
 ![Pasted image 20230330012123.png](/img/user/resources/Pictures/Pasted%20image%2020230330012123.png)
