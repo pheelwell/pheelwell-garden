@@ -5,7 +5,7 @@ type: Meta
 ---
 
 
-Welcome to the Digital Garden of Skoria Lore
+Welcome to the Digital Garden of [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]] Lore
 
 Delve into the mystical world of [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]], a land filled with secrets, history, and wonder. Within this digital garden, you'll uncover knowledge about:
 
@@ -23,4 +23,4 @@ Let the adventure begin!
 
 ![Changelog]
 
-For any updates or changes made to this digital garden, please refer to our ![[Changelog\|Changelog]].
+For any updates or changes made to this digital garden, please refer to our ![[Changelog\|Changelog]]
