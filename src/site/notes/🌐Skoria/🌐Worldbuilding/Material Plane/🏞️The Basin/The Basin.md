@@ -5,7 +5,7 @@
 
 As twilight descends upon the Ivagur Peaks, casting long shadows across the Basin, a solitary traveler journeys along an ancient path. The Silent River winds gracefully around the hill atop which Edschmied stands sentinel, its waters glimmering like molten silver in the dwindling light. Within this secluded and diverse land, a myriad of tales and mysteries await those bold enough to seek them out.
 
-![Map of the Basin.png](/img/user/resources/Pictures/Map%20of%20the%20Basin.png)
+![Map of the Basin.png](/img/user/%F0%9F%8C%90Skoria/Pictures/Map%20of%20the%20Basin.png)
 
 # Geography
 ## Notable Settlements:
