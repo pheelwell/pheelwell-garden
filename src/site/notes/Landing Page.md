@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-threshold/","title":"Index","hideInGraph":false,"pinned":true,"tags":["gardenEntry"],"noteIcon":"meta"}
+{"dg-publish":true,"permalink":"/the-threshold/","title":"Index","hideInGraph":false,"pinned":true,"tags":["gardenEntry"],"noteIcon":"🤘"}
 ---
 
 
