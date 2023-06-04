@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-06-04T16:56:42.357+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-06-04T16:58:28.804+02:00"}
 ---
 
 This project explores the use of embeddings to analyze and organize a collection of notes. The process involves generating embeddings for the notes, finding the closest embeddings to a given input text, and visualizing the generated embeddings.
@@ -54,6 +54,7 @@ The following images showcase some visualizations from this research:
 ![Pasted image 20230410222621.png](/img/user/resources/Pictures/Pasted%20image%2020230410222621.png)
 
 7. Only Fantasy Prompts:
+
  ![Pasted image 20230411001703.png](/img/user/resources/Pictures/Pasted%20image%2020230411001703.png)
 
 In conclusion, this research demonstrates the potential of using embeddings to analyze and organize notes, revealing patterns and relationships that can be further explored or leveraged for practical applications.
