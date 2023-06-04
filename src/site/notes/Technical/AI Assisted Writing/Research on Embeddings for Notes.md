@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-06-04T16:39:41.742+02:00"}
+{"dg-publish":true,"permalink":"/technical/ai-assisted-writing/research-on-embeddings-for-notes/","noteIcon":"Technical","created":"2023-04-10T20:06:31.233+02:00","updated":"2023-06-04T16:44:03.568+02:00"}
 ---
 
 This project explores the use of embeddings to analyze and organize a collection of notes. The process involves generating embeddings for the notes, finding the closest embeddings to a given input text, and visualizing the generated embeddings.
@@ -28,24 +28,60 @@ Visualizations of clustered embeddings revealed some interesting patterns:
 
 The following images showcase some visualizations from this research:
 
-1. Clustering for embeddings for each seperate heading with filenames attached:
-![Pasted image 20230410220445.png](/img/user/resources/Pictures/Pasted%20image%2020230410220445.png)
-2. Clustered paragraph embeddings without filenames:
-![Pasted image 20230411001417.png](/img/user/resources/Pictures/Pasted%20image%2020230411001417.png)
-3. Weird Vector from empty File, Embeddings done on whole files:
-![Pasted image 20230410222154.png](/img/user/resources/Pictures/Pasted%20image%2020230410222154.png)
-4. Improved clustering after removing empty files and enforcing a 100-character minimum:
-![Pasted image 20230410222510.png](/img/user/resources/Pictures/Pasted%20image%2020230410222510.png)
-5. Zoomed-in view showing a cluster of research articles:
-![Pasted image 20230410222553.png](/img/user/resources/Pictures/Pasted%20image%2020230410222553.png)
-6. Zoomed-in view showing a cluster of documentation:
-![Pasted image 20230410222621.png](/img/user/resources/Pictures/Pasted%20image%2020230410222621.png)
-7. Only Fantasy Prompts:
- ![Pasted image 20230411001703.png](/img/user/resources/Pictures/Pasted%20image%2020230411001703.png)
-In conclusion, this research demonstrates the potential of using embeddings to analyze and organize notes, revealing patterns and relationships that can be further explored or leveraged for practical applications.
+**Arguments:**
 
-## Example Usage:
-As an example of practical usage, this approach was used to generate a list of interesting secrets for a fictional campaign by appending relevant prompts to an output file and running it through GPT-4. This resulted in this query output containing all important Articles:
-[[Technical/AI Assisted Writing/Secret Query Output File\|Secret Query Output File]]
-The output was appended by "Give a list of the most important Secerts of the Campain". This was the Result given by GPT-4:
-[[Technical/AI Assisted Writing/Important Secrets of the Campain\|Important Secrets of the Campain]]
+- `--path`: The path to the folder containing the markdown files (default: 'promised-victory').
+- `--embeddings`: The path to the output embeddings file (default: 'embeddings.json').
+- `--mode`: The mode of processing - either 'files' or 'paragraphs' (default: 'files').
+- `--max_length`: The maximum length of one embedding (default: 5000).
+
+### 2. `get_closest_embeddings.py`
+
+This script finds the closest embeddings to a given input text.
+
+**Usage:**
+
+```bash
+python get_closest_embeddings.py --embeddings embeddings.json --num_chars 10000 --input_text "this is a test"
+```
+
+**Arguments:**
+
+- `--embeddings`: The path to the input embeddings file (default: 'embeddings.json').
+- `--num_chars`: The number of characters to load from the input file (default: 10000).
+- `--input_text`: The input text that should be used to find the closest embeddings (required).
+
+### 3. `vizualize_embeddings.py`
+
+This script visualizes the generated embeddings using dimensionality reduction techniques with PCA and clustering with KMeans.
+
+**Usage:**
+
+```bash
+python vizualize_embeddings.py --embeddings embeddings.json
+```
+
+**Arguments:**
+
+- `--embeddings`: The path to the input embeddings file (default: 'embeddings.json').
+
+### Example Workflow
+
+1. Prepare a folder with markdown files containing your notes, e.g., 'promised-victory'.
+2. Generate embeddings for these notes:
+
+```bash
+python generate_embeddings.py --path promised-victory --embeddings embeddings_v6.json --mode files --max_length 2000
+```
+
+3. Find the closest embeddings to a given input text:
+
+```bash
+python get_closest_embeddings.py --embeddings embeddings_v6.json --num_chars 10000 --input_text "this is a test"
+```
+
+4. Visualize the generated embeddings:
+
+```bash
+python vizualize_embeddings.py --embeddings embeddings_v6.json
+```
