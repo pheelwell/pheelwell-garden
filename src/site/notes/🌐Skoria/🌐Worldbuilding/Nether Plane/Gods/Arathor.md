@@ -1,13 +1,7 @@
 ---
-type: Deity
-dg-publish: true
-sum:
-  - Arathor, god of justice, order, and righteousness
-  - Known as the Radiant Judge
-  - Followers called League of Arathor uphold teachings and combat evil
-  - Symbol is a radiant sun; temples built to catch sunlight
-  - Ascended to godhood through unwavering determination and belief in justice
+{"dg-publish":true,"permalink":"/skoria/worldbuilding/nether-plane/gods/arathor/","noteIcon":"Deity","created":"2023-05-24T22:38:40.007+02:00","updated":"2023-05-25T21:33:38.560+02:00"}
 ---
+
 
 As the first rays of dawn pierce the darkness, illuminating the resplendent temple atop a mountain, a figure clad in shining armor kneels in prayer. Seeking guidance and strength from Arathor, the god of righteousness, order, and justice, they are filled with divine wisdom as the deity's thunderous voice resonates within their soul.
 
@@ -15,7 +9,7 @@ As the first rays of dawn pierce the darkness, illuminating the resplendent temp
 Arathor is known as the Radiant Judge due to their role in maintaining justice throughout mortal societies. As a deity of orderliness they represent fairness in judgment while ruling over concepts such as lawfulness or stability within society itself. Arathor is also associated with protection and safety, ensuring that all creatures can exist without fear of harm.
 
 > [!TIP] Quick Reference
-> ![Pasted image 20230430131352.png|300](/img/user/resources/Pictures/Pasted%20image%2020230430131352.png)
+> ![Arathor.png|300](/img/user/%F0%9F%8C%90Skoria/Pictures/Arathor.png) 
 > **Arathor** 
 >  God of Righteousness, Order, and Justice
 >- **Domains**: Righteousness, Order, Justice
