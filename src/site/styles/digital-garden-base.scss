@@ -340,8 +340,8 @@ ul.task-list {
 .navbar {
     background-color: var(--background-secondary);
    
-    position: static; //added
-   //position: absolute;
+    //position: static; //added
+   position: absolute;
     width: 100%;
     top: 0;
     left: 0;
