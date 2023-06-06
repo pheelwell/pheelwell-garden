@@ -261,7 +261,7 @@ ul.task-list {
         border-radius: 0 10px 10px 10px;
     }
     .sidebar {
-        position: relative;
+      //  position: relative;
         transform: none;
         border-radius: 4px;
         margin-top: 50px;
@@ -351,10 +351,10 @@ ul.task-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    @media (max-width: 1400px) {
+   /* @media (max-width: 1400px) {
         position: fixed;
     }
-
+*/
     @media (max-width: 800px) {
         h1 {
             font-size: 18px !important;
@@ -365,6 +365,7 @@ ul.task-list {
         display: flex;
         align-items: center;
         cursor: pointer;
+        position: inherit;
     }
 
     .search-button {
