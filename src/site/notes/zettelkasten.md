@@ -5,7 +5,7 @@ noteIcon: "📰"
 ---
 
 
-[[Landing Page]]
+[[Landing Page|Landing Page]]
 
 ## Quick Facts
 - *Zettelkasten Method* is a method of note-taking and organization. It is German for *"slip box"*. 
