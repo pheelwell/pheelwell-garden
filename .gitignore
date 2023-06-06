@@ -9,3 +9,5 @@ src/site/styles/_theme.*.css
 .idea/
 .vercel
 **/.DS_Store
+src/site/notes/.obsidian
+
