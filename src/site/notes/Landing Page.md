@@ -33,9 +33,9 @@ It is a garden for ideas. For thoughts. For knowledge. You're free to visit. You
 
 The aim of this little corner of the Internet is to make my personal wiki accessible, transparent (everything here is on the github repository, I'll be transparent about my methods, etc), and free! [[Free as in freedom, not free beer.\|Free as in freedom, not free beer.]]
 
-### My Setup 
-The site is built using [Quartz by Jack Zhao](https://github.com/jackyzha0/quartz) It is open source!
-I take notes using [Obsidian](https://obsidian.md), a truly revolutionary tool. 
+
+> [!caution] fsa
+> Contents
 
 
 ---
