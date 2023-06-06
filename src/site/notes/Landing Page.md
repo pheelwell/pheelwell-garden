@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-threshold/","title":"Index","hideInGraph":false,"pinned":true,"tags":["gardenEntry"],"noteIcon":"Meta"}
 ---
 
-
+![astrodex](img/astrodex.png)
 
 # Welcome to Astro's Garden! 🌱
 
