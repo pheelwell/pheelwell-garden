@@ -339,12 +339,14 @@ ul.task-list {
 
 .navbar {
     background-color: var(--background-secondary);
-    position: absolute;
+   
+    position: static; //added
+   //position: absolute;
     width: 100%;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 3;
+    //z-index: 3;
     padding-left: var(--file-margins);
     display: flex;
     justify-content: space-between;
@@ -450,7 +452,7 @@ ul.task-list {
     background-color: var(--background-primary);
     max-width: 80%;
     width: 900px;
-    border-radius: 15px;
+    //border-radius: 15px;
     padding: 10px;
     height: fit-content;
 }
@@ -483,7 +485,7 @@ ul.task-list {
     list-style: none;
     background-color: var(--background-secondary);
     padding: 10px;
-    border-radius: 10px;
+    //border-radius: 10px;
     font-size: 1.2rem;
     cursor: pointer;
 
