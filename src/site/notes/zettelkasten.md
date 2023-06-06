@@ -5,6 +5,8 @@ noteIcon: "📰"
 ---
 
 
+[[Landing Page]]
+
 ## Quick Facts
 - *Zettelkasten Method* is a method of note-taking and organization. It is German for *"slip box"*. 
 - Popularized by Niklas Luhmann[^1]. 
