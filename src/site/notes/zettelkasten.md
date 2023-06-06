@@ -1,7 +1,6 @@
 ---
 title: "Zettelkasten"
 tags: ['philosophy', 'tool']
-noteIcon: "📰"
 ---
 
 
