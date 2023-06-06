@@ -34,6 +34,9 @@ It is a garden for ideas. For thoughts. For knowledge. You're free to visit. You
 The aim of this little corner of the Internet is to make my personal wiki accessible, transparent (everything here is on the github repository, I'll be transparent about my methods, etc), and free! [[Free as in freedom, not free beer.\|Free as in freedom, not free beer.]]
 
 
+> [!caution] fsa
+> Contents
+
 
 ---
 [^codex]: A Codex vitae is a 'living document'. Coined by Robin Sloan. Popularized by Buster Benson. https://busterbenson.com/blog/2012/11-28-codex-vitae/ 
