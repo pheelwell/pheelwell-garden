@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skoria/worldbuilding/nether-plane/gods/zarinesh/","noteIcon":"Deity","created":"2023-06-03T20:22:00.138+02:00","updated":"2023-06-04T15:58:27.576+02:00"}
+{"dg-publish":true,"permalink":"/skoria/worldbuilding/nether-plane/gods/zarinesh/","noteIcon":"Deity","created":"2023-06-06T00:06:23.995+02:00","updated":"2023-06-08T12:42:21.014+02:00"}
 ---
 
 ### Zarinesh
