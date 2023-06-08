@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dunning-krueger/","title":"Dunning Krueger Effect","tags":["adages","bias"]}
+{"dg-publish":true,"permalink":"/dunning-krueger/","title":"Dunning Krueger Effect","tags":["adages","bias"],"created":"2023-05-12","updated":""}
 ---
 
 
