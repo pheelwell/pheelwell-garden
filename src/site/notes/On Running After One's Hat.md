@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/on-running-after-one-s-hat/","title":"On Running After One's Hat","tags":["Review","Essay"]}
+{"dg-publish":true,"permalink":"/on-running-after-one-s-hat/","title":"On Running After One's Hat","tags":["Review","Essay"],"created":"2022-06-27","updated":""}
 ---
 
 
