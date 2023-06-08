@@ -12,6 +12,7 @@ Delve into the mystical world of [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]]
 - The mysterious [[🌐Skoria/🌐Worldbuilding/Nether Plane/Nether Plane\|Nether Plane]]
 - The rich [[🌐Skoria/🌐Worldbuilding/Nether Plane/Divine History\|Divine History]] of gods and deities
 - The captivating cities and cultures within [[🌐Skoria/🌐Worldbuilding/Skoria\|Skoria]]
+- The city of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Regions/Ergon\|Ergon]] in the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes\|Irasnian Wastes]] 
 
 Explore unique subclasses such as:
 - The enigmatic [[🌐Skoria/🐻Bestiary/Subclasses/Shadow Hunter\|Shadow Hunter]]
