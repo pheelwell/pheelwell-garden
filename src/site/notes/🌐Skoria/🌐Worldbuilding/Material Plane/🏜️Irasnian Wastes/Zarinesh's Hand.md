@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skoria/worldbuilding/material-plane/irasnian-wastes/zarinesh-s-hand/","noteIcon":"Region","created":"2023-06-06T00:06:23.946+02:00","updated":"2023-06-08T13:30:10.569+02:00"}
+{"dg-publish":true,"permalink":"/skoria/worldbuilding/material-plane/irasnian-wastes/zarinesh-s-hand/","noteIcon":"Region","created":"2023-06-06T00:06:23.946+02:00","updated":"2023-06-08T13:31:39.945+02:00"}
 ---
 
 
