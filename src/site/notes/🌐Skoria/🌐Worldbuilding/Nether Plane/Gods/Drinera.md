@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skoria/worldbuilding/nether-plane/gods/drinera/","noteIcon":"Deity","created":"2023-06-03T20:22:00.124+02:00","updated":"2023-06-03T20:47:20.557+02:00"}
+{"dg-publish":true,"permalink":"/skoria/worldbuilding/nether-plane/gods/drinera/","noteIcon":"Deity","created":"2023-06-06T00:06:23.975+02:00","updated":"2023-06-06T00:27:29.121+02:00"}
 ---
 
 ### Drinera
