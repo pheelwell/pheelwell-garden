@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-todo/","title":"Todo"}
+{"dg-publish":true,"permalink":"/public-todo/","title":"Todo","created":"2023-04-18","updated":""}
 ---
 
 
