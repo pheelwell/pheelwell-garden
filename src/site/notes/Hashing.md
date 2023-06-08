@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hashing/","title":"Hashing","tags":["cloudcomputing"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/hashing/","title":"Hashing","tags":["cloudcomputing"],"noteIcon":"","created":"","updated":""}
 ---
 
 
