@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/skoria/worldbuilding/material-plane/the-basin/regions/herbstbog/herbstbog/","title":"Herbstbog","noteIcon":"Settlement","created":"2023-01-25T02:26:53.385+01:00","updated":"2023-05-24T23:10:53.573+02:00"}
+dg-publish: true
+title: Herbstbog
+type: Settlement
 ---
-
 
 
 *The city of Herbstbog, a beacon of magical knowledge and trade, stands proud with its autumnal trees that never change color. Its streets descend towards the bustling harbor, where the echoes of sailors and merchants fill the air. The city holds many secrets, some sought by those who wish to uncover the truth or gain power, others hidden away to protect the innocent.*
