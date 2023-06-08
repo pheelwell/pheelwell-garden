@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barnum-effect/","title":"Barnum Effect","tags":["misc","skepticism","psychology","adages"],"created":"2023-05-07","updated":""}
+{"dg-publish":true,"permalink":"/barnum-effect/","title":"Barnum Effect","tags":["misc","skepticism","psychology","adages"],"noteIcon":"","created":"2023-05-07","updated":""}
 ---
 
 
