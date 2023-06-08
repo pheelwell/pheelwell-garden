@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ikea-effect/","title":"Ikea Effect","tags":["bias","psychology"]}
+{"dg-publish":true,"permalink":"/ikea-effect/","title":"Ikea Effect","tags":["bias","psychology"],"created":"2022-07-24","updated":""}
 ---
 
 
