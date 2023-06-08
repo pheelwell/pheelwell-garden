@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/normal-distribution/","title":"Normal Distribution","tags":["research"]}
+{"dg-publish":true,"permalink":"/normal-distribution/","title":"Normal Distribution","tags":["research"],"created":"2023-05-10","updated":""}
 ---
 
 
