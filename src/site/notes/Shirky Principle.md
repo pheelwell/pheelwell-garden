@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shirky-principle/","title":"Shirky's Principle","tags":["adages"]}
+{"dg-publish":true,"permalink":"/shirky-principle/","title":"Shirky's Principle","tags":["adages"],"created":"2023-05-12","updated":""}
 ---
 
 
