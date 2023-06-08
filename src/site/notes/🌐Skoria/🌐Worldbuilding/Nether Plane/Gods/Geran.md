@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skoria/worldbuilding/nether-plane/gods/geran/","noteIcon":"Deity","created":"2023-06-03T20:22:00.134+02:00","updated":"2023-06-03T20:49:34.958+02:00"}
+type: Deity
+sum:
+- Title: Brother of Oceans 
+- Domain: Water 
+- Associated Element: Calmness 
+- Virtue: Friendship 
+dg-publish: true
 ---
-
 ### Geran
 - Title: Brother of Oceans 
 - Domain: Water 
