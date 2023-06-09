@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adages/","title":"Adages","tags":["adages,meta,tagpage"],"noteIcon":"","created":"2023-05-13","updated":""}
+{"dg-publish":true,"permalink":"/adages/","title":"Adages","tags":["adages,meta,tagpage"],"created":"2023-05-13","updated":""}
 ---
 
 
