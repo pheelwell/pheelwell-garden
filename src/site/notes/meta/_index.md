@@ -14,7 +14,7 @@ This contains (or will contain) a lot of resources, my thoughts and opinion on a
   
 You'll find writings of all kinds here; Psychology, Epistemology, Politics, Tech, and everything under the sun. (You will also find a lot of broken links and dead-ends or stub articles. It's a work in progress, perpetually.)
 
->[!warning]
+>[!warning] Attention!
 >Some things here might not apply to you, might be wrong, or straight up silly. I'd love to hear your opinions, though! And this is the Internet, so do use your due diligence, and do your research.
   
 Leave a message if you feel like you disagree, I could do better, or something else. Feel free to correct me, I love learning ^~^)
