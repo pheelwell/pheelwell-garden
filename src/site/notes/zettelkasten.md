@@ -1,12 +1,12 @@
 ---
-title: "Zettelkasten"
-tags: ['philosophy', 'tool']
+{"dg-publish":true,"permalink":"/zettelkasten/","title":"Zettelkasten","tags":["philosophy","tool"],"created":"","updated":""}
 ---
+
 
 ## Quick Facts
 - *Zettelkasten Method* is a method of note-taking and organization. It is German for *"slip box"*. 
-- Popularized by Niklas Luhmann[^1]. 
-- Great for building a [[second brain]] 
+- Popularized by Niklas Luhmann[^1]
+- Great for building a [[second brain\|second brain]] 
 - Can help find connections between notes
 - Useful for thinking more broadly by not confining your notes to a subject 
 ---
@@ -15,7 +15,6 @@ So basically, the Zettelkasten Method relies on interconnectivity of information
 
 ## Luhmann's Zettelkasten - The Method in His Words
 Luhmann used a physical box of cards. Made 90,000+ handwritten notes. 
-
 Some of Luhmann's comments on the method (emboldening by me) - 
 
  “Underlying the filing technique is the experience that **without writing, there is no thinking.**”
@@ -53,4 +52,4 @@ The core of the technique lies in a few simple principles:
 
 [^1]: - Niklas Luhmann was a sociologist and a prolific writer having published as many as 70 books and nearly 400 scholarly articles. His main work was in Systems Theory. Luhmann himself described his theory as "labyrinthine" or "non-linear" and claimed he was deliberately keeping his prose enigmatic to prevent it from being understood "too quickly", which would only produce simplistic misunderstandings!
 
-[^2]: - Personal note - This is what helped me the most and why I find this method pretty much life-changing. It has changed the way I process things, the way I learn things. This way, I've been more [[mindfulness|mindful]] of what I'm reading, what is important. As a result, I've been able to retain more. 
+[^2]: - Personal note - This is what helped me the most and why I find this method pretty much life-changing. It has changed the way I process things, the way I learn things. This way, I've been more [[mindfulness\|mindful]] of what I'm reading, what is important. As a result, I've been able to retain more. 
