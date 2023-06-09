@@ -13,7 +13,7 @@ _**Here Comes Everybody: The Power of Organizing Without Organizations**_ (2008)
 
 [[read later\|read later]] - the book
 
-[[external/Love Internet Style\|external/Love Internet Style]] 
+[[private/external/Love Internet Style\|private/external/Love Internet Style]] 
 
 theory of [[mass amateurization\|mass amateurization]]
 
