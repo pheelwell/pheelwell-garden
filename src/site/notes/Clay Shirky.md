@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clay-shirky/","title":"Clay Shirky","tags":["person","computer","internetculture","social","writer"],"noteIcon":"","created":"2023-05-13","updated":""}
+{"dg-publish":true,"permalink":"/clay-shirky/","title":"Clay Shirky","tags":["person","computer","internetculture","social","writer"],"created":"2023-05-13","updated":""}
 ---
 
 
