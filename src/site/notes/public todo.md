@@ -3,7 +3,7 @@
 ---
 
 
-[[_index\|(<--home)]]
+[[meta/_index\|(<--home)]]
 
 This is my public todo list to kinda help with being transparent + keeping track of what I need to do + keeping myself accountable 
 
