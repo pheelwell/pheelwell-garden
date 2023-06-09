@@ -26,6 +26,16 @@ This is my public todo list to kinda help with being transparent + keeping track
 
 # \-
 
+    - [ ] Add citations to existing notes
+        - [ ] start with larger notes, start with more "grandiose" claims
+    - [ ] Clean up notes 
+    - [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved
+        - [ ] 
+    - [-] Turn this page into a Kanban board
+    - [ ] work on #stub pages 
+    - [ ] FIX SPACING AND LINE BREAK ISSUE
+    - [ ] dashboard
+    - [ ] add this to homepage
     - [ ] Finagle's law
     - [ ] Gell-Mann Amnesia effect ✅ 2023-05-26 
     - [ ] Gibson's law
@@ -41,15 +51,5 @@ This is my public todo list to kinda help with being transparent + keeping track
     - [ ] Russell's teapot
     - [ ] Problem of Evil
     - [ ] Argument map
-    - [ ] Add citations to existing notes
-        - [ ] start with larger notes, start with more "grandiose" claims
-    - [ ] Clean up notes 
-    - [ ] Add a system to review notes and literature and see if they hold good/if it has been disproved
-        - [ ] 
-    - [-] Turn this page into a Kanban board
-    - [ ] work on #stub pages 
-    - [ ] FIX SPACING AND LINE BREAK ISSUE
-    - [ ] dashboard
-    - [ ] add this to homepage
 
 { .block-language-dataview}
