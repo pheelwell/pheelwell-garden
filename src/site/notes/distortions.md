@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/distortions/","title":"Cognitive Distortions","tags":["psychology","tools"],"noteIcon":"","created":"2022-07-29","updated":""}
+{"dg-publish":true,"permalink":"/distortions/","title":"Cognitive Distortions","tags":["psychology","tools"],"created":"2022-07-29","updated":""}
 ---
 
 
