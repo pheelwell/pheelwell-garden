@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiios-laws/","title":"Wiio's Laws","tags":["social","communication","adages"],"noteIcon":"","created":"2023-05-12","updated":""}
+{"dg-publish":true,"permalink":"/wiios-laws/","title":"Wiio's Laws","tags":["social","communication","adages"],"created":"2023-05-12","updated":""}
 ---
 
 
