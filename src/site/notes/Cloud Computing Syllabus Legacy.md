@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloud-computing-syllabus-legacy/","title":"Sem IV Cloud Computing Syllabus","tags":["cloudcomputing","syllabus","legacy","2023"],"noteIcon":"","created":"2023-05-04","updated":""}
+{"dg-publish":true,"permalink":"/cloud-computing-syllabus-legacy/","title":"Sem IV Cloud Computing Syllabus","tags":["cloudcomputing","syllabus","legacy","2023"],"created":"2023-05-04","updated":""}
 ---
 
 
