@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing-page/","title":"Index","pinned":true,"tags":["dg-garden-entry","garden-entry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/landing-page/","title":"Index","pinned":true,"tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
