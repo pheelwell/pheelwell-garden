@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/colour-theory/","title":"Colour Theory","tags":["graphicdesign"],"noteIcon":"","created":"2023-05-12","updated":""}
+{"dg-publish":true,"permalink":"/colour-theory/","title":"Colour Theory","tags":["graphicdesign"],"created":"2023-05-12","updated":""}
 ---
 
 
